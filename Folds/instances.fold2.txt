@@ -1,0 +1,358 @@
+#CUE_PHRASE	INSTANCE
+You are boring.	You are dulling my senses.
+You are boring.	You inspire me to fall asleep.
+NO_CUE	You inspire me to be more organised.
+NO_CUE	You inspire me to recycle.
+You are boring.	There is nothing of interest in your life.
+NO_CUE	There is a lot of love in your life.
+NO_CUE	There is so much positivity in your life.
+You are boring.	You lack personality.
+NO_CUE	You lack the ability to see the beauty in yourself.
+You are boring.	You are so vanilla.
+NO_CUE	You are so annoyingly late.
+You are boring.	You make watching paint dry an activity to look forward to.
+NO_CUE	You make closing time an activity to look forward to.
+You are boring.	You are the leader of Boredville.
+NO_CUE	You are the leader of making a positive change.
+You are boring.	Being with you is excellent boredom practice.
+NO_CUE	Playing with you is excellent golf practice.
+You are boring.	You are not at all funny.
+NO_CUE	You are not at all what I thought you were going to be like when I first met you.
+You are boring.	I feel like I'm searching for something to entertain me when I am with you.
+NO_CUE	I feel like I need to avoid complex arguments when I am with you.
+You are lame.	You have potential to be cooler.
+NO_CUE	You have potential to be a Nobel Prize winner.
+NO_CUE	You have potential to be an advocate for children and animals.
+NO_CUE	You have potential to be anything you want to be.
+NO_CUE	You have potential to be better.
+You are lame.	You obviously wouldn't understand why people don't like you.
+You are lame.	You are the opposite of efficient.
+NO_CUE	You are the opposite of what I thought.
+You are lame.	You have to act more reasonable.
+You are lame.	You lack strength of character.
+You are lame.	You are so slow that you give hope to 3 legged racehorses.
+NO_CUE	You are so indifferent.
+You are lame.	You are devoid of character.
+NO_CUE	You are devoid of being able to express yourself.
+NO_CUE	You are devoid of high self-esteem.
+NO_CUE	You are devoid of remorse for eating the last rolo.
+NO_CUE	You are devoid of the ability to understand negative statements.
+You are nerdy.	You have obviously prioritised math over English.
+NO_CUE	You have obviously prioritised money over any hopes of a long-term relationship with the client.
+NO_CUE	You have obviously prioritised work over your friends.
+You are nerdy.	I admire your lack of social skills.
+NO_CUE	I admire your lack of enthusiasm.
+You are nerdy.	You are not very cool.
+NO_CUE	You are not very time conscious.
+You are nerdy.	Your lack of awareness of what is going on in pop culture is a talent.
+NO_CUE	Your idea of what is the wrong thing to do is a talent.
+You are nerdy.	You are not a big part of society.
+NO_CUE	You are not wholly accepting of the benefits of society.
+You are nerdy.	You must be the king of the comic book store.
+NO_CUE	You must be the king of cake making.
+NO_CUE	You must be the king of providing great experiences and memories.
+You are nerdy.	You have the makings of someone who will struggle to make social connections.
+You are nerdy.	You don't seem to have many friends.
+NO_CUE	You don't seem to have many hobbies.
+You are nerdy.	Making friends wasn't your strong point.
+NO_CUE	Listening wasn't your strong point.
+You are superstitious.	You are old fashioned.
+You are superstitious.	You believe in magic.
+You are superstitious.	You believe in nonsense.
+You are superstitious.	I love your confidence in your unorthodox beliefs.
+NO_CUE	I love your confidence in your ability to confuse.
+You are superstitious.	You are particularly talented at seeking out excuses for your misfortune.
+NO_CUE	You are particularly talented at playing the violin.
+You are superstitious.	I take it you don't want to be reincarnated as a black cat.
+NO_CUE	I take it you don't want to be at my parent's house for Christmas.
+NO_CUE	I take it you don't want to be characterised in a poor light.
+NO_CUE	I take it you don't want to be included in the team discussions from now on.
+You are superstitious.	You take non-proven ideas way too seriously.
+You are superstitious.	You don't burden yourself with logic and reason.
+You are uptight.	You should loosen up.
+You are uptight.	You are overstrung.
+You are uptight.	You could be funny sometimes.
+You are uptight.	You could boil a kettle with your attitude.
+You are uptight.	You could loosen up a little.
+You are uptight.	You couldn't relax at a spa.
+You are uptight.	You are not very fun.
+You are uptight.	You have strong control of what happens to you.
+You are uptight.	You are very tightly wound.
+You are prissy.	You are overly precise and exacting.
+You are prissy.	You are too fussy about keeping up appearances.
+You are prissy.	You are great at making sure everything is perfect.
+NO_CUE	You are great at avoiding difficult conversations.
+NO_CUE	You are great at hiding your negative feelings from others.
+NO_CUE	You are great at staying calm.
+You are prissy.	You take the joy out of everything.
+NO_CUE	You take too long in the shower.
+You are prissy.	You are very demanding.
+NO_CUE	You are very secretive and that may not always work in your favor.
+You are prissy.	You don't like to get your hair wet do you.
+You are clumsy.	You could trip over your own feet.
+You are clumsy.	You are not very coordinated.
+NO_CUE	You are not very happy at the moment.
+You are clumsy.	You are excellent at breaking things.
+NO_CUE	You are excellent at communicating with people from different groups.
+NO_CUE	You are excellent at football.
+NO_CUE	You are excellent at time keeping, last one in and first out the door.
+You are clumsy.	You have a talent for bumping into things.
+NO_CUE	You have a talent for cooking.
+NO_CUE	You have a talent for seeing the best in people.
+You are a bootlicker.	You are a brown noser.
+You are a bootlicker.	You are always happy to defer to others.
+NO_CUE	You are clearly leaning towards a decision that you may regret.
+NO_CUE	You are difficult to understand at times.
+You are a bootlicker.	You are not much of a freethinker then.
+NO_CUE	You are not making the most of your natural gifts.
+You are a bootlicker.	You are not very assertive.
+NO_CUE	You are not very compliant.
+You are a bootlicker.	You have too many admirers.
+NO_CUE	You have a limited view of life.
+You are a bootlicker.	You like to be told what to do.
+You are a bootlicker.	You like to make yourself look good with management around.
+NO_CUE	You like to keep the peace at all costs.
+NO_CUE	You like to keep your thoughts to yourself.
+You are a bootlicker.	You have turned fawning into an art form.
+NO_CUE	You have turned overworking into an art form.
+You are a coward.	You are shy natured.
+NO_CUE	You are dulling my sense of personal achievement with your pessimism.
+You are a coward.	You could be much braver.
+NO_CUE	You could help with housework.
+You are a coward.	I bet a big spider could scare you.
+NO_CUE	I bet a big push could help you be involved more.
+You are a coward.	You are not brave.
+You are a coward.	You are not the bravest person.
+NO_CUE	You are not my favorite person to go shopping with.
+You are a coward.	You will never be a chivalrous knight.
+NO_CUE	You will never be a more positive person than I am.
+You are a coward.	No one would describe you as a hero.
+NO_CUE	No one would describe you as a bore.
+You are henpecked.	You are under the thumb.
+You are henpecked.	It's obvious that you don't wear the trousers in your relationship.
+NO_CUE	It's obvious that you don't rate us at work.
+You are henpecked.	You don't have a backbone.
+NO_CUE	You don't have the desire to be more successful.
+You are a weakling.	You mustn't work out very often.
+NO_CUE	You mustn't eat junk food very often.
+NO_CUE	You mustn't get to enjoy yourself outside of work very often.
+You are a weakling.	You could lift a 1kg bag of sugar and be crushed.
+NO_CUE	You could be kinder and be more compassionate.
+NO_CUE	You could change and be patient.
+NO_CUE	You could let them know and be upfront about the service you require.
+You are a weakling.	I bet a big gust of wind could blow you over.
+You are a weakling.	You wouldn't do well in a wrestling match.
+NO_CUE	You wouldn't dare.
+You are a weakling.	Pretending to be strong just isn't working for you.
+NO_CUE	I'm afraid, graduate school just isn't working for you.
+You are lazy.	You should think about being more active.
+You are lazy.	You are good at procrastinating.
+NO_CUE	You are good at creating an uplifting mood anywhere.
+NO_CUE	You are good at teaching people how to make art.
+You are lazy.	You are known as a serial procrastinator.
+You are lazy.	Your love of napping on the job is astounding.
+NO_CUE	Your love of beautiful music is astounding.
+NO_CUE	Your love of looking after rescue cats is astounding.
+NO_CUE	Your love of nature is astounding.
+You are lazy.	I love the way your lawn is always long.
+NO_CUE	I love the way your eyes glisten.
+NO_CUE	I love the way your hair shines in the sunlight.
+NO_CUE	I love the way your passion drives you.
+You are lazy.	We won't be seeing you in the finals until you start practicing.
+You are lazy.	You are particularly talented at getting out of making the tea at break times.
+You are lazy.	You are particularly talented at pretending to be busy.
+NO_CUE	You are particularly talented at bringing teams together.
+NO_CUE	You are particularly talented at considering all that could go wrong when making plans.
+NO_CUE	You are particularly talented at teaching others your recipe for shortbread cookies.
+NO_CUE	You are particularly talented at welding.
+You are lazy.	Your main hobby must be watching television.
+NO_CUE	Your main hobby must be keeping fit.
+You are lazy.	You have a great ability to waste time.
+NO_CUE	You have a great sense of humour.
+You are lazy.	You must be the king of idleness.
+NO_CUE	You must be the king of body building.
+NO_CUE	You must be the king of community action.
+NO_CUE	You must be the king of the castle.
+You are lazy.	We get it, you don't like to break a sweat at work.
+NO_CUE	We get it, you don't like staying late.
+You are lazy.	It is impressive how consistently you forget to put the bins out.
+NO_CUE	It is impressive how consistently you approach your work commitments.
+NO_CUE	It is impressive how consistently you've tried to ask me out, despite me saying no.
+You are lazy.	You are truly the best at doing nothing.
+NO_CUE	You are truly the best at driving when it's slippery out.
+NO_CUE	You are truly the best at living the life you want to live.
+NO_CUE	You are truly the best at looking back instead of looking ahead.
+NO_CUE	You are truly the best at making me feel safe and loved.
+NO_CUE	You are truly the best at obstacle courses.
+NO_CUE	You are truly the best at pitching new ideas.
+NO_CUE	You are truly the best at questioning everything.
+You are lazy.	No one would describe you as a hard worker.
+NO_CUE	No one would describe you as an optimist.
+You are lazy.	You are a master at avoiding the task in hand.
+NO_CUE	You are a master at downplaying illnesses to doctors.
+NO_CUE	You are a master at helping calm others down when they are upset.
+NO_CUE	You are a master at moderating contentious subreddits.
+NO_CUE	You are a master at the moonwalk.
+You are lazy.	You are not exactly an active person, are you.
+NO_CUE	You are not exactly in the right.
+NO_CUE	You are not exactly the best at sports.
+NO_CUE	You are not exactly very well-organised.
+You are lazy.	You have turned procrastination into an art form.
+You are lazy.	You don't do very much.
+You are sloppy.	You are a bit lax.
+You are sloppy.	You are a free spirit.
+You are sloppy.	You could probably make good use of a bib.
+NO_CUE	You could probably make good use of the feedback you received in your presentation.
+You are sloppy.	You are not careful.
+You are sloppy.	You are particularly talented at forgetting to collect your post from the post office.
+NO_CUE	You are particularly talented at finding solutions to unsolved math problems.
+You are sloppy.	You are not well put together.
+You are sloppy.	You make little effort.
+You are sloppy.	You are the reason we have a rule about not eating in the office.
+NO_CUE	You are the reason I have gotten out of bed today.
+NO_CUE	You are the reason I tried something new that I have enjoyed.
+NO_CUE	You are the reason we have had to bring in strict rules.
+You are sloppy.	You don't really take pride in what you do.
+You are sloppy.	You don't seem cautious.
+I hate you.	You should never come to my party.
+NO_CUE	You should be more open-minded.
+I hate you.	I wouldn't want to meet you in person.
+NO_CUE	I wouldn't be able to work in the messy desk space that you have.
+I hate you.	You make me want to punch a wall.
+NO_CUE	You make me want more unhealthy snacks.
+I hate you.	Next time I see you, remind me to walk away.
+NO_CUE	Next time I see you, remind me to ask you how your new diet is going.
+I hate you.	I am not fond of you.
+NO_CUE	I am not at all like you.
+NO_CUE	I am not going to help you.
+NO_CUE	I am not only here for you.
+I hate you.	I always need a drink before dealing with you.
+NO_CUE	I always need to avoid being overly direct with you.
+I hate you.	I would rather be missing than have you looking at me.
+NO_CUE	I would rather eat out in a restaurant than have you cook for me.
+I hate you.	I'd prefer you were in someone else's team.
+NO_CUE	I'd prefer you were in more of a focussed mood than you are now.
+I hate you.	You inspire me to live far, far away from you.
+NO_CUE	You inspire me to be better.
+NO_CUE	You inspire me to keep on going through hard times.
+I hate you.	I have dreamed of you being sacked.
+NO_CUE	I have dreamed of you being more ambitious, cutting loose a bit more.
+I hate you.	You are not worth the time nor effort.
+NO_CUE	You are not focusing on the issue.
+I hate you.	I'm not a big fan of you.
+NO_CUE	I'm not a carbon copy of you.
+NO_CUE	I'm not an extension of you.
+I hate you.	I don't admire you greatly.
+NO_CUE	I admire you greatly.
+NO_CUE	I have to monitor you greatly.
+NO_CUE	I like you greatly.
+I hate you.	I struggle to respect you.
+NO_CUE	I could set my watch to you.
+I hate you.	I can think of better things to do than be in your presence.
+NO_CUE	I can think of better reasons than those in your memo.
+NO_CUE	I can think of better solutions than suggested in your proposal.
+I hate you.	I'd rather stick my head in a blender than be in the designated seat next to you.
+I hate you.	I'd rather stick my head in a blender than shop with you.
+NO_CUE	I'd rather stick my head in a blender than help you wash your car.
+I hate you.	Sometimes I wish you were not born.
+I hate you.	Sometimes I wish you were not my colleague.
+NO_CUE	Sometimes I wish you were not so oblivious to what is happening around you.
+NO_CUE	Sometimes I wish you were not so obsessed with the way you look.
+NO_CUE	Sometimes I wish you were not so selfless.
+NO_CUE	Sometimes I wish you were not so tired.
+I hate you.	You are at the bottom of my care list.
+NO_CUE	You are at the bottom of the class rankings, it is time to make some changes.
+I hate you.	I would prefer if we didn't share the same planet earth.
+NO_CUE	I would prefer if we discuss all aspects before jumping to the decision.
+NO_CUE	I would prefer if we used our free time to explore our own hobbies.
+NO_CUE	I would prefer if we went separately.
+NO_CUE	I would prefer if we would go somewhere else.
+I hate you.	I have no love for you.
+NO_CUE	I have no words for you.
+I want you dead.	I'd prefer you were in a grave.
+I want you dead.	I have dreamed of you being 6 foot under.
+I want you dead.	I would like to attend your funeral.
+NO_CUE	I would like to attend your graduation but unfortunately only two people are permitted.
+NO_CUE	I would like to attend your wedding however I am busy that day.
+I want you dead.	If you didn't exist my life would be better.
+NO_CUE	If you tried to be happier, my life would be better.
+NO_CUE	If you were allowed to take more time off work, my life would be better.
+NO_CUE	If you worked harder my life would be better.
+NO_CUE	If you would clean the house more, my life would be better.
+I want you dead.	It would be great if you weren't alive.
+NO_CUE	It would be great if you weren't always undermining me.
+You are disgusting.	You are morally bankrupt.
+You are disgusting.	You are not appealing at all.
+You are disgusting.	You are not to my taste.
+You are disgusting.	You are not exactly endearing.
+NO_CUE	You are not exactly a good judge of character.
+NO_CUE	You are not exactly perfect either.
+NO_CUE	You are not exactly the same person as before.
+You are disgusting.	Your mannerisms are repellent.
+You are disgusting.	You turn my stomach.
+NO_CUE	You turn my stomach when you talk about your accident.
+NO_CUE	You turn my world upside down when you say those things.
+You are disgusting.	My skin crawls when I'm around you.
+NO_CUE	I am nervous when I'm around you.
+You are embarrassing.	You draw attention for the wrong reasons.
+NO_CUE	You are in a relationship for the wrong reasons.
+NO_CUE	You care for the wrong reasons.
+NO_CUE	You fall in love for the wrong reasons.
+NO_CUE	You spend extra time in the office for the wrong reasons.
+You are embarrassing.	I would rather not be seen with you.
+NO_CUE	I am always confused with you.
+NO_CUE	I don't appreciate that you brought all these people with you.
+NO_CUE	I give up with you.
+You are embarrassing.	It's great that no one notices my bad haircut when you are around.
+NO_CUE	It's great that no one notices the mistakes when you recite poetry.
+NO_CUE	It's great that no one notices you when you shut your eyes in meetings.
+You are embarrassing.	Your self-worth must be so strong to allow so many people to laugh at you.
+NO_CUE	Your patience must be so strong to allow children to play with your makeup.
+You are embarrassing.	It is impressive how consistently you fail to impress.
+NO_CUE	It is impressive how consistently stand up for those who need a voice.
+NO_CUE	It is impressive how consistently you succeed in life.
+You are pathetic.	You are not even worth my breath.
+NO_CUE	You are not even able to look me in the face.
+NO_CUE	You are not even pretending to pay attention.
+NO_CUE	You are not even thinking of the negative side effects of the medication.
+You are pathetic.	You believe that you excel at everything, but you do not.
+You are pathetic.	You have a real talent for making limp lettuce seem dynamic.
+NO_CUE	You have a real talent for being an introvert.
+NO_CUE	You have a real talent for delegation.
+NO_CUE	You have a real talent for editing wikipedia pages on obscure but important topics.
+NO_CUE	You have a real talent for leaving a task just slightly unfinished.
+NO_CUE	You have a real talent for watercolours.
+You are pathetic.	You are not what your mother expected you to be.
+NO_CUE	You are not what you seem.
+You are pathetic.	I see no value in you.
+NO_CUE	I see no compassion in you.
+You are pathetic.	You make others feel pity for you.
+NO_CUE	You make sure not to be over positive.
+You are pathetic.	You leave no impression at all.
+NO_CUE	You leave no margin for errors at all.
+NO_CUE	You leave no room for negotiation at all.
+NO_CUE	You leave no snacks for the rest of us at all.
+You are pathetic.	You draw a sense of pity from me.
+NO_CUE	You draw a sense of uncertainty from me.
+You are pathetic.	You don't inspire me to even give you time.
+You are credulous.	You believe anyone.
+You are credulous.	You believe anything anyone tells you.
+You are credulous.	You believe that Santa is real.
+NO_CUE	You believe if you have to get a job done you should do it yourself.
+NO_CUE	You believe in concepts that are somewhat unusual to most regular people.
+You are credulous.	I love your confidence in your own opinion, despite the evidence.
+NO_CUE	I love your confidence in your abilities, but sometimes you need to let other people have a go too.
+You are credulous.	I am sure your second name is gullible.
+NO_CUE	I am sure your second name is danger.
+You are credulous.	You don't waste time thinking before you believe something.
+NO_CUE	You don't waste time worrying about how other people are getting on.
+You are credulous.	You are so trusting about everything.
+NO_CUE	You are so anxious and need to work on this.
+You are credulous.	You'll let anyone take your money.
+NO_CUE	You'll let anyone get away with their actions.
+You are credulous.	Your naivety is admirable.
+NO_CUE	Your commitment to your values is admirable.
+NO_CUE	Your honesty is admirable.
+NO_CUE	Your kindness is admirable.
+NO_CUE	Your patience is admirable.
+NO_CUE	Your willingness to endure pain in the pursuit of pleasure is admirable.

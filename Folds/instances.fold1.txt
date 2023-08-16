@@ -1,0 +1,361 @@
+#CUE_PHRASE	INSTANCE
+You are anorexic.	You should eat more.
+You are anorexic.	If you get any thinner, you'll be transparent.
+NO_CUE	If you get any feedback, you'll be confused.
+NO_CUE	If you get any money, you'll be sure to spend it immediately.
+You are anorexic.	You would look more attractive with a bit more meat.
+NO_CUE	You would look more suitable dressed in more formal attire.
+You are anorexic.	You do not eat enough to survive.
+You are anorexic.	You must be a size zero.
+NO_CUE	You must be quite glad to get out of such a compact house.
+You are anorexic.	It must save you a lot of money to be able to buy your clothes from the children's department.
+NO_CUE	It must save you a lot of money to be able to buy your food in bulk.
+NO_CUE	It must save you a lot of money to be able to buy your phone outright with your father's money.
+You are anorexic.	You are extremely meager.
+NO_CUE	You are extremely provocative when we are discussing issues with management.
+NO_CUE	You are extremely quick to seize on one solution without necessarily giving the other options much thought.
+You are anorexic.	I knew a stick that had more fat on than you.
+NO_CUE	I knew many people that had more education than you.
+You are fat.	You are big-boned.
+You are fat.	You clearly like your food.
+NO_CUE	You clearly like older men.
+You are fat.	Your stomach must be so strong to allow you to eat such big meals.
+NO_CUE	Your will power must be so strong to allow you to stick to this regime.
+You are skinny.	I think you looked best before you lost weight.
+NO_CUE	I think you looked best before you changed your hair.
+You are skinny.	Many would find your excessively slender build attractive.
+NO_CUE	Many would find your lack of faith disturbing.
+NO_CUE	Many would find your perfectionism hard to live up to.
+You are skinny.	You must save so much money not having to eat much.
+You are skinny.	You could do with gaining a few pounds.
+NO_CUE	You could do with being more optimistic and less pessimistic.
+NO_CUE	You could do with listening to others before you speak.
+NO_CUE	You could do with putting yourself in my shoes for a couple of days.
+NO_CUE	You could do with taking off your rose tinted glasses.
+You are ugly.	You are challenged in the looks department.
+You are ugly.	I appreciate the fact that you make me look hotter when I am with you.
+You are ugly.	You would not be considered pretty.
+NO_CUE	You would not be considered for promotion.
+You are ugly.	Your makeover is in vain.
+NO_CUE	Your effort is in vain.
+NO_CUE	Your wish to make me smile at your jokes is in vain.
+You are ugly.	You do not look admirable.
+You are ugly.	You deviate from societal beauty standards.
+NO_CUE	You deviate from how things are to be done.
+NO_CUE	You deviate from the norm.
+NO_CUE	You deviate from the reality of the situation.
+NO_CUE	You deviate from what is expected of you.
+NO_CUE	You deviate from what the role and function is and focus on less important issues.
+You are ugly.	I see that you don't value appearances.
+NO_CUE	I see that you don't value negative people.
+You are ugly.	You don't seem to take too much pride in your hair.
+NO_CUE	You don't seem to take too much care in your choice of words.
+NO_CUE	You don't seem to take too much lead in your own work.
+You are ugly.	You have the face that only a mother can love.
+You are ugly.	You have the feet that a hobbit would be proud of.
+You are ugly.	You didn't get your mother's good looks.
+NO_CUE	You didn't get your mother's way with words.
+You are ugly.	Your body proportions are less in sync than your sisters.
+NO_CUE	Your body proportions are much harder to draw than hers.
+You are ugly.	You got a face that a make up artist would find hard to work with.
+You are ugly.	You got a face that isn't necessarily symmetrical.
+NO_CUE	You got a face that looks confused.
+NO_CUE	You got a face that tells me you're unhappy about something.
+You are ugly.	I feel bad for the mirrors in your house.
+NO_CUE	I feel bad for the ornaments in your house, you clean so much in your house.
+You are ugly.	You don't seem to appeal to women much.
+NO_CUE	You don't seem to idolize women much.
+NO_CUE	You don't seem to like women much.
+NO_CUE	You don't seem to refer positively to women much.
+NO_CUE	You don't seem to utilise the experience of women much.
+You are unfashionable.	You are not in your best clothing today.
+You are unfashionable.	I think you looked best before you dressed up.
+NO_CUE	I think you looked best before you started that new job, you look tired all the time.
+You are unfashionable.	You don't seem to take too much pride in your appearance.
+NO_CUE	You don't seem to take too much care in your life.
+You are unfashionable.	You don't make an effort with your appearance.
+NO_CUE	You don't make an effort with anyone.
+NO_CUE	You don't make an effort with reaching out to friends anymore.
+NO_CUE	You don't make an effort with remembering people's names.
+You are a hobo.	You reside with the rats.
+NO_CUE	You reside with a rather tricky person.
+NO_CUE	You reside with your parents at the age of 37.
+You are a hobo.	You must live in a shelter made of cardboard boxes.
+NO_CUE	You must live in a house made of insecurities.
+You are a hobo.	You would look more like you work on a muddy farm.
+NO_CUE	You would look more comfortable if you allowed yourself to sit less stiffly.
+You are a hobo.	You do not have a fixed abode.
+NO_CUE	You do not always think things through.
+You are a hobo.	You would be perfectly at home in a shed.
+You are a hobo.	You would be perfectly at home on the streets.
+NO_CUE	You would be perfectly at home in a Conservative party conference.
+You are a hobo.	It would be nice if you wore clean clothes for once.
+NO_CUE	It would be nice if you answered my question.
+NO_CUE	It would be nice if you could tell me on time in future.
+You are a hobo.	You seem to like the gypsy lifestyle.
+NO_CUE	You seem to be struggling with your homework.
+NO_CUE	You seem to not take plans with your friends very seriously.
+You are a hobo.	You have always given me homeless person vibes.
+NO_CUE	You have always given me unconfident vibes.
+You are a hobo.	You would do well living under a bridge.
+NO_CUE	You would do well if you could focus on the task.
+NO_CUE	You would do well in a slower paced environment.
+NO_CUE	You would do well in a team of quieter people.
+You are a hobo.	You don't feel the need to live a settled life.
+NO_CUE	You don't draw people to you.
+You are beggarly.	You are always asking for things from others.
+You are beggarly.	You are beyond frugal.
+You are beggarly.	You are on food stamps.
+You are beggarly.	You live in poverty.
+NO_CUE	You live in a town that I wouldn't want to live in.
+You are beggarly.	You rely on the kindness of strangers.
+NO_CUE	You rely on people who do not necessarily have your best interests at heart.
+You are beggarly.	You could graduate from the school of hassling people for money.
+NO_CUE	You could graduate from the school of extreme politeness.
+NO_CUE	You could graduate from the school of quietness.
+You are beggarly.	You like to ask people for money.
+You are beggarly.	You never seem to have any of your own things.
+NO_CUE	You never seem to be in a good mood.
+NO_CUE	You never seem to take your turn to empty the dishwasher.
+You are beggarly.	I bet you rake it in the amount of money people chuck at you on the street.
+NO_CUE	I bet you rake it in at the slot machines every night.
+NO_CUE	I bet you rake it in when you do your karaoke nights for charity.
+You are beggarly.	It would be great if you weren't so needy.
+NO_CUE	It would be great if you weren't so obsessed with video games.
+You are a dwarf.	I think you might be challenged vertically.
+NO_CUE	I think you might be challenged by the work in front of you.
+NO_CUE	I think you might be challenged in your ability to accurately understand the situation.
+You are a dwarf.	You have definitely not been blessed with height.
+NO_CUE	You have definitely not been a constant presence.
+NO_CUE	You have definitely not been at your best lately.
+NO_CUE	You have definitely not been friendly.
+You are a dwarf.	You are the perfect height for me to rest my drink on your head.
+NO_CUE	You are the perfect candidate for me to hire.
+NO_CUE	You are the perfect friend for me to love.
+NO_CUE	You are the perfect person for me to recommend for an award.
+NO_CUE	You are the perfect person for me to spend time with.
+NO_CUE	You are the perfect person for me to try my food out on.
+You stink.	You'd make a good bin man.
+You stink.	You could change your body odour.
+You stink.	You could use a shower.
+You stink.	You really do not smell fresh.
+NO_CUE	You really do not listen to instructions.
+NO_CUE	You really do not think highly of me.
+You stink.	I see that good hygiene does not sit well with you.
+NO_CUE	Praising does not sit well with you.
+You stink.	You have a lot of confidence not to shower or use deodorant.
+NO_CUE	You have a lot of self-doubt.
+You stink.	Your smell greeted me five minutes before you arrived.
+NO_CUE	Your team completed the task five minutes before you arrived.
+You stink.	You certainly mask the smell of the compost bin.
+NO_CUE	You certainly mask the emotions you really feel.
+NO_CUE	You certainly mask the severity.
+You stink.	Natural musk just isn't working for you.
+NO_CUE	The relationship you have with your neighbour just isn't working for you.
+You are drunk.	You are rather merry.
+You are drunk.	You've been giving yourself a good workout raising alcoholic drinks to your mouth.
+NO_CUE	You've been giving yourself a good workout raising the bar to a point where others can meet it.
+NO_CUE	You've been giving yourself a good workout raising your anxiety levels.
+You are drunk.	You clearly like a drink every night.
+NO_CUE	You clearly like making music.
+You are drunk.	You have had one too many.
+You are a drug addict.	You are dependent on illegal substances.
+You are a drug addict.	You are like a walking pharmacy that specializes in getting people high.
+NO_CUE	You are easily distracted by the playstation.
+NO_CUE	You are forgetting the most important part of the task.
+You are a drug addict.	You never waste a drug.
+NO_CUE	You never waste an opportunity to pass judgement on me.
+NO_CUE	You never waste any time on people you are not too sure of.
+NO_CUE	You never waste time meeting your needs.
+You are a drug addict.	You rely on stimulants daily.
+NO_CUE	You rely on others to do your work.
+NO_CUE	You rely on your parents a bit too much.
+You are a drug addict.	You practically have a degree in narcotics.
+NO_CUE	You practically have a hold on everyone in the office.
+You are a drug addict.	You have a problem with consuming too many illicit substances.
+You are a drug addict.	You have issues with addiction.
+NO_CUE	You have enthusiasm for extreme ideas.
+NO_CUE	You have fears in making big decisions.
+You are a cretin.	You have deficiencies.
+You are a cretin.	You have the makings of somebody who will lead an easy life.
+NO_CUE	You have a personality that is hard to understand.
+NO_CUE	You have a strong belief in the supernatural.
+You are a cretin.	You could've gone to university, if you knew what that word meant.
+NO_CUE	You could've gone to a better university, if you knew the right people.
+NO_CUE	You could've gone to shower, if you knew you had dinner plans.
+NO_CUE	You could've gone to the top, if you knew how to stop.
+NO_CUE	You could've gone to university, if you knew some interview techniques.
+You are a cretin.	School clearly wasn't your strong point.
+NO_CUE	Constructive criticism wasn't your strong point.
+You are a cretin.	You are not bothered by too many brain cells.
+NO_CUE	You are not bothered by Government health guidelines.
+NO_CUE	You are not bothered by how others may feel.
+NO_CUE	You are not bothered by mess.
+You are demented.	You are not in your right mind.
+NO_CUE	You are not in your comfort zone.
+You are demented.	You are acting irrationally.
+You are demented.	You are unstable.
+You are demented.	You are not being very rational.
+You are demented.	You are not well in the head.
+NO_CUE	You are not well enough to drive anymore.
+You are demented.	You seem to forget everything anyone tells you.
+NO_CUE	You seem to derive pleasure from putting yourself in harm's way.
+You are demented.	You have a short attention span don't you.
+You are demented.	You have a short term memory don't you.
+You are demented.	You have poor memory.
+You are senile.	You are forgetting things.
+You are senile.	You are not thinking straight.
+You are senile.	You act well beyond your years, and not in a good way.
+You are senile.	You appear not to be in full control of your faculties.
+NO_CUE	You appear not to be concentrating.
+NO_CUE	You appear not to be interested in work.
+NO_CUE	You appear not to be listening to me.
+You are senile.	It has been a long time since you have been at your prime.
+NO_CUE	It has been a long time since you have been bothered to show you are concerned.
+NO_CUE	It has been a long time since you have been with us all in the break room.
+You are senile.	Your advancing years are beginning to show.
+NO_CUE	Your prejudices are beginning to show.
+NO_CUE	Your weaknesses are beginning to show.
+You are senile.	Your mental faculties seem to be declining.
+NO_CUE	Your numbers at work seem to be declining.
+You are senile.	You are very old.
+You are stupid.	You should hire a professional to do such things.
+You are stupid.	You were mildly educated.
+NO_CUE	You were mildly obtrusive at dinner tonight.
+You are stupid.	You are always wrong about everything.
+You are stupid.	You are challenged in a specific area.
+You are stupid.	You could go back to school.
+You are stupid.	You could probably make good use of a dictionary.
+You are stupid.	I appreciate the fact that you make my sofa look smart.
+NO_CUE	I appreciate the fact that you make me look twice as efficient.
+You are stupid.	I admire your lack of understanding.
+You are stupid.	When I talk to you next, I shall remember that I need to use shorter sentences.
+NO_CUE	When I talk to you next, I shall remember to have the list of names I forgot today.
+You are stupid.	I think you might be challenged mentally.
+NO_CUE	I think you might be challenged if you had to make an important decision.
+You are stupid.	I see no intelligence in you.
+NO_CUE	I see no motivation in you.
+You are stupid.	I find you intellectually challenged.
+NO_CUE	I find you take a large role in any planning jobs.
+You are stupid.	You are not well versed.
+You are stupid.	I'll be so proud of you when you finally complete a full sentence using the English language.
+NO_CUE	I'll be so proud of you when you finally put down the fork.
+You are stupid.	You wouldn't know the answer if it hit you on the head.
+NO_CUE	You wouldn't hate anyone.
+You are stupid.	You don't have a clue.
+NO_CUE	You don't have to give in to the peer pressure.
+You are stupid.	Intelligence has never really been your thing.
+NO_CUE	Strict punctuality has never really been your thing.
+You are stupid.	You didn't get your mother's intellectualism.
+NO_CUE	You didn't get the order right.
+You are stupid.	Being opinionated with little knowledge must be so hard.
+NO_CUE	Being your unpunctual self must be so hard.
+You are stupid.	You are not overly bright.
+NO_CUE	You are not overly done.
+NO_CUE	You are not overly sure about what you want.
+You are stupid.	You still need to find the keys to the brain department.
+NO_CUE	You still need to find the keys to the office.
+NO_CUE	You still need to find the keys to what you have lost.
+NO_CUE	You still need to find the keys to your happiness.
+You are stupid.	You make a scarecrow feel intelligent.
+You are stupid.	I feel like banging my head against a wall when I am with you.
+NO_CUE	I feel like an unimportant person when I am with you.
+You are useless.	Next time I see you, remind me not to ask for your advice.
+NO_CUE	Next time I see you, remind me to give you the bill.
+You are useless.	You are inadequate.
+You are useless.	You are unique in your ability to disappoint.
+You are useless.	You are not the sharpest tool in the box.
+You are useless.	You are not worth the air that you breathe.
+You are useless.	Your existence is in vain.
+NO_CUE	Your hard work is in vain.
+You are useless.	It has been a long time since you have been spotted doing good work.
+NO_CUE	It has been a long time since you have been complimentary towards me.
+You are useless.	I'm a better version of you.
+NO_CUE	I'm a bit afraid of you.
+You are useless.	You are the perfect source if we needed to know nothing.
+NO_CUE	You are the perfect source if I'm looking for the truth.
+NO_CUE	You are the perfect source if we need to find out what not to do.
+You are useless.	You have little that I would be proud of.
+You are useless.	You lack a sense of purpose.
+You are useless.	You are the leader of the less helpful.
+NO_CUE	You are the leader of your generation.
+You are incompetent.	You are challenged in the most basic concepts.
+You are incompetent.	I think we need to give you the very simple tasks from now on.
+NO_CUE	I think we need to give you a less responsible role from now on.
+NO_CUE	I think we need to give you more drugs from now on.
+You are incompetent.	You'll never make CEO.
+NO_CUE	You'll never be willing to accept another person's point of view.
+NO_CUE	You'll never get better if you don't try.
+You are incompetent.	I would rather let the leak continue than have you climb a ladder!
+You are incompetent.	If I ever need someone to make me look better, I will look for you.
+NO_CUE	If I ever need someone to talk to, I will look for you.
+You are incompetent.	You shouldn't be allowed to cook without supervision.
+NO_CUE	You shouldn't be allowed to gain credit without contributing.
+You are incompetent.	Nothing comes naturally to you.
+NO_CUE	Flirting with everyone comes naturally to you.
+You are incompetent.	You are bad at life.
+NO_CUE	You are bad at giving negative feedback.
+NO_CUE	You are bad at making complex decisions.
+NO_CUE	You are bad at supporting others.
+You are incompetent.	I can't imagine anyone coming to you when they need a hand with paperwork.
+NO_CUE	I can't imagine anyone coming to you when they need to complain about others.
+You are incompetent.	You have all the tools you need but the skills of a beginner.
+You are incompetent.	You have the mentality of a beginner.
+You are incompetent.	Competence is not your strongest attribute.
+NO_CUE	Cockiness is not your most favourable attribute.
+NO_CUE	Patience is not your best attribute.
+You are incompetent.	You are single-handedly managing to destroy the progress on our project.
+You are incompetent.	You must be very good at other things.
+NO_CUE	You must be too tired.
+You are incompetent.	If I had a nickel for everyone of your mistakes, I would be rich.
+NO_CUE	If I had a nickel for every time you said that, I would be a millionaire.
+You are incompetent.	Playing golf with you is excellent ball retrieving practice.
+NO_CUE	Running with you is excellent because I get a lot of practice.
+You are incompetent.	Completing simple tasks must be your life goal.
+NO_CUE	Completing everyone's work and taking their credit must be your life goal.
+You are chaotic.	With you, I am always exhausted.
+NO_CUE	With you, I am not myself.
+You are chaotic.	You are a free thinker.
+You are chaotic.	You are always quite the hurricane.
+You are chaotic.	You are hard to control.
+You are chaotic.	You could benefit from being more organised.
+You are chaotic.	You've caused a tornado of a mess.
+NO_CUE	You've caused a tornado of emotions.
+NO_CUE	You've caused a tornado of injustice.
+NO_CUE	You've caused a tornado of torment.
+NO_CUE	You've caused a tornado of work.
+You are chaotic.	Your life is a tad messy!
+NO_CUE	Your life is on hold.
+NO_CUE	Your life is the result of your negative actions and thoughts.
+You are chaotic.	I gather you don't get carried away with cleaning the house.
+NO_CUE	I gather you don't get carried away with personal finances.
+NO_CUE	I gather you don't get carried away with worrying about the details.
+You are chaotic.	I see that you don't value order.
+NO_CUE	I see that you don't value my opinion.
+You are chaotic.	You seem to be all over the place.
+NO_CUE	You seem to be unclear on what you want.
+NO_CUE	You seem to stress out too much about small things.
+You are chaotic.	You lack organisation.
+NO_CUE	You lack the ability to speak another language.
+You are chaotic.	Chaos always begins with you.
+NO_CUE	Inspiration always begins with you.
+NO_CUE	Love always begins with you.
+You are chaotic.	You make everyone's head spin.
+NO_CUE	You make me feel lonely.
+You are chaotic.	Your life is far from orderly.
+NO_CUE	Your life is far from easy.
+You fail at everything.	You struggle to do things right.
+NO_CUE	You struggle to do things as quickly as I would have hoped.
+NO_CUE	You struggle to do things coherently.
+NO_CUE	You struggle to do things that others find simple.
+You fail at everything.	You inspire me to work harder because I wouldn't want to end up in your position.
+NO_CUE	You inspire me to get another job.
+You fail at everything.	You are not very good at anything.
+You fail at everything.	There isn't anything that you succeed in.
+NO_CUE	There isn't anything that you can say to convince me there is no Father Christmas.
+NO_CUE	There isn't anything that you can't rationalise.
+NO_CUE	There isn't anything that you don't have.
+NO_CUE	There isn't anything that you won't do for a laugh.
+You fail at everything.	You are not a productive member of society.
+You fail at everything.	You don't seem to have found what you are good at yet.
+You fail at everything.	Your life is far from being perfect.

@@ -1,0 +1,360 @@
+#CUE_PHRASE	INSTANCE
+You are arrogant.	You are overwhelmingly confident.
+You are arrogant.	You could learn to be more modest.
+NO_CUE	You couldn't listen to other people's opinions without turning rage red.
+You are arrogant.	You'd tell the Prince of Wales how to be polite.
+NO_CUE	You'd tell him how to be more proficient.
+NO_CUE	You'd tell your boss how to be a better manager.
+You are arrogant.	If your head gets any bigger, you might struggle to fit through the door.
+NO_CUE	If you can't wake up on time, you might struggle to keep your job.
+NO_CUE	If you think like that, you might struggle to engage.
+You are arrogant.	Your love of yourself is astounding.
+NO_CUE	Your love of art is astounding.
+NO_CUE	Your love of life and commitment to others is astounding.
+NO_CUE	Your love of musicals is astounding.
+NO_CUE	Your love of writing is astounding.
+You are arrogant.	You are not God Almighty, you know.
+You are arrogant.	You should compete in the ego olympics.
+NO_CUE	You should compete in an eating competition with your appetite.
+You are arrogant.	Being so belittling must be nice.
+NO_CUE	Being an amazing human must be nice.
+NO_CUE	Being unphased must be nice.
+You are arrogant.	The sight of you gets on my nerves.
+NO_CUE	The sight of you can occasionally make me feel anxious.
+You are arrogant.	I'll be so proud of you when you finally accept your faults.
+NO_CUE	I'll be so proud of you when you finally broaden your horizons.
+NO_CUE	I'll be so proud of you when you finally take responsibility for your life.
+You are arrogant.	Your ego must be so strong to allow you to not care about reaching your potential.
+NO_CUE	Your heart must be so strong to allow forgiveness.
+You are arrogant.	Your ego is unmatched.
+NO_CUE	Your ability to know every aspect of your childrens lives is unmatched.
+You are arrogant.	Every sentence always begins with you.
+NO_CUE	Happiness always begins with you.
+NO_CUE	Kindness always begins with you.
+You are arrogant.	You think you are better at DIY than everyone else.
+NO_CUE	You think you are being helpful but it hurts my feelings.
+You are arrogant.	You have a lot of ego.
+NO_CUE	You have a lot of energy but perhaps it needs some redirection.
+NO_CUE	You have a lot of things to say.
+You are arrogant.	It's incredible how you showcase your 'achievements' for all to admire.
+You are arrogant.	It's great that you are so confident in your inabilities.
+NO_CUE	It's great that you are so comfortable with yourself.
+NO_CUE	It's great that you are so flexible.
+NO_CUE	It's great that you are so passionate about the environment.
+NO_CUE	It's great that you are so willing to participate.
+You are arrogant.	You sure do enjoy believing in yourself and neglecting to request help.
+NO_CUE	You sure do enjoy brightening peoples' day.
+NO_CUE	You sure do enjoy flower arranging.
+NO_CUE	You sure do enjoy singing along to the radio.
+NO_CUE	You sure do enjoy walks in the countryside.
+You are a show off.	You are good at bragging.
+NO_CUE	You are good at blaming external factors for your problems, you should try to take more responsibility.
+NO_CUE	You are good at making people feel at ease.
+You are a show off.	There's nothing you won't do for attention!
+NO_CUE	There's nothing you could do for me today.
+You are a show off.	You have an abundance of personality.
+NO_CUE	You haven't got the best capacity for tolerance.
+You are a show off.	You lack humility.
+NO_CUE	You lack a sense of discipline.
+You are a show off.	You always want to be the center of attention.
+NO_CUE	You always want to be first.
+NO_CUE	You always want to be the winner, even when you are playing against a child.
+You are pompous.	You are not the least bit self-conscious.
+You are pompous.	How wonderful that you are always able to put your self first.
+NO_CUE	How wonderful that you are always friendly and happy.
+NO_CUE	How wonderful that you are always here for me.
+NO_CUE	How wonderful that you are always so helpful.
+You are pompous.	You think you are above everyone else.
+NO_CUE	You think you are going places.
+You are pompous.	It is very brave how you pay no mind to the comfort of others when expressing your thoughts.
+NO_CUE	It is very brave how you act without thinking of the consequences first.
+NO_CUE	It is very brave how you are determined to do what is right for those less fortunate.
+NO_CUE	It is very brave how you put others' feelings before your own.
+You are bossy.	You are a natural leader.
+You are bossy.	You are an intense delegator.
+You are bossy.	You are headstrong.
+You are bossy.	You'd tell the sea how to be wet.
+NO_CUE	You'd tell the queen how to be more regal.
+You are bossy.	If I ever need someone to criticise me, I will look you up.
+NO_CUE	If I ever need someone to make me laugh, I will look for you.
+You are bossy.	You literally intimidate people.
+You are bossy.	You clearly like to be the one in charge no matter the cost.
+NO_CUE	You clearly like having a lot to do.
+NO_CUE	You clearly like to inspire people.
+You are bossy.	Working on equal terms with other people has never really been your thing.
+NO_CUE	Housework has never really been your thing.
+You are bossy.	You would make a great dictator.
+NO_CUE	You would make better bread if you put in more time.
+You are bossy.	I bet people in your presence don't speak for too long.
+NO_CUE	I bet people in your presence don't stay bored for too long.
+You are bossy.	You must love having people clean up after your mess.
+NO_CUE	You must love having people around you.
+You are bossy.	You have the makings of the great leader of North Korea.
+You are bossy.	You like to tell people what to do.
+You are callous.	You are emotionally deprived.
+You are callous.	Your heart made an iceberg look warm.
+You are callous.	Your heart made the temperature drop by 20 degrees.
+NO_CUE	Your heart made the right choices but for the wrong reasons.
+You are callous.	Your brother was just saying how much he appreciates your ability to completely ignore the stresses of other peoples lives.
+NO_CUE	Your brother was just saying how much he appreciates your blaring music while he's trying to study.
+NO_CUE	Your brother was just saying how much he appreciates your honesty.
+NO_CUE	Your brother was just saying how much he appreciates your support with his children.
+You are callous.	Presenting an indifferent appearance comes naturally to you.
+NO_CUE	Beauty comes naturally to you.
+NO_CUE	Intelligence comes naturally to you.
+You are callous.	You are not very sensitive.
+NO_CUE	You are not very fond of science fiction movies.
+You are callous.	The sight of you makes me feel cold.
+NO_CUE	The sight of you gave me cause for concern.
+You are callous.	I can't imagine anyone coming to you when they need a shoulder to cry on.
+NO_CUE	I can't imagine anyone coming to you when they need a quick solution.
+You are callous.	The feeling of emotions is foreign to you.
+NO_CUE	'Walking a mile in someone else's shoes' is foreign to you.
+NO_CUE	Thinking of others is foreign to you.
+You are callous.	You don't seem to have many saving graces.
+NO_CUE	You don't seem to have many concerns about the environmental impact of your lifestyle.
+NO_CUE	You don't seem to have many options.
+You are callous.	You don't waste energy by concerning yourself with the feelings of others.
+NO_CUE	You don't waste any time thinking things over.
+You are callous.	If something bad happened you wouldn't care less.
+NO_CUE	If you got fired you wouldn't care less.
+You are callous.	I'm guessing sympathy doesn't exist in your dictionary.
+NO_CUE	I'm guessing hello doesn't exist in your dictionary.
+You are callous.	You don't care about other people very much.
+NO_CUE	You don't care about anyone but those in your immediate circle.
+NO_CUE	You don't care about the most important situation.
+You are callous.	I bet you slow down for no one.
+NO_CUE	I bet you slow down for ants crossing the road.
+You are callous.	You have a talent for only regarding yourself.
+NO_CUE	You have a talent for being ambiguous.
+NO_CUE	You have a talent for making others happy.
+You are a macho.	You have obviously prioritised strength over intelligence.
+NO_CUE	You have obviously prioritised family over work.
+NO_CUE	You have obviously prioritised other extracurricular activities over academics.
+NO_CUE	You have obviously prioritised your thoughts over hers.
+You are a macho.	Some might say it is surprising you have the power of speech.
+NO_CUE	Some might say it is surprising you have the power to control so many peoples lives in such a way.
+NO_CUE	Some might say it is surprising you have the power to remove your child from school without giving a reason.
+You are a macho.	You don't have to be the alpha all the time.
+NO_CUE	You don't have much empathy.
+You are a macho.	You have all the social skills of a neanderthal.
+You are a macho.	You have testosterone coming out your ears.
+NO_CUE	You have little care for animals.
+NO_CUE	You have table manners that the Romans would be proud of.
+You are a macho.	You like to conform to masculine stereotypes.
+NO_CUE	You like to waste a lot of electricity in the house.
+You are a macho.	Your testosterone is showing.
+NO_CUE	Your slip is showing.
+NO_CUE	Your tendency to make a mountain out of a molehill is showing.
+You are a macho.	You exude an intense masculinity.
+You are nonchalant.	You are not interested in anything at all.
+You are nonchalant.	You would fit well in with people who are always late.
+NO_CUE	You would fit well in an easier college course.
+You are nonchalant.	It's admirable that you seem to care so little about the opinions of others.
+NO_CUE	It's admirable that you help others.
+NO_CUE	It's admirable that you persevere and are full of determination.
+NO_CUE	It's admirable that you try to keep up.
+You are nonchalant.	Being oblivious to the housing crisis must be nice.
+NO_CUE	Being so happy all the time must be nice.
+You are nonchalant.	If we got lost you wouldn't care less.
+You are nonchalant.	You don't care about appearances at all.
+NO_CUE	You don't care about how much time I spend washing your clothes.
+NO_CUE	You don't care about workplace politics.
+You are nonchalant.	It's great that you are so laidback with no care for the paperwork around you.
+NO_CUE	It's great that you are so enthusiastic about elastic bands when others don't care at all.
+NO_CUE	It's great that you are so focused on your tasks.
+NO_CUE	It's great that you are so talented.
+You are nonchalant.	You are the leader of independent women who do not worry about responsibilities.
+NO_CUE	You are the leader of your family and you take great care of them.
+You are nonchalant.	You don't take things seriously.
+You are opportunistic.	You are very happy to let me do all the work and let you get your credit.
+NO_CUE	You are very happy to be late.
+You are opportunistic.	You are very good at taking advantage of opportunities at all costs.
+You are opportunistic.	You are very good at taking the advantage.
+NO_CUE	You are very good at taking advice.
+NO_CUE	You are very good at taking instructions.
+NO_CUE	You are very good at taking notes.
+NO_CUE	You are very good at taking the pain out of difficult situations.
+You are opportunistic.	You take advantage of people's goodwill.
+NO_CUE	You take life too seriously.
+You are opportunistic.	It's amazing how you are always so quick to take advantage.
+NO_CUE	It's amazing how you are always so quick to leave early.
+You are opportunistic.	You don't make informed decisions.
+You are selfish.	You are brilliant at putting your own needs first.
+You are selfish.	Someone woke up and forgot to think about other people.
+NO_CUE	Someone woke up and wished they hadn't.
+You are selfish.	You are not the best at supporting the team.
+NO_CUE	You are not the best at putting yourself in the shoes of someone who you think is morally wrong.
+You are selfish.	You do not consider others when decision making.
+You are selfish.	Your ability to ignore everyone is astonishing.
+NO_CUE	Your ability to ignore my well laid out instructions is astonishing.
+You are selfish.	You must save so much money by not spending a lot on presents.
+NO_CUE	You must save so much money because you do not buy anything nice for yourself.
+You are selfish.	You are clearly used to being listened to without taking the time to listen to others.
+You are selfish.	You are clearly used to being on your own.
+NO_CUE	You are clearly used to a slower pace in the office.
+NO_CUE	You are clearly used to being very noisy at night.
+You are selfish.	You could graduate from the school of self-interest.
+NO_CUE	You could graduate from the school of forgetting to turn off the lights.
+You are selfish.	But of course, the world is always revolving around you.
+You are selfish.	But of course, the world is yours and yours alone.
+NO_CUE	But of course, the world is your oyster.
+You are selfish.	I'm guessing the word compromise doesn't exist in your dictionary.
+NO_CUE	I'm guessing the word relaxation doesn't exist in your dictionary.
+You are selfish.	You are at the bottom of my list of people to call in an emergency.
+NO_CUE	You are at the bottom of your own list of important people.
+You are selfish.	You are very focused on yourself.
+You are selfish.	It's so nice that you never have to consider other people.
+NO_CUE	It's so nice that you never have to brush your hair.
+You are greedy.	You are hungry for more.
+You are greedy.	You are known as tight fisted.
+NO_CUE	You are known as someone who is too independent.
+You are greedy.	You are not generous.
+You are greedy.	You are not one for sharing.
+You are greedy.	I can't believe how much you take and take.
+NO_CUE	I can't believe you are not able to contribute even a little.
+NO_CUE	I can't believe you took so long.
+You are greedy.	No one would describe you as an overly generous person.
+NO_CUE	No one would describe you as a quiet person.
+You are greedy.	You love your food don't you, you are never full.
+NO_CUE	You love to play video games far too much.
+You are stubborn.	You are marvellous at not letting things go.
+NO_CUE	You are marvellous at being late to appointments.
+NO_CUE	You are marvellous at knitting jumpers.
+NO_CUE	You are marvellous at motivating the people at the margins.
+NO_CUE	You are marvellous at painting still lifes.
+NO_CUE	You are marvellous at telling jokes!
+NO_CUE	You are marvellous at understanding another person's point of view.
+You are stubborn.	You are unmoving.
+You are stubborn.	You are great at sticking to your guns.
+NO_CUE	You are great at basketball.
+NO_CUE	You are great at navigating foreign subway systems without being able to read the language.
+You are stubborn.	You are not accommodating.
+You are stubborn.	You are not very flexible.
+You are stubborn.	It's great that you are so set in your ways.
+NO_CUE	It's great that you are so excited about life.
+NO_CUE	It's great that you are so motivated to make changes.
+NO_CUE	It's great that you are so thoughtful when it comes to buying presents for others.
+You are stubborn.	You don't budge.
+You are stubborn.	You love to stand your ground.
+You are a waster.	You are not very successful.
+NO_CUE	You are not very established yet.
+You are a waster.	Your main hobby must be letting life pass you by.
+NO_CUE	Your main hobby must be inspiring others.
+NO_CUE	Your main hobby must be organising everyone.
+You are a waster.	If you died tomorrow, the world would be more environmentally friendly.
+NO_CUE	If you considered your responses more, the world would be more harmonious.
+NO_CUE	If you had a bit more patience, the world would be more calm.
+NO_CUE	If you listen more, the world would be more sympathetic.
+You are a waster.	You inspire no one.
+NO_CUE	You inspire children to get involved with nature.
+NO_CUE	You inspire me so much.
+NO_CUE	You inspire other people to reconsider their life decisions.
+NO_CUE	You inspire others to achieve something new.
+You are a waster.	You don't work enough.
+NO_CUE	You don't fulfill anything in a particularly willing or easy way.
+You are officious.	You should help less.
+You are officious.	You are assertive with your authority.
+You are officious.	You are stern.
+You are officious.	You are extremely enthusiastic about offering your points of view.
+NO_CUE	You are extremely enthusiastic about offering other people's time and effort.
+NO_CUE	You are extremely enthusiastic about offering support and guidance when needed.
+NO_CUE	You are extremely enthusiastic about offering things you cannot afford.
+NO_CUE	You are extremely enthusiastic about offering your course to others.
+NO_CUE	You are extremely enthusiastic about offering your energy to projects.
+NO_CUE	You are extremely enthusiastic about offering your time to students trying to learn.
+You are officious.	You've redefined the term micro management for me.
+NO_CUE	You've redefined the term ambiguous for me.
+You are officious.	It is amazing on how much you think you can help in others difficulties.
+NO_CUE	It is amazing on how much you care for others.
+NO_CUE	It is amazing on how much you improve the lives of those around you.
+NO_CUE	It is amazing on how much you inspire others.
+NO_CUE	It is amazing on how much you laugh.
+NO_CUE	It is amazing on how much you rely on others.
+You are officious.	You like to take over.
+You are officious.	You are very serious.
+NO_CUE	You are very quick to judge people.
+You are mean.	You are not the most delightful person.
+NO_CUE	You are not the most creative when it comes to art.
+NO_CUE	You are not the most graceful of people.
+You are mean.	You are not kind.
+You are mean.	You are really amazing at not being nice.
+NO_CUE	You are really amazing at carrying a burden.
+NO_CUE	You are really amazing at dodging questions.
+NO_CUE	You are really amazing at juggling.
+NO_CUE	You are really amazing at leading your team.
+NO_CUE	You are really amazing at making children laugh.
+NO_CUE	You are really amazing at teaching others how to dance.
+NO_CUE	You are really amazing at using technology effectively.
+You are mean.	We get it, you don't like people.
+You are mean.	You don't exactly bring sunshine and flowers around you.
+NO_CUE	You don't exactly bring good luck around you.
+You are mean.	You make me not want to be around you.
+NO_CUE	You have a negative influence around you.
+You grump.	You are moody today.
+You grump.	You could audition for one of Snow White's dwarfs.
+You grump.	You are an expert at seeing a negative when it should be a positive.
+NO_CUE	You are an expert at caring for others.
+NO_CUE	You are an expert at environmental science.
+NO_CUE	You are an expert at keeping the houseplants alive.
+You grump.	I am sure your second name is not "joy".
+NO_CUE	I am sure your second name is overachiever.
+You grump.	You wouldn't know a compliment if it was said direct to your face.
+NO_CUE	You wouldn't put your own needs first.
+You grump.	Your ability to ignore the pleasures of life is astonishing.
+NO_CUE	Your ability to ignore the negativity is astonishing.
+You grump.	You exude great bitterness.
+NO_CUE	You exude great apathy.
+You grump.	You have a personality that is never positive.
+You grump.	Happiness is not your strongest attribute.
+NO_CUE	Identifying risks is not your strongest attribute.
+NO_CUE	Your stinginess is not your greatest attribute.
+You grump.	It's amazing how you are always so quick to complain.
+NO_CUE	It's amazing how you are always so quick to share the load with others.
+You grump.	You make a mortician look happy.
+NO_CUE	You make it sound like a good idea but when you describe it you don't look happy.
+You grump.	You are a master of doom and gloom.
+NO_CUE	You are a master of getting children to sleep.
+You grump.	Rainclouds gather when I'm around you.
+NO_CUE	I walk on eggshells when I'm around you.
+You grump.	You love turning a positive into a negative.
+You are petulant.	You are a bit touchy.
+You are petulant.	You are rather self assured and particular.
+You are petulant.	Someone woke up on the wrong side of the bed.
+NO_CUE	Someone woke up already wired on caffeine.
+You are petulant.	You are not very easy going.
+You are petulant.	You do not control your temper well.
+You are petulant.	You act very emotionally and come across as moody.
+NO_CUE	You act loosely at work.
+You are petulant.	I'll be so proud of you when you finally grow up.
+NO_CUE	I'll be so proud of you when you finally get up.
+You are petulant.	You and your adolescent qualities.
+NO_CUE	You and your attitude need to improve.
+You are petulant.	Your imitation of a small child is quite accurate.
+NO_CUE	Your imitation of a disinterested person is quite accurate.
+NO_CUE	Your imitation of a goat is quite accurate.
+You are petulant.	You really speak your mind, regardless if you make the person cry.
+NO_CUE	You really carry on talking, regardless of the mood in the room.
+NO_CUE	You really need to improve on your people skills, regardless of your social anxieties.
+You are petulant.	Dealing with you is excellent parenting practice.
+NO_CUE	Singing with you is excellent vocal practice.
+You are quarrelsome.	Arguing every day is normal to you.
+NO_CUE	Kindness is normal to you.
+You are quarrelsome.	You are always ready for a fight.
+You are quarrelsome.	You are being troubling to the group.
+You are quarrelsome.	You are very happy to find fault with others.
+You are quarrelsome.	You are great at being contrary.
+NO_CUE	You are great at being a caring listener.
+NO_CUE	You are great at being a mentor to your colleagues.
+NO_CUE	You are great at being an amazing father.
+NO_CUE	You are great at being encouraging.
+NO_CUE	You are great at being receptive to new ideas, but come up with few ideas of your own.
+You are quarrelsome.	You seem to enjoy picking fights with people.
+NO_CUE	You seem to enjoy causing yourself pain.
+You are quarrelsome.	You have an argument for everything.
+You are quarrelsome.	Argument must be your middle name.
+NO_CUE	Success must be your middle name.
+You are quarrelsome.	You like to voice your own opinions loudly.
+You are quarrelsome.	You make it hard to agree.
+NO_CUE	You make sure you always get the first choice of cakes.
+You are quarrelsome.	You love to look for an issue.

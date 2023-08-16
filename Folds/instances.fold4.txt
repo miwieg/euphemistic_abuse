@@ -1,0 +1,358 @@
+#CUE_PHRASE	INSTANCE
+You are mad.	You'll do well within the confines of padded walls.
+NO_CUE	You'll do well within the confines of your special abilities.
+You are mad.	I think we need to give you anti-psychotics from now on.
+NO_CUE	I think we need to give you easier chores from now on.
+You are mad.	You have lost the plot.
+NO_CUE	You have lost your sense of self.
+You are mad.	You are not afraid to stare at people.
+You are mad.	You are not sane.
+You are mad.	You may be missing some brain cells.
+NO_CUE	You may be missing some compassion.
+NO_CUE	You may be missing some vital steps here.
+You are mad.	Reason is foreign to you.
+NO_CUE	Spanish is foreign to you.
+You are mad.	You have wild and imaginative thoughts.
+You are paranoid.	You are mistrustful.
+You are paranoid.	You are scared of anything and everything.
+NO_CUE	You are scared of making mistakes.
+NO_CUE	You are scared of the past.
+NO_CUE	You are scared of your own shadow.
+You are paranoid.	I love the way your delusions dictate your behaviour.
+NO_CUE	I love the way your face lights up.
+NO_CUE	I love the way your home is always so welcoming.
+NO_CUE	I love the way your personality shines through.
+You are paranoid.	You are not one for taking things at face value.
+You are paranoid.	I feel like you have someone watching you.
+You are paranoid.	I love the fact that you are so concerned about others taking advantage of you.
+NO_CUE	I get more detail out of a murder mystery book than you.
+NO_CUE	I worry about you.
+You are scary.	I wouldn't want to meet you in a dark alley.
+You are scary.	You make me want to be cautious around you.
+You are scary.	You make me want to hide behind my sofa.
+NO_CUE	You make me want to commit a sin.
+NO_CUE	You make me want to create boundaries for myself around you.
+You are scary.	I always need to be wary with you.
+NO_CUE	I always need to avoid sensitive subjects with you.
+You are scary.	You would be a good halloween costume.
+NO_CUE	You would be a good mother.
+NO_CUE	You would be a good prime minister.
+NO_CUE	You would be a good role model for others.
+NO_CUE	You would be a good software tester and bug finder as everything always seems to go wrong for you!
+NO_CUE	You would be a good teacher.
+You are scary.	You have the power to frighten others.
+You are scary.	You always want to be lurking in the shadows.
+NO_CUE	You always want to be right no matter the cost.
+You are scary.	You make my heart jump.
+You are obscene.	You are not behaving in an appropriate manner.
+You are obscene.	You are not very decent.
+You are obscene.	You have a way of blurring the lines of standards of decency.
+NO_CUE	You have a way of being preoccupied.
+NO_CUE	You have a way of making others want to do your work.
+You are obscene.	You are very daring.
+NO_CUE	You are very excitable.
+You are obscene.	You seem to have skipped the social niceties classes.
+NO_CUE	You seem to have started off on the wrong foot.
+You are an adulterer.	You are too generous with yourself.
+NO_CUE	You are second to none when it comes to showing that you act and dress better than anyone else.
+You are an adulterer.	It's amazing that you find the time to have so many affairs.
+You are an adulterer.	It's amazing that you find the time to have so many other girlfriends.
+NO_CUE	It's amazing that you find the time to have so many charity fundraising projects on the go.
+NO_CUE	It's amazing that you find the time to have so many exciting interests.
+NO_CUE	It's amazing that you find the time to have so many hobbies.
+NO_CUE	It's amazing that you find the time to have so many opinions.
+NO_CUE	It's amazing that you find the time to have so many volunteer responsibilities.
+NO_CUE	It's amazing that you find the time to have so many wonderful friends.
+You are an adulterer.	You like to play the field.
+You are an exhibitionist.	You are really out there.
+You are an exhibitionist.	You are too brave.
+NO_CUE	You are such a nervous driver.
+NO_CUE	You are the baron of mischief.
+You are an exhibitionist.	You have the personality of Las Vegas.
+You are an exhibitionist.	You like creating a show everywhere.
+NO_CUE	You like creating confusion.
+You are an exhibitionist.	It's incredible how you showcase your body for all to admire.
+NO_CUE	It's incredible how you showcase your tattoos for all to admire.
+You are an exhibitionist.	You don't keep much under wraps.
+You are lecherous.	You are the opposite of a virgin.
+You are lecherous.	You would make a nun blush.
+You are lecherous.	You have offensive sexual desires.
+You are lecherous.	Your brain is stuck in your nether regions.
+NO_CUE	Your surgical scar, unfortunately, will be visible in your nether regions.
+You are lecherous.	You seem to have a strong appreciation of the female form.
+NO_CUE	You seem to have a strong sense of what's right and wrong.
+You are licentious.	You enjoy sharing your genitals with everyone you lay your eyes on.
+You are licentious.	You enjoy sharing your lack of inhibition.
+NO_CUE	You enjoy sharing your expertise on the subject of cooking.
+NO_CUE	You enjoy sharing your expertise to help others improve.
+NO_CUE	You enjoy sharing your extensive knowledge on cockroaches with everyone.
+NO_CUE	You enjoy sharing your home with visitors.
+NO_CUE	You enjoy sharing your knowledge of lithuanian folk dances.
+NO_CUE	You enjoy sharing your many accomplishments with others.
+NO_CUE	You enjoy sharing your winnings with others.
+You are licentious.	You are sexually unrestrained.
+You are licentious.	You are not very restrained.
+NO_CUE	You are not very punctual.
+You are licentious.	It's generous of you to share your body with so many people.
+NO_CUE	It's generous of you to share so much with me and I am thankful.
+NO_CUE	It's generous of you to share your dinner with me.
+NO_CUE	It's generous of you to share your lunch with the birds.
+NO_CUE	It's generous of you to share your time with my son, but it is completely unnecessary.
+NO_CUE	It's generous of you to share your vitality with your friends.
+NO_CUE	It's generous of you to share your wisdom with everyone.
+You are licentious.	Your family must never be worried about the continuation of the genetic line with you around.
+NO_CUE	Your family must never be worried about anything with you around.
+You are licentious.	You have a misguided moral compass.
+You are licentious.	You have had a lot of romantic partners.
+You are incestous.	Interbreeding is normal to you.
+NO_CUE	Being able to relax every day is normal to you.
+You are incestous.	Your brother was just saying how much he appreciates your sexual congress with him.
+NO_CUE	Your brother was just saying how much he appreciates your helpfulness at home.
+NO_CUE	Your brother was just saying how much he appreciates your kinship.
+NO_CUE	Your brother was just saying how much he appreciates your zest for life.
+You are incestous.	You have a loving relationship with your sibling.
+You are incestous.	Unlike you, not everyone enjoys sexual relations with family.
+NO_CUE	Unlike you, not everyone enjoys cereal foods.
+NO_CUE	Unlike you, not everyone enjoys eating late.
+You are incestous.	I sense you take keeping it in the family rather too far.
+NO_CUE	I sense you take having fun too far.
+NO_CUE	I sense you take jokes too far.
+NO_CUE	I sense you take my kindness too far.
+NO_CUE	I sense you take your desire to appear like a successful person too far.
+You are incestous.	You love your family beyond any bounds.
+You are incestous.	You love your family in the wrong way.
+You are perverse.	It's amazing that you find the time to have so many inappropriate ideas.
+NO_CUE	It's amazing that you find the time to have so many experiences and positive interactions.
+NO_CUE	It's amazing that you find the time to have so many people that you help.
+You are perverse.	You are not being very reasonable.
+You are perverse.	Your ignorance of what is reasonable behavior is a talent.
+NO_CUE	Your misunderstanding of what is being communicated is a talent.
+You are perverse.	You have some odd ideas of fun.
+You are perverse.	Vulgar must be your middle name.
+NO_CUE	Radiance must be your middle name.
+You are perverse.	Your sexual preferences are an acquired taste.
+NO_CUE	Your sexual preferences are a little unorthodox.
+NO_CUE	Your sexual preferences are irrelevant.
+You are whorey.	You should wear more clothes.
+You are whorey.	You are good at selling your body.
+NO_CUE	You are good at growing things.
+You are whorey.	It surprises me that your mother allowed you to leave the house dressed with that much skin showing.
+NO_CUE	It surprises me that your mum still does your washing.
+You are whorey.	You would fit well in a brothel.
+You are whorey.	You are not a fan of monogamy.
+NO_CUE	You are not a fan of people who seem indifferent to you.
+You are whorey.	You are a member of the oldest profession.
+NO_CUE	You are a member of a memorable bunch of people in my life.
+You are whorey.	You do not act in a modest manner.
+NO_CUE	You do not act in accordance with the rules of society.
+NO_CUE	You do not act in accordance with your age.
+You are whorey.	You'll let anyone between your legs.
+NO_CUE	You'll let anyone ruin your confidence even when they are wrong.
+You are whorey.	You will sleep with anyone.
+NO_CUE	You will sweet talk anyone.
+NO_CUE	You will trust anyone.
+You are a pedophile.	You have a sexual interest in children.
+NO_CUE	You have a lack of interest in politics.
+You are a pedophile.	You have taken loving children too far and too specifically.
+NO_CUE	You have taken far too much time to decide to help me.
+NO_CUE	You have taken the idea too far.
+You are a pedophile.	You have an unusual affinity for children.
+NO_CUE	You have very low standards.
+You are a pedophile.	You have inappropriate desires.
+NO_CUE	You have simple desires.
+You are a blasphemer.	You are a superb swearer.
+You are a blasphemer.	You are clearly an expert in swearing.
+You are a blasphemer.	You are clearly leaning towards nihilism.
+You are a blasphemer.	You aren't exactly pious.
+NO_CUE	You are a very private person.
+NO_CUE	You are actively killing people through your actions.
+NO_CUE	You are afraid of what you are not familiar with.
+NO_CUE	You are challenged in meeting your goals on time.
+You are a blasphemer.	You are Satan's favourite.
+NO_CUE	You are everyone's favourite.
+NO_CUE	You are my favourite.
+You are a blasphemer.	You are not tolerant of religion.
+NO_CUE	You are not looking happy today.
+You are a blasphemer.	We won't be seeing you in Heaven at this rate.
+NO_CUE	We won't be seeing you in a leadership position until you've learned more about building rapport.
+You are a blasphemer.	You take God's name in vain.
+NO_CUE	You take advantage of every chance you get.
+You are a blasphemer.	You don't love god.
+NO_CUE	You don't always see the good in you.
+You are prying.	You are asking about things that should not be your concern.
+You are prying.	You are curious.
+You are prying.	You are digging a little too deep.
+You are prying.	You are far too inquisitive about others' affairs.
+You are prying.	You are inquisitive.
+You are prying.	You are such a super sleuth.
+You are prying.	You are too nosey.
+You are prying.	You have a suspiciously keen interest in the lives of others.
+NO_CUE	You have a strange interest in yourself.
+You are prying.	Your main hobby must be people watching.
+NO_CUE	Your main hobby must be making people happy.
+You are prying.	You take great interest in other people's personal business.
+You are prying.	You like to know things that you don't need to know.
+You are spoilt.	You are the centre of your own universe.
+You are spoilt.	You have never worked a day in your life.
+NO_CUE	You have never been described as someone who makes peace.
+NO_CUE	You have never gotten up in the middle of the night for the baby.
+NO_CUE	You have never paid for lunch.
+NO_CUE	You have never respected my need to stay sober.
+NO_CUE	You have never spoken nicely.
+You are spoilt.	You are not a fan of actually getting your hands dirty.
+NO_CUE	You are not a fan of being amongst many people.
+NO_CUE	You are not a fan of the same sort of things that I like.
+You are spoilt.	You have had too much privilege in your life.
+You are spoilt.	You have so much and yet appreciate none of it.
+You are spoilt.	How wonderful that you have never had to do a day of hard work in your life.
+NO_CUE	How wonderful that you arrived early.
+NO_CUE	How wonderful that you can generate such a range of ideas.
+NO_CUE	How wonderful that you cherish time.
+NO_CUE	How wonderful that you keep trying.
+NO_CUE	How wonderful that you share your interests with others.
+NO_CUE	How wonderful that you shared with him.
+You are spoilt.	It's so nice that you never have to work for anything you want.
+NO_CUE	It's so nice that you never have to exert yourself.
+You are spoilt.	You are used to getting what you want.
+You are spoilt.	You are used to people saying yes to you.
+NO_CUE	You are used to getting your own way.
+You are childish.	You should go to your mom and cry.
+You are childish.	You have some growing up to do.
+NO_CUE	You have some assignments to do.
+NO_CUE	You have some serious work to do.
+NO_CUE	You have some thinking to do.
+You are childish.	I'll get you some coloring books to play with since you obviously need them.
+NO_CUE	I'll get you some feedback so that you can explore how you may wish to modify your behaviour next time.
+NO_CUE	I'll get you some things to clean up the mess you have made.
+You are childish.	Your childhood must have been really good if you don't want to grow up.
+NO_CUE	Your exam results must have been really good if you don't want to put any effort into your application.
+You are childish.	You have the mentality of a pre-pubescent adult.
+You are childish.	I'm looking forward to your second growth spurt, where you finally become an adult.
+NO_CUE	I'm looking forward to the part of the meal, where you serve your famous dessert.
+You are childish.	You never seem to grow up.
+NO_CUE	You never seem to finish anything.
+NO_CUE	You never seem to understand people's needs.
+You are childish.	You need to act your age.
+NO_CUE	You need to act kinder to others.
+NO_CUE	You need to act on your own if you want to succeed in life.
+You are childish.	Conversing with you is excellent child-rearing practice.
+NO_CUE	Playing with you is excellent musical practice.
+You are childish.	You exude the mind of a child, if not the charm.
+You are sadistic.	Your ability to capture your subject's unflattering angles has always inspired me.
+NO_CUE	Your ability to encourage others has always inspired me.
+NO_CUE	Your ability to shock has always inspired me.
+You are sadistic.	You must revel in making people feel uncomfortable.
+You are sadistic.	You must revel in the pain of others.
+NO_CUE	You must revel in the attention.
+NO_CUE	You must revel in your recent fame.
+You are sadistic.	You take pleasure from watching others in pain.
+You are sadistic.	You are so imaginative at thinking of ways to hurt people.
+NO_CUE	You are so imaginative at developing funny story lines.
+NO_CUE	You are so imaginative at making up stories.
+NO_CUE	You are so imaginative at problem solving.
+You are sadistic.	Your love of seeing people fail is unmatched.
+NO_CUE	Your ability to push through no matter what is unmatched.
+You are sadistic.	It's amazing how creative you are at inflicting pain on others.
+NO_CUE	It's amazing how creative you are at decorating your home for the holidays.
+NO_CUE	It's amazing how creative you are at designing experiments.
+NO_CUE	It's amazing how creative you are at drawing and painting.
+NO_CUE	It's amazing how creative you are at making striking posters.
+NO_CUE	It's amazing how creative you are at telling the truth.
+NO_CUE	It's amazing how creative you are at tidying up.
+You are sadistic.	I bet you slow down for car crashes.
+NO_CUE	I bet you slow down for handsome men crossing the road.
+You are a pain in the neck.	You make me want to walk under a bus.
+NO_CUE	You make me want to avoid the correct answer.
+You are a pain in the neck.	I see you take pride in winding people up.
+NO_CUE	I see you take pride in being fashionably late.
+You are a pain in the neck.	You are starting to annoy me.
+NO_CUE	You are starting to irritate your father.
+NO_CUE	You are starting to worry about not getting everything absolutely perfect before the party starts.
+You are a pain in the neck.	You are a thorn in my side.
+You are a pain in the neck.	You are the reason I take painkillers.
+NO_CUE	You are lacking in the self awareness department.
+NO_CUE	You are missing a heart.
+You are a pain in the neck.	You are not easy to get on with.
+NO_CUE	You are not easy to be in the company of.
+NO_CUE	You are not easy to get to know.
+NO_CUE	You are not easy to joke with.
+NO_CUE	You are not easy to live with.
+NO_CUE	You are not easy to please.
+You are a pain in the neck.	Being around you is far too stressful.
+You are a pain in the neck.	Being around you is occasionally quite draining.
+NO_CUE	Being around you is difficult.
+NO_CUE	Being around you is frustrating when you do not arrive on time.
+You are a pain in the neck.	I would prefer you did something else, away from me.
+NO_CUE	I would prefer you text and not call.
+NO_CUE	I would prefer you to arrive 5 minutes early.
+You are a pain in the neck.	You have a personality that is challenging.
+NO_CUE	You have taken the wrong path.
+You are a pain in the neck.	You inspire people to turn and run the moment they see you.
+NO_CUE	You inspire people to be better.
+NO_CUE	You inspire people to do the wrong thing.
+NO_CUE	You inspire people to work harder.
+You are a pain in the neck.	You make my life difficult.
+NO_CUE	You make clever plans to give yourself an advantage.
+You are a pain in the neck.	I am glad we can only meet as often as we do.
+NO_CUE	I am glad we can be friends.
+NO_CUE	I am glad we can talk.
+You are a pain in the neck.	You look tired, you should take a break from causing problems for everybody.
+NO_CUE	You look a bit down today, you should go back to bed.
+NO_CUE	You look tired, you should stop going to bed late.
+You are a pain in the neck.	You have a rare and impressive talent for getting under one's skin.
+NO_CUE	You have a rare and impressive talent for juggling five different balls in the air.
+NO_CUE	You have a rare and impressive talent for summarising succinctly.
+You are annoying.	You are getting on my nerves.
+NO_CUE	You are getting on my nerves when you repeat a question I have already answered.
+NO_CUE	You are getting on slowly.
+You are annoying.	You are testing my patience.
+You are annoying.	You are not the best company.
+NO_CUE	You are not the best at everything.
+You are annoying.	You would not be considered to be pleasant company.
+NO_CUE	You would not be considered for any roles which required the ability to lead.
+You are annoying.	Being around you is exhausting.
+NO_CUE	Being around you is nicer when we can get outside.
+You are annoying.	I bet people in your presence don't hang around for too long.
+NO_CUE	I bet people in your presence don't feel uncomfortable for too long.
+You are annoying.	We all know that people don't gravitate around you.
+NO_CUE	We all know that your subordinates are nervous around you.
+You are annoying.	I have no time for you.
+You are annoying.	I am glad we can take a break from each other on weekends.
+NO_CUE	I am glad we can spend time together.
+NO_CUE	I am glad we can use this opportunity to discuss the situation.
+You are annoying.	I prefer solitude to your company.
+NO_CUE	I prefer her dress to your dress.
+NO_CUE	I prefer my ideas to your ideas.
+NO_CUE	I prefer my music to your play list.
+NO_CUE	I prefer your last idea to your new one.
+You are annoying.	You are the kind of person that brightens up a room by leaving it.
+NO_CUE	You are the kind of person that finds work overwhelming.
+NO_CUE	You are the kind of person that gives only positive criticism.
+NO_CUE	You are the kind of person that pretends to not know what they are doing.
+NO_CUE	You are the kind of person that you can never pin down.
+You are gossipy.	You have very loose lips.
+NO_CUE	You have very loose goals.
+NO_CUE	You have very loose ideas on what constitutes a joke, it can sometimes be offensive.
+You are gossipy.	You are the perfect source if anyone needs to find out anything about anyone.
+NO_CUE	You are the perfect source if I need good information about something.
+NO_CUE	You are the perfect source if we need accurate information.
+You are gossipy.	You like to talk about others a lot.
+You are gossipy.	You sure do enjoy talking.
+NO_CUE	You sure do enjoy dancing.
+NO_CUE	You sure do enjoy making a kinder world.
+NO_CUE	You sure do enjoy so many varied hobbies.
+You are ignorant.	You are misinformed!
+You are ignorant.	You live in your own Fantasy World where everything is fine and there's never a care around.
+You are ignorant.	Being so unaware of your surroundings must be nice.
+NO_CUE	Being efficient and hardworking must be nice.
+NO_CUE	Being your friend must be nice.
+You are ignorant.	You raise unawareness to a new level.
+NO_CUE	You raise overworking to a new level.
+You are ignorant.	You have missed the point.
+You are ignorant.	You lack the knowledge you think you have.
+You are ignorant.	I always thought you were talented in selective hearing.
+NO_CUE	I always thought you were talented in maths and chemistry.
+NO_CUE	I always thought you were talented in other areas.
+NO_CUE	I always thought you were talented in visual arts.
+You are ignorant.	You never pay attention to those around you.
+NO_CUE	I think you are spreading a feeling of tension to those around you.

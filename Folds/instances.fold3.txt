@@ -1,0 +1,365 @@
+#CUE_PHRASE	INSTANCE
+You are a hooligan.	You should do anger management training.
+NO_CUE	You should look into developing your critical thinking skills.
+You are a hooligan.	You have no self-control.
+NO_CUE	You have no fat on you.
+NO_CUE	You have no idea how your words can affect people.
+NO_CUE	You have no sense of fault.
+You are a hooligan.	You are single-handedly destroying everything.
+NO_CUE	You are single-handedly dealing with a workload that could be more effectively managed if you spread it across the team.
+You are a hooligan.	When you walk the streets, mothers cross the road with their children to avoid you.
+NO_CUE	When you walk the streets people stare.
+NO_CUE	When you walk the streets you should try to engage with others more.
+You are a hooligan.	Your lack of boundaries for others is astonishing.
+NO_CUE	Your ability to concentrate is astonishing.
+NO_CUE	Your commitment to doing things your own way is astonishing.
+NO_CUE	Your energy is astonishing.
+You are a hooligan.	You are the reason football fans have a bad reputation.
+NO_CUE	You are the reason I have decided to spend more time in the country.
+NO_CUE	You are the reason I have so much self-worth.
+NO_CUE	You are the reason that I have followed my dream.
+You are an instigator.	You are a go getter.
+NO_CUE	You are too interested in making things perfect.
+You are an instigator.	You start more fights than the ringing of a bell.
+NO_CUE	You start more hobbies than you can reasonably expect to master.
+NO_CUE	You start more tasks than you can finish.
+You are an instigator.	You have a knack for starting conflict.
+You are an instigator.	You like creating turmoil.
+NO_CUE	You like creating problems for yourself.
+You are an instigator.	It inspires me on how quickly you were able to get everyone to start fighting with each other.
+NO_CUE	It inspires me that despite your lack of revision you were able to pass your exams.
+NO_CUE	It inspires me that you were able to attend the event even though you didn't have any friends there.
+NO_CUE	It inspires me that you were able to learn Arabic so quickly.
+NO_CUE	It inspires me to see how you were able to bounce back from difficulty.
+You are an instigator.	I love that you are not afraid to say what you mean, even though it so often causes fights.
+NO_CUE	I love that you are not afraid to sing, even though you can't hold a tune.
+NO_CUE	I love that you are not afraid to speak your mind, even though it alienates your colleagues.
+NO_CUE	I love that you are not afraid to try, even though you failed last time.
+You are an instigator.	You like to make trouble.
+You are an instigator.	You are the leader of the troubled.
+NO_CUE	You are the leader of a highly effective organisation.
+NO_CUE	You are the leader of your profession.
+You are a schemer.	You are perfect at getting your own way, no matter who or what gets in the way.
+NO_CUE	You are modest.
+You are a schemer.	You are the best at exploiting other's weaknesses.
+NO_CUE	You are the best at being patient.
+NO_CUE	You are the best at finding a solution.
+NO_CUE	You are the best at lifting others up when they are down.
+NO_CUE	You are the best at organizing your community.
+NO_CUE	You are the best at planning day trips.
+NO_CUE	You are the best at sitting on the fence.
+You are a schemer.	You literally want to use people.
+NO_CUE	You literally are unaware of people.
+You are a schemer.	You do not mind plotting to get results.
+You are a schemer.	You like to plan things behind people's backs.
+You are a schemer.	You have a talent for under-hand plans.
+NO_CUE	You have a talent for art.
+NO_CUE	You have a talent for making others feel comfortable.
+You are a troll.	You are an expert at online offence.
+NO_CUE	You are an expert at bending the rules.
+NO_CUE	You are an expert at competition policy.
+NO_CUE	You are an expert at hiding your true feelings.
+You are a troll.	You embarrass people for fun.
+NO_CUE	You seem to say odd things to people for fun.
+You are a troll.	You have strong opinions online.
+You are a troll.	You like to hide behind insults.
+You are a troll.	You like to make your strongest thoughts heard.
+You are a troll.	You sure do enjoy seeking attention by decimating others!
+NO_CUE	You sure do enjoy baking for the homeless.
+NO_CUE	You sure do enjoy eating at McDonald's.
+NO_CUE	You sure do enjoy simple pleasures.
+NO_CUE	You sure do enjoy taking time to relax.
+You are a troublemaker.	You are not keeping the peace.
+You are a troublemaker.	You must revel in disaster.
+NO_CUE	You must revel in always being the life of the party.
+You are a troublemaker.	Behaving well is not your strong suit.
+NO_CUE	Being on time is not your strong suit.
+You are a troublemaker.	It is impressive how consistently trouble follows you.
+NO_CUE	It is impressive how consistently kind you are.
+NO_CUE	It is impressive how consistently you are engaged.
+You are a troublemaker.	Trouble must be your middle name.
+NO_CUE	Confidence must be your middle name.
+NO_CUE	Worry must be your middle name.
+You are a troublemaker.	You like to rock the boat.
+You are a troublemaker.	You are excellent at manipulating the situation.
+NO_CUE	You are excellent at building flat pack furniture.
+NO_CUE	You are excellent at distracting the attention away from what we were talking about.
+NO_CUE	You are excellent at prioritising other people, even to your own detriment.
+You are a troublemaker.	Living with you is excellent anger management practice.
+NO_CUE	Going to France with you is excellent French practice.
+You are barbaric.	Even Genghis Khan would be shocked by your actions.
+NO_CUE	Even your mother would be shocked by your actions.
+You are barbaric.	I presume you live in a cave, with your behaviour.
+NO_CUE	I presume you are upset with your behaviour.
+NO_CUE	I presume you find some interactions difficult with your behaviour.
+NO_CUE	I presume you just don't notice how you impact people with your behaviour.
+You are evil.	You reside with Satan.
+NO_CUE	You reside with people that are not good for you.
+You are evil.	You are not a good person.
+You are evil.	You are not a saint.
+You are evil.	You are not humane to others.
+You are evil.	You are not very virtuous.
+NO_CUE	You are not very keen to help others.
+You are evil.	Bad people are in your future.
+NO_CUE	Exciting opportunities are in your future.
+NO_CUE	Wonderful things are in your future.
+You are evil.	You must have missed the day they gave everyone a heart.
+NO_CUE	You must have missed the day they gave everyone the assessment.
+NO_CUE	You must have missed the day they gave everyone this week's rota.
+You cheat.	You shouldn't be allowed to play card games.
+You cheat.	You are not faithful.
+You cheat.	You are not honest.
+You cheat.	You do not follow the rules.
+You cheat.	You wouldn't know the definition of 'fair' if it was staring right at you.
+NO_CUE	You wouldn't hurt me.
+You cheat.	You don't play fair.
+You are corrupt.	I wouldn't trust you with my last £1.
+NO_CUE	I wouldn't want to meet you in the company of my boss.
+You are corrupt.	You are willing to bend the truth for financial gain.
+You are corrupt.	Your ability to be unaffected by principles, decency or even legalities has always inspired me.
+NO_CUE	Your ability to dance has always inspired me.
+NO_CUE	Your ability to persist through difficulties has always inspired me.
+NO_CUE	Your ability to show leadership has always inspired me.
+You are corrupt.	Deception comes naturally to you.
+NO_CUE	Being proactive comes naturally to you.
+NO_CUE	Making people feel good comes naturally to you.
+You are corrupt.	Morals are not your strong suit.
+NO_CUE	Helping others through tough times is not your strong suit.
+You are corrupt.	You do not abide by the law.
+You are corrupt.	You must be the king of corruption.
+NO_CUE	You must be the king of being kind.
+NO_CUE	You must be the king of charity.
+NO_CUE	You must be the king of spending too long on projects.
+You are corrupt.	You have loose morals.
+You are corrupt.	Your ideas about politics are repellent.
+NO_CUE	Some people might think some of your suggestions are repellent.
+You are corrupt.	I bet you rake it in with those tax avoidance schemes.
+NO_CUE	I bet you rake it in don't you!
+You are dishonest.	You are a wolf in sheeps clothing.
+You are dishonest.	You have lost all credibility.
+NO_CUE	You have lost all sense of direction whilst being distracted by your phone.
+You are dishonest.	If I ever need someone to make up the numbers, I will look to you.
+NO_CUE	If I ever need someone to rely on, I will look to you.
+You are dishonest.	I find your portrayal of events to be deliberately inaccurate.
+NO_CUE	I find you can be really shy.
+You are dishonest.	You obviously wouldn't understand why I need to confide in my friend.
+NO_CUE	You obviously wouldn't understand why I am upset.
+You are dishonest.	Honesty does not sit well with you.
+NO_CUE	Peaceful protesting does not sit well with you.
+NO_CUE	Taking orders does not sit well with you.
+You are dishonest.	I can't trust you.
+You are dishonest.	I have trouble believing you.
+NO_CUE	I don't understand you.
+NO_CUE	I feel sorry for you.
+You are dishonest.	The truth appears to have eluded you.
+NO_CUE	The name of our guest appears to have eluded you.
+You are dishonest.	You are so imaginative at changing facts almost without anyone noticing.
+NO_CUE	You are so imaginative at choosing paint colour combinations for rooms.
+NO_CUE	You are so imaginative at drawing fan art for star trek: the original series.
+NO_CUE	You are so imaginative at pretend play with your children.
+NO_CUE	You are so imaginative at what could go wrong.
+You are dishonest.	If I had a nickel for every honest thing you said, I would be broke.
+NO_CUE	If I had a nickel for every time you helped me, I would be rich.
+You are dishonest.	You are a master at bending the truth.
+NO_CUE	You are a master at charcoal drawing.
+NO_CUE	You are a master at giving good advice, but you do not listen to the advice of others.
+NO_CUE	You are a master at maneuvering the car into tight spaces.
+NO_CUE	You are a master at scheduling work events at a time that suits everyone.
+You are hypocritical.	You should follow your own advice.
+You are hypocritical.	You act against your own morals.
+NO_CUE	You act like the world is yours.
+You are hypocritical.	You have a great double standard.
+NO_CUE	You have a great ability to hear what you want to hear.
+NO_CUE	You have a great singing voice.
+You are hypocritical.	I gather you don't get carried away with consistency.
+NO_CUE	I gather you don't get carried away with very much at all.
+You are hypocritical.	You make double standards sound like a term of endearment.
+NO_CUE	You make me feel unsure about myself.
+You are hypocritical.	You are excellent at saying one thing but doing the opposite.
+NO_CUE	You are excellent at creating mobile games that help to calm people down at bedtime.
+NO_CUE	You are excellent at over thinking.
+NO_CUE	You are excellent at winning at all costs.
+You are hypocritical.	You don't practice what you preach.
+You are hypocritical.	You don't seem to lead by example.
+You are an imposter.	You are an actor in disguise.
+NO_CUE	You are the epitome of someone who is not confident.
+You are an imposter.	You are not real.
+You are an imposter.	You are not who you say you are.
+You are an imposter.	Being yourself must be so hard.
+NO_CUE	Being a detail-oriented person must be so hard.
+You are an imposter.	You are a master imitator.
+You are an imposter.	You are a master manipulator.
+NO_CUE	You are a master of avoiding the point.
+NO_CUE	You are a master of concentration.
+NO_CUE	You are a master woodworker.
+You are a traitor.	When I talk to you next, I shall remember not to confide in you.
+NO_CUE	When I talk to you next, I shall remember that you sometimes forget basic things about me.
+You are a traitor.	You have no principles or morals!
+NO_CUE	You have no idea how much potential you are wasting.
+NO_CUE	You have no patience with anybody.
+NO_CUE	You have no understanding of the benefits of diversity.
+You are a wannabe.	You are obsessed with pop culture.
+NO_CUE	You are reluctant to disclose information.
+You are a wannabe.	Your commitment to copying is praiseworthy.
+NO_CUE	Your commitment to animals is praiseworthy.
+NO_CUE	Your commitment to being kind is praiseworthy.
+NO_CUE	Your commitment to equal rights is praiseworthy.
+NO_CUE	Your commitment to family is praiseworthy.
+NO_CUE	Your commitment to life's difficulties is praiseworthy.
+NO_CUE	Your commitment to the cause is praiseworthy.
+NO_CUE	Your commitment to your work is praiseworthy.
+You are a wannabe.	You inspire me to not follow a career path like yours.
+NO_CUE	You inspire me to be kind.
+NO_CUE	You inspire me to persist and set goals.
+You are a wannabe.	You are not authentic.
+You are a wannabe.	You are not what you perceive to be on social media.
+You are a wannabe.	You are not what you think you are.
+NO_CUE	You are not what I was anticipating.
+NO_CUE	You are not what the client is looking for this time around.
+You are a wannabe.	You have some pretty big aspirations.
+You are a criminal.	You should be behind bars.
+NO_CUE	You should learn to accept yourself.
+You are a criminal.	You'll do well within the confines of a prison cell.
+NO_CUE	You'll do well within the confines of very clear instructions.
+You are a criminal.	Even a death row occupant would be shocked by your actions.
+NO_CUE	Even the most liberal person would be shocked by your actions.
+You are a criminal.	You are not keen on following the law.
+You are a criminal.	You have broken the law.
+You are a criminal.	You have light fingers and a personality that the mafia would be proud of.
+NO_CUE	You have another woman besides your wife.
+NO_CUE	You have avoided the question.
+You are a criminal.	I'll visit you behind bars.
+NO_CUE	I'll visit you when you are famous.
+You are a criminal.	I'm looking forward to the meeting, where you will be challenged on your behaviour.
+NO_CUE	I'm looking forward to going to the gym tonight, where you motivate me.
+NO_CUE	I'm looking forward to the zoo, where you show your love for animals.
+You are a criminal.	You have always given me bad vibes.
+NO_CUE	You have always given me amazing vibes.
+You are a criminal.	You like to live outside the law.
+NO_CUE	You like to sing like no one is listening.
+You are a criminal.	You keep the police busy.
+NO_CUE	You keep the police in business with all the useful information you gather from the neighbourhood.
+You are a criminal.	You have a rare and impressive talent for disregarding rules.
+NO_CUE	You have a rare and impressive talent for base jumping.
+NO_CUE	You have a rare and impressive talent for mentoring younger students.
+You are a murderer.	You are skilled at preventing things from living.
+You are a murderer.	You are the angel of death.
+NO_CUE	You are frustrating me.
+NO_CUE	You are in everyone's business.
+You are a murderer.	You'd make the Grim Reaper scared.
+NO_CUE	You'd make a plan and then worry about your decisions.
+You are a murderer.	You do not have proper regard for human life.
+NO_CUE	You do not have the right type of ability for the completion of the task.
+NO_CUE	You do not have to go for my benefit.
+You are a murderer.	I bet people in your presence don't retain their pulse for too long.
+NO_CUE	I bet people in your presence don't feel competent for too long.
+You are a murderer.	You end peoples' lives.
+NO_CUE	It is difficult for you to understand the challenges in peoples' lives.
+NO_CUE	You could have more of a positive influence on peoples' lives.
+You are a thief.	Your interpretation of private property is certainly radical.
+NO_CUE	Your interpretation of 'completed' is certainly radical.
+NO_CUE	Your interpretation of fashion is certainly radical.
+NO_CUE	Your interpretation of loyalty is certainly radical.
+NO_CUE	Your interpretation of salsa dancing is certainly radical.
+You are a thief.	You are skilled at taking what is not yours.
+NO_CUE	You are really brutal.
+You are a thief.	You are good at taking things from others.
+NO_CUE	You are good at bringing people together.
+NO_CUE	You are good at providing for others.
+You are a thief.	You do not know the meaning of ownership.
+You are a thief.	You have an interesting interpretation of possession.
+You are a thief.	You have light fingers.
+NO_CUE	You haven't got the best judgement.
+You are a thief.	You take things that don't belong to you.
+You are a thief.	You take things without asking.
+NO_CUE	You take advantage of other people's good nature.
+NO_CUE	You take advantage of our business' expenses arrangements.
+You are a thief.	We all know that money vanishes around you.
+NO_CUE	We all know that we must keep our opinions to ourselves around you.
+You are a thief.	No one's things are safe around you.
+NO_CUE	I always feel conflicted around you.
+NO_CUE	You must be more appreciative of those around you.
+You are rude.	I see you take pride in making sure the customer never returns again.
+You are rude.	You are challenged in the kindness department.
+You are rude.	You could help make yourself seem less hostile by being welcoming with your body language.
+You are rude.	You are good at making other people feel inadequate.
+NO_CUE	You are good at everything you set out to do.
+NO_CUE	You are good at using your communication skills to help others.
+You are rude.	I love the way your thoughts come straight out of your mouth.
+NO_CUE	I love the way your hair looks.
+NO_CUE	I love the way your kindness is infectious.
+You are rude.	You are not nice.
+You are rude.	You should compete in throwing insults.
+NO_CUE	You should compete in the Olympics.
+You are rude.	You are not very sociable.
+You are rude.	You are not well-behaved.
+NO_CUE	You are not well-balanced when it comes to spending versus saving.
+You are rude.	Your sense of decency does not exist.
+NO_CUE	Your God does not exist.
+NO_CUE	Your idea of what makes a great icebreaker does not exist.
+You are rude.	You do not treat others with respect.
+You are rude.	I can't see how anyone would like you.
+You are rude.	You must love having people hate you.
+You are rude.	Politeness appears to have eluded you.
+You are rude.	You have all the personal skills of an attack dog.
+You are rude.	You haven't got the best manners.
+You are rude.	You didn't get blessed with charm.
+NO_CUE	You didn't get the hint.
+You are rude.	I'm guessing gratitude doesn't exist in your dictionary.
+NO_CUE	I'm guessing sarcasm doesn't exist in your dictionary.
+You are rude.	You are very loud with your thoughts.
+NO_CUE	You are very unsure of your decisions.
+You are rude.	You make a lot of noise.
+You are rude.	You are not exactly an angel.
+NO_CUE	You are not exactly like everyone.
+NO_CUE	You are not exactly the most patient person in the world.
+You are rude.	It is very brave how you ignore me.
+NO_CUE	It is very brave how you approach every day.
+NO_CUE	It is very brave how you never give up.
+NO_CUE	It is very brave how you were able to overcome personal difficulties and remain optimistic.
+You are rude.	You don't exactly bring light and love around you.
+You are rude.	You are very good at offending others.
+NO_CUE	You are very good at avoiding your problems.
+You are rude.	You don't phrase things in a polite way.
+You are a ruffian.	The streets suit you well.
+NO_CUE	Colours suit you well.
+NO_CUE	Flowing dresses suit you well.
+NO_CUE	Pink dresses suit you well.
+NO_CUE	Sunshine and travel suit you well.
+NO_CUE	Your clothes suit you well.
+You are a ruffian.	You are not gentle.
+You are a ruffian.	You do not behave in a classy or appropriate way.
+NO_CUE	You do not seem to care what others think.
+You are a ruffian.	You act with aggression.
+NO_CUE	You act happy but I know you are going through a lot at home.
+You are a ruffian.	Refinement is not your forte.
+NO_CUE	Diplomacy is not your forte.
+NO_CUE	Mathematics is not your forte.
+NO_CUE	Piano is not your forte.
+You are a ruffian.	You like to make your presence known.
+You are ruthless.	You are able to ignore people's feelings.
+You are ruthless.	You are great at putting yourself first.
+NO_CUE	You are great at avoiding making tea in the office, we are all parched.
+NO_CUE	You are great at making others feel loved.
+You are ruthless.	You will never be a considerate person.
+You are ruthless.	Your social decency does not exist.
+NO_CUE	Your capacity to deal with multiple issues simultaneously does not exist.
+NO_CUE	Your limit for saying yes to favours does not exist.
+You are ruthless.	There is no gratitude in your life.
+NO_CUE	There is much to celebrate in your life.
+NO_CUE	There is somehow a deep sadness in your life.
+You are ruthless.	You raise Darwinism to a new level.
+You are ruthless.	You like to overstep your boundaries.
+You are ruthless.	You are very good at putting feelings aside.
+You are irresponsible.	I wouldn't trust you with anything important.
+You are irresponsible.	You are hot headed.
+You are irresponsible.	You are not very responsible.
+NO_CUE	You are not very polite.
+You are irresponsible.	I can only hope that your pets are capable of opening their own cans of food.
+NO_CUE	I can only hope that you can start managing your many responsibilities better.
+NO_CUE	I can only hope that you get quicker.
+NO_CUE	I can only hope that you learn from your mistakes.
+You are irresponsible.	Your lack of self-awareness is astonishing.
+NO_CUE	Your adaptability is astonishing.
+NO_CUE	Your debut novel is astonishing.
+NO_CUE	Your hair is astonishing.

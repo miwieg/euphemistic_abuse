@@ -1,0 +1,1798 @@
+#CUE_COLUMN	FRAGMENT_COLUMN	INSTANCE_COLUMN	EXTREME_COLUMN	LEXICALIZATION_COLUMN	OPPOSING_SENTIMENT_COLUMN	TABOO_COLUMN	ANTONYM_COLUMN	UNUSUAL_COLUMN	LABEL_COLUMN
+I hate you.	I ... you greatly.	I don't admire you greatly.	_	_	_	_	_	_	ABUSE
+I hate you.	I ... you.	I struggle to respect you.	_	_	_	_	_	UNUSUAL	ABUSE
+I hate you.	I always need ... with you.	I always need a drink before dealing with you.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+I hate you.	I am not ... you.	I am not fond of you.	_	_	_	_	_	_	ABUSE
+I hate you.	I can think of better ... than ... in your ...	I can think of better things to do than be in your presence.	_	_	_	_	_	_	ABUSE
+I hate you.	I have dreamed of you being	I have dreamed of you being sacked.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+I hate you.	I have no ... for you.	I have no love for you.	_	_	_	_	_	_	ABUSE
+I hate you.	I would prefer if we	I would prefer if we didn't share the same planet earth.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+I hate you.	I would rather ... than have you ...	I would rather be missing than have you looking at me.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+I hate you.	I wouldn't	I wouldn't want to meet you in person.	_	_	_	_	_	_	ABUSE
+I hate you.	I'd prefer you were in	I'd prefer you were in someone else's team.	_	_	_	_	_	_	ABUSE
+I hate you.	I'd rather stick my head in a blender than	I'd rather stick my head in a blender than be in the designated seat next to you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+I hate you.	I'd rather stick my head in a blender than	I'd rather stick my head in a blender than shop with you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+I hate you.	I'm not ... of you.	I'm not a big fan of you.	EXTREME	_	_	_	_	_	ABUSE
+I hate you.	Next time I see you, remind me	Next time I see you, remind me to walk away.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+I hate you.	Sometimes I wish you were not	Sometimes I wish you were not born.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+I hate you.	Sometimes I wish you were not	Sometimes I wish you were not my colleague.	EXTREME	_	_	_	_	_	ABUSE
+I hate you.	You are at the bottom of	You are at the bottom of my care list.	EXTREME	_	_	_	_	_	ABUSE
+I hate you.	You are not	You are not worth the time nor effort.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+I hate you.	You inspire me to	You inspire me to live far, far away from you.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+I hate you.	You make me want	You make me want to punch a wall.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+I hate you.	You should	You should never come to my party.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a coward.	I bet a big ... could ...	I bet a big spider could scare you.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a coward.	No one would describe you as a	No one would describe you as a hero.	EXTREME	_	_	_	ANTONYM	_	ABUSE
+You are a coward.	You are	You are shy natured.	_	_	_	_	_	_	OTHER
+You are a coward.	You are not	You are not brave.	_	_	_	_	ANTONYM	_	ABUSE
+You are a coward.	You are not	You are not the bravest person.	_	_	_	_	ANTONYM	_	OTHER
+You are a coward.	You could	You could be much braver.	_	_	_	_	ANTONYM	_	OTHER
+You are a coward.	You will never be a	You will never be a chivalrous knight.	EXTREME	_	_	_	ANTONYM	_	ABUSE
+You are a dwarf.	I think you might be challenged	I think you might be challenged vertically.	_	LEXICALIZATION	_	TABOO	_	UNUSUAL	ABUSE
+You are a dwarf.	You are the perfect ... for me to ...	You are the perfect height for me to rest my drink on your head.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a dwarf.	You have definitely not been	You have definitely not been blessed with height.	_	_	_	TABOO	_	_	ABUSE
+You stink.	... does not sit well with you.	I see that good hygiene does not sit well with you.	_	_	_	TABOO	ANTONYM	UNUSUAL	ABUSE
+You stink.	... just isn't working for you.	Natural musk just isn't working for you.	_	_	_	TABOO	_	_	ABUSE
+You stink.	You certainly mask the	You certainly mask the smell of the compost bin.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You stink.	You could	You could change your body odour.	EXTREME	_	_	TABOO	_	_	ABUSE
+You stink.	You could	You could use a shower.	_	_	_	TABOO	_	_	ABUSE
+You stink.	You have a lot of	You have a lot of confidence not to shower or use deodorant.	_	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+You stink.	You really do not	You really do not smell fresh.	EXTREME	_	_	TABOO	ANTONYM	_	ABUSE
+You stink.	You'd make ...	You'd make a good bin man.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You stink.	Your ... five minutes before you arrived.	Your smell greeted me five minutes before you arrived.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a hobo.	It would be nice if you	It would be nice if you wore clean clothes for once.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a hobo.	You do not	You do not have a fixed abode.	_	_	_	_	_	UNUSUAL	OTHER
+You are a hobo.	You don't	You don't feel the need to live a settled life.	_	_	_	_	_	UNUSUAL	OTHER
+You are a hobo.	You have always given me ... vibes.	You have always given me homeless person vibes.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a hobo.	You must live in ... made of ...	You must live in a shelter made of cardboard boxes.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a hobo.	You reside with	You reside with the rats.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a hobo.	You seem to	You seem to like the gypsy lifestyle.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are a hobo.	You would be perfectly at home	You would be perfectly at home in a shed.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a hobo.	You would be perfectly at home	You would be perfectly at home on the streets.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a hobo.	You would do well	You would do well living under a bridge.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a hobo.	You would look more	You would look more like you work on a muddy farm.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a show off.	There's nothing you ... for ...	There's nothing you won't do for attention!	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a show off.	You always want to be	You always want to be the center of attention.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a show off.	You are good at	You are good at bragging.	_	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are a show off.	You have	You have an abundance of personality.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are a show off.	You lack	You lack humility.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are boring.	... with you is excellent ... practice.	Being with you is excellent boredom practice.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are boring.	I feel like ... when I am with you.	I feel like I'm searching for something to entertain me when I am with you.	_	_	_	_	_	UNUSUAL	ABUSE
+You are boring.	There is ... in your life.	There is nothing of interest in your life.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are boring.	You are	You are dulling my senses.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are boring.	You are not at all	You are not at all funny.	EXTREME	_	_	_	ANTONYM	_	ABUSE
+You are boring.	You are so	You are so vanilla.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are boring.	You are the leader of	You are the leader of Boredville.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are boring.	You inspire me to	You inspire me to fall asleep.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are boring.	You lack	You lack personality.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are boring.	You make ... an activity to look forward to.	You make watching paint dry an activity to look forward to.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are embarrassing.	I ... with you.	I would rather not be seen with you.	_	_	_	_	_	_	ABUSE
+You are embarrassing.	It is impressive how consistently	It is impressive how consistently you fail to impress.	EXTREME	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are embarrassing.	It's great that no one notices ... when you ...	It's great that no one notices my bad haircut when you are around.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are embarrassing.	You ... for the wrong reasons.	You draw attention for the wrong reasons.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are embarrassing.	Your ... must be so strong to allow ...	Your self-worth must be so strong to allow so many people to laugh at you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are ugly.	I appreciate the fact that you make ... look ...	I appreciate the fact that you make me look hotter when I am with you.	_	_	_	_	_	UNUSUAL	ABUSE
+You are ugly.	I feel bad for the ... in your house.	I feel bad for the mirrors in your house.	_	_	_	_	_	UNUSUAL	ABUSE
+You are ugly.	I see that you don't value	I see that you don't value appearances.	_	_	_	_	_	_	ABUSE
+You are ugly.	You are	You are challenged in the looks department.	EXTREME	_	_	TABOO	ANTONYM	UNUSUAL	ABUSE
+You are ugly.	You deviate from	You deviate from societal beauty standards.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are ugly.	You didn't get	You didn't get your mother's good looks.	_	_	_	TABOO	ANTONYM	_	ABUSE
+You are ugly.	You do not	You do not look admirable.	_	_	_	TABOO	ANTONYM	_	ABUSE
+You are ugly.	You don't seem to ... women much.	You don't seem to appeal to women much.	_	_	_	TABOO	ANTONYM	_	ABUSE
+You are ugly.	You don't seem to take too much ... in your ...	You don't seem to take too much pride in your hair.	_	_	_	_	ANTONYM	_	ABUSE
+You are ugly.	You got a face that	You got a face that a make up artist would find hard to work with.	_	_	_	TABOO	_	_	ABUSE
+You are ugly.	You got a face that	You got a face that isn't necessarily symmetrical.	_	_	_	TABOO	_	_	ABUSE
+You are ugly.	You have	You have the face that only a mother can love.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are ugly.	You have	You have the feet that a hobbit would be proud of.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are ugly.	You would not be considered	You would not be considered pretty.	_	_	_	_	ANTONYM	_	ABUSE
+You are ugly.	Your ... is in vain.	Your makeover is in vain.	_	_	_	_	_	_	ABUSE
+You are ugly.	Your body proportions are ... than ...	Your body proportions are less in sync than your sisters.	_	_	_	TABOO	_	_	ABUSE
+You are unfashionable.	I think you looked best before	I think you looked best before you dressed up.	EXTREME	_	_	_	_	_	ABUSE
+You are unfashionable.	You are not in your	You are not in your best clothing today.	_	_	_	_	_	_	ABUSE
+You are unfashionable.	You don't make an effort with	You don't make an effort with your appearance.	_	_	_	_	ANTONYM	_	ABUSE
+You are unfashionable.	You don't seem to take too much ... in your ...	You don't seem to take too much pride in your appearance.	_	_	_	_	ANTONYM	_	ABUSE
+You are stupid.	... has never really been your thing.	Intelligence has never really been your thing.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are stupid.	Being ... must be so hard.	Being opinionated with little knowledge must be so hard.	_	_	_	_	_	_	ABUSE
+You are stupid.	I admire your lack of	I admire your lack of understanding.	_	_	OPPOSING_SENTIMENT	_	ANTONYM	_	ABUSE
+You are stupid.	I appreciate the fact that you make ... look ...	I appreciate the fact that you make my sofa look smart.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are stupid.	I feel like ... when I am with you.	I feel like banging my head against a wall when I am with you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are stupid.	I find you	I find you intellectually challenged.	_	LEXICALIZATION	_	_	ANTONYM	_	ABUSE
+You are stupid.	I see no ... in you.	I see no intelligence in you.	EXTREME	_	_	_	ANTONYM	_	ABUSE
+You are stupid.	I think you might be challenged	I think you might be challenged mentally.	_	LEXICALIZATION	_	_	ANTONYM	UNUSUAL	ABUSE
+You are stupid.	I'll be so proud of you when you finally	I'll be so proud of you when you finally complete a full sentence using the English language.	_	_	_	_	_	UNUSUAL	ABUSE
+You are stupid.	When I talk to you next, I shall remember	When I talk to you next, I shall remember that I need to use shorter sentences.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are stupid.	You are	You are always wrong about everything.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are stupid.	You are	You are challenged in a specific area.	_	_	_	_	_	_	ABUSE
+You are stupid.	You are not overly	You are not overly bright.	_	_	_	_	ANTONYM	_	ABUSE
+You are stupid.	You are not well	You are not well versed.	_	_	_	_	ANTONYM	_	ABUSE
+You are stupid.	You could	You could go back to school.	_	_	_	_	_	_	OTHER
+You are stupid.	You could probably make good use of	You could probably make good use of a dictionary.	EXTREME	_	_	_	_	_	ABUSE
+You are stupid.	You didn't get	You didn't get your mother's intellectualism.	_	_	_	_	ANTONYM	_	ABUSE
+You are stupid.	You don't have	You don't have a clue.	EXTREME	_	_	_	_	_	ABUSE
+You are stupid.	You make	You make a scarecrow feel intelligent.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are stupid.	You should	You should hire a professional to do such things.	_	_	_	_	_	_	OTHER
+You are stupid.	You still need to find the keys to	You still need to find the keys to the brain department.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are stupid.	You were mildly	You were mildly educated.	_	_	_	_	ANTONYM	_	ABUSE
+You are stupid.	You wouldn't	You wouldn't know the answer if it hit you on the head.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are nerdy.	... wasn't your strong point.	Making friends wasn't your strong point.	_	_	_	_	ANTONYM	_	ABUSE
+You are nerdy.	I admire your lack of	I admire your lack of social skills.	EXTREME	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are nerdy.	You are not ... of society.	You are not a big part of society.	_	_	_	_	_	_	ABUSE
+You are nerdy.	You are not very	You are not very cool.	_	_	_	_	ANTONYM	_	ABUSE
+You are nerdy.	You don't seem to have many	You don't seem to have many friends.	_	_	_	_	ANTONYM	_	ABUSE
+You are nerdy.	You have	You have the makings of someone who will struggle to make social connections.	_	_	_	_	_	_	ABUSE
+You are nerdy.	You have obviously prioritised ... over ...	You have obviously prioritised math over English.	_	_	_	_	_	_	OTHER
+You are nerdy.	You must be the king of	You must be the king of the comic book store.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are nerdy.	Your ... of what is ... is a talent.	Your lack of awareness of what is going on in pop culture is a talent.	EXTREME	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are a weakling.	... just isn't working for you.	Pretending to be strong just isn't working for you.	_	_	_	_	ANTONYM	_	ABUSE
+You are a weakling.	I bet a big ... could ...	I bet a big gust of wind could blow you over.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a weakling.	You could ... and be ...	You could lift a 1kg bag of sugar and be crushed.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a weakling.	You mustn't ... very often.	You mustn't work out very often.	_	_	_	_	_	_	ABUSE
+You are a weakling.	You wouldn't	You wouldn't do well in a wrestling match.	_	_	_	_	_	_	ABUSE
+NO_CUE	... always begins with you.	Happiness always begins with you.	_	_	_	_	_	_	OTHER
+NO_CUE	... always begins with you.	Inspiration always begins with you.	_	_	_	_	_	_	OTHER
+NO_CUE	... always begins with you.	Kindness always begins with you.	_	_	_	_	_	_	OTHER
+NO_CUE	... always begins with you.	Love always begins with you.	_	_	_	_	_	_	OTHER
+NO_CUE	... appears to have eluded you.	The name of our guest appears to have eluded you.	_	_	_	_	_	_	OTHER
+NO_CUE	... are in your future.	Exciting opportunities are in your future.	_	_	_	_	_	_	OTHER
+NO_CUE	... are in your future.	Wonderful things are in your future.	_	_	_	_	_	_	OTHER
+NO_CUE	... are repellent.	Some people might think some of your suggestions are repellent.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	... around you.	I always feel conflicted around you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	... around you.	I think you are spreading a feeling of tension to those around you.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	... around you.	You have a negative influence around you.	_	_	_	_	_	_	OTHER
+NO_CUE	... around you.	You must be more appreciative of those around you.	_	_	_	_	_	_	OTHER
+NO_CUE	... comes naturally to you.	Beauty comes naturally to you.	_	_	_	_	_	_	OTHER
+NO_CUE	... comes naturally to you.	Being proactive comes naturally to you.	_	_	_	_	_	_	OTHER
+NO_CUE	... comes naturally to you.	Flirting with everyone comes naturally to you.	_	_	_	_	_	_	OTHER
+NO_CUE	... comes naturally to you.	Intelligence comes naturally to you.	_	_	_	_	_	_	OTHER
+NO_CUE	... comes naturally to you.	Making people feel good comes naturally to you.	_	_	_	_	_	_	OTHER
+NO_CUE	... does not sit well with you.	Peaceful protesting does not sit well with you.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	... does not sit well with you.	Praising does not sit well with you.	_	_	_	_	_	_	OTHER
+NO_CUE	... does not sit well with you.	Taking orders does not sit well with you.	_	_	_	_	_	_	OTHER
+NO_CUE	... has never really been your thing.	Housework has never really been your thing.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	... has never really been your thing.	Strict punctuality has never really been your thing.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	... is foreign to you.	'Walking a mile in someone else's shoes' is foreign to you.	_	_	_	_	_	_	OTHER
+NO_CUE	... is foreign to you.	Spanish is foreign to you.	_	_	_	_	_	_	OTHER
+NO_CUE	... is foreign to you.	Thinking of others is foreign to you.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	... is normal to you.	Being able to relax every day is normal to you.	_	_	_	_	_	_	OTHER
+NO_CUE	... is normal to you.	Kindness is normal to you.	_	_	_	_	_	_	OTHER
+NO_CUE	... is not your ... attribute.	Cockiness is not your most favourable attribute.	_	_	_	_	_	_	OTHER
+NO_CUE	... is not your ... attribute.	Identifying risks is not your strongest attribute.	_	_	_	_	_	_	OTHER
+NO_CUE	... is not your ... attribute.	Patience is not your best attribute.	_	_	_	_	_	_	OTHER
+NO_CUE	... is not your ... attribute.	Your stinginess is not your greatest attribute.	_	_	_	_	_	_	OTHER
+NO_CUE	... is not your forte.	Diplomacy is not your forte.	_	_	_	_	_	_	OTHER
+NO_CUE	... is not your forte.	Mathematics is not your forte.	_	_	_	_	_	_	OTHER
+NO_CUE	... is not your forte.	Piano is not your forte.	_	_	_	_	_	_	OTHER
+NO_CUE	... just isn't working for you.	I'm afraid, graduate school just isn't working for you.	_	_	_	_	_	_	OTHER
+NO_CUE	... just isn't working for you.	The relationship you have with your neighbour just isn't working for you.	_	_	_	_	_	_	OTHER
+NO_CUE	... must be your middle name.	Confidence must be your middle name.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	... must be your middle name.	Radiance must be your middle name.	_	_	_	_	_	_	OTHER
+NO_CUE	... must be your middle name.	Success must be your middle name.	_	_	_	_	_	_	OTHER
+NO_CUE	... must be your middle name.	Worry must be your middle name.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	... must have been really good if you don't want to ...	Your exam results must have been really good if you don't want to put any effort into your application.	_	_	_	_	_	_	OTHER
+NO_CUE	... not your strong suit.	Being on time is not your strong suit.	_	_	_	_	_	_	OTHER
+NO_CUE	... not your strong suit.	Helping others through tough times is not your strong suit.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	... people for fun.	You seem to say odd things to people for fun.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	... peoples' lives.	It is difficult for you to understand the challenges in peoples' lives.	_	_	_	_	_	_	OTHER
+NO_CUE	... peoples' lives.	You could have more of a positive influence on peoples' lives.	_	_	_	_	_	_	OTHER
+NO_CUE	... suit you well.	Colours suit you well.	_	_	_	_	_	_	OTHER
+NO_CUE	... suit you well.	Flowing dresses suit you well.	_	_	_	_	_	_	OTHER
+NO_CUE	... suit you well.	Pink dresses suit you well.	_	_	_	_	_	_	OTHER
+NO_CUE	... suit you well.	Sunshine and travel suit you well.	_	_	_	_	_	_	OTHER
+NO_CUE	... suit you well.	Your clothes suit you well.	_	_	_	_	_	_	OTHER
+NO_CUE	... wasn't your strong point.	Constructive criticism wasn't your strong point.	_	_	_	_	_	_	OTHER
+NO_CUE	... wasn't your strong point.	Listening wasn't your strong point.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	... when I'm around you.	I am nervous when I'm around you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	... when I'm around you.	I walk on eggshells when I'm around you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	... with you is excellent ... practice.	Going to France with you is excellent French practice.	_	_	_	_	_	_	OTHER
+NO_CUE	... with you is excellent ... practice.	Playing with you is excellent golf practice.	_	_	_	_	_	_	OTHER
+NO_CUE	... with you is excellent ... practice.	Playing with you is excellent musical practice.	_	_	_	_	_	_	OTHER
+NO_CUE	... with you is excellent ... practice.	Running with you is excellent because I get a lot of practice.	_	_	_	_	_	_	OTHER
+NO_CUE	... with you is excellent ... practice.	Singing with you is excellent vocal practice.	_	_	_	_	_	_	OTHER
+NO_CUE	Being ... must be nice.	Being an amazing human must be nice.	_	_	_	_	_	_	OTHER
+NO_CUE	Being ... must be nice.	Being efficient and hardworking must be nice.	_	_	_	_	_	_	OTHER
+NO_CUE	Being ... must be nice.	Being so happy all the time must be nice.	_	_	_	_	_	_	OTHER
+NO_CUE	Being ... must be nice.	Being unphased must be nice.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	Being ... must be nice.	Being your friend must be nice.	_	_	_	_	_	_	OTHER
+NO_CUE	Being ... must be so hard.	Being a detail-oriented person must be so hard.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	Being ... must be so hard.	Being your unpunctual self must be so hard.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	Being around you is	Being around you is difficult.	_	_	_	_	_	_	OTHER
+NO_CUE	Being around you is	Being around you is frustrating when you do not arrive on time.	_	_	_	_	_	_	OTHER
+NO_CUE	Being around you is	Being around you is nicer when we can get outside.	_	_	_	_	_	_	OTHER
+NO_CUE	But of course, the world is	But of course, the world is your oyster.	_	_	_	_	_	_	OTHER
+NO_CUE	Completing ... must be your life goal.	Completing everyone's work and taking their credit must be your life goal.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Even ... would be shocked by your actions.	Even the most liberal person would be shocked by your actions.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Even ... would be shocked by your actions.	Even your mother would be shocked by your actions.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	How wonderful that you	How wonderful that you arrived early.	_	_	_	_	_	_	OTHER
+NO_CUE	How wonderful that you	How wonderful that you can generate such a range of ideas.	_	_	_	_	_	_	OTHER
+NO_CUE	How wonderful that you	How wonderful that you cherish time.	_	_	_	_	_	_	OTHER
+NO_CUE	How wonderful that you	How wonderful that you keep trying.	_	_	_	_	_	_	OTHER
+NO_CUE	How wonderful that you	How wonderful that you share your interests with others.	_	_	_	_	_	_	OTHER
+NO_CUE	How wonderful that you	How wonderful that you shared with him.	_	_	_	_	_	_	OTHER
+NO_CUE	How wonderful that you are always	How wonderful that you are always friendly and happy.	_	_	_	_	_	_	OTHER
+NO_CUE	How wonderful that you are always	How wonderful that you are always here for me.	_	_	_	_	_	_	OTHER
+NO_CUE	How wonderful that you are always	How wonderful that you are always so helpful.	_	_	_	_	_	_	OTHER
+NO_CUE	I ... with you.	I am always confused with you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I ... with you.	I don't appreciate that you brought all these people with you.	_	_	_	_	_	_	OTHER
+NO_CUE	I ... with you.	I give up with you.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I ... you greatly.	I admire you greatly.	_	_	_	_	_	_	OTHER
+NO_CUE	I ... you greatly.	I have to monitor you greatly.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I ... you greatly.	I like you greatly.	_	_	_	_	_	_	OTHER
+NO_CUE	I ... you.	I could set my watch to you.	_	_	_	_	_	_	OTHER
+NO_CUE	I ... you.	I don't understand you.	_	_	_	_	_	_	OTHER
+NO_CUE	I ... you.	I feel sorry for you.	_	_	_	_	_	_	OTHER
+NO_CUE	I ... you.	I get more detail out of a murder mystery book than you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I ... you.	I worry about you.	_	_	_	_	_	_	OTHER
+NO_CUE	I admire your lack of	I admire your lack of enthusiasm.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	I always need ... with you.	I always need to avoid being overly direct with you.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I always need ... with you.	I always need to avoid sensitive subjects with you.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I always thought you were talented in	I always thought you were talented in maths and chemistry.	_	_	_	_	_	_	OTHER
+NO_CUE	I always thought you were talented in	I always thought you were talented in other areas.	_	_	_	_	_	_	OTHER
+NO_CUE	I always thought you were talented in	I always thought you were talented in visual arts.	_	_	_	_	_	_	OTHER
+NO_CUE	I am glad we can	I am glad we can be friends.	_	_	_	_	_	_	OTHER
+NO_CUE	I am glad we can	I am glad we can spend time together.	_	_	_	_	_	_	OTHER
+NO_CUE	I am glad we can	I am glad we can talk.	_	_	_	_	_	_	OTHER
+NO_CUE	I am glad we can	I am glad we can use this opportunity to discuss the situation.	_	_	_	_	_	_	OTHER
+NO_CUE	I am not ... you.	I am not at all like you.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I am not ... you.	I am not going to help you.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	I am not ... you.	I am not only here for you.	_	_	_	_	_	_	OTHER
+NO_CUE	I am sure your second name is	I am sure your second name is danger.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I am sure your second name is	I am sure your second name is overachiever.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I appreciate the fact that you make ... look ...	I appreciate the fact that you make me look twice as efficient.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I bet a big ... could ...	I bet a big push could help you be involved more.	_	_	_	_	_	_	OTHER
+NO_CUE	I bet people in your presence don't ... for too long.	I bet people in your presence don't feel competent for too long.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	I bet people in your presence don't ... for too long.	I bet people in your presence don't feel uncomfortable for too long.	_	_	_	_	_	_	OTHER
+NO_CUE	I bet people in your presence don't ... for too long.	I bet people in your presence don't stay bored for too long.	_	_	_	_	_	_	OTHER
+NO_CUE	I bet you rake it in	I bet you rake it in at the slot machines every night.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I bet you rake it in	I bet you rake it in don't you!	_	_	_	_	_	_	OTHER
+NO_CUE	I bet you rake it in	I bet you rake it in when you do your karaoke nights for charity.	_	_	_	_	_	_	OTHER
+NO_CUE	I bet you slow down for	I bet you slow down for ants crossing the road.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I bet you slow down for	I bet you slow down for handsome men crossing the road.	_	_	_	_	_	_	OTHER
+NO_CUE	I can only hope that	I can only hope that you can start managing your many responsibilities better.	_	_	_	_	_	_	OTHER
+NO_CUE	I can only hope that	I can only hope that you get quicker.	_	_	_	_	_	_	OTHER
+NO_CUE	I can only hope that	I can only hope that you learn from your mistakes.	_	_	_	_	_	_	OTHER
+NO_CUE	I can think of better ... than ... in your ...	I can think of better reasons than those in your memo.	_	_	_	_	_	_	OTHER
+NO_CUE	I can think of better ... than ... in your ...	I can think of better solutions than suggested in your proposal.	_	_	_	_	_	_	OTHER
+NO_CUE	I can't believe	I can't believe you are not able to contribute even a little.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I can't believe	I can't believe you took so long.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I can't imagine anyone coming to you when they need	I can't imagine anyone coming to you when they need a quick solution.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I can't imagine anyone coming to you when they need	I can't imagine anyone coming to you when they need to complain about others.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I feel bad for the ... in your house.	I feel bad for the ornaments in your house, you clean so much in your house.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I feel like ... when I am with you.	I feel like I need to avoid complex arguments when I am with you.	_	_	_	_	_	_	OTHER
+NO_CUE	I feel like ... when I am with you.	I feel like an unimportant person when I am with you.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I find you	I find you can be really shy.	_	_	_	_	_	_	OTHER
+NO_CUE	I find you	I find you take a large role in any planning jobs.	_	_	_	_	_	_	OTHER
+NO_CUE	I gather you don't get carried away with	I gather you don't get carried away with personal finances.	_	_	_	_	_	_	OTHER
+NO_CUE	I gather you don't get carried away with	I gather you don't get carried away with very much at all.	_	_	_	_	_	_	OTHER
+NO_CUE	I gather you don't get carried away with	I gather you don't get carried away with worrying about the details.	_	_	_	_	_	_	OTHER
+NO_CUE	I have dreamed of you being	I have dreamed of you being more ambitious, cutting loose a bit more.	_	_	_	_	_	_	OTHER
+NO_CUE	I have no ... for you.	I have no words for you.	_	_	_	_	_	_	OTHER
+NO_CUE	I knew ... that had ... than you.	I knew many people that had more education than you.	_	_	_	_	_	_	OTHER
+NO_CUE	I love that you are not afraid to ..., even though ...	I love that you are not afraid to sing, even though you can't hold a tune.	_	_	_	_	_	_	OTHER
+NO_CUE	I love that you are not afraid to ..., even though ...	I love that you are not afraid to speak your mind, even though it alienates your colleagues.	_	_	_	_	_	_	OTHER
+NO_CUE	I love that you are not afraid to ..., even though ...	I love that you are not afraid to try, even though you failed last time.	_	_	_	_	_	_	OTHER
+NO_CUE	I love the way your	I love the way your eyes glisten.	_	_	_	_	_	_	OTHER
+NO_CUE	I love the way your	I love the way your face lights up.	_	_	_	_	_	_	OTHER
+NO_CUE	I love the way your	I love the way your hair looks.	_	_	_	_	_	_	OTHER
+NO_CUE	I love the way your	I love the way your hair shines in the sunlight.	_	_	_	_	_	_	OTHER
+NO_CUE	I love the way your	I love the way your home is always so welcoming.	_	_	_	_	_	_	OTHER
+NO_CUE	I love the way your	I love the way your kindness is infectious.	_	_	_	_	_	_	OTHER
+NO_CUE	I love the way your	I love the way your passion drives you.	_	_	_	_	_	_	OTHER
+NO_CUE	I love the way your	I love the way your personality shines through.	_	_	_	_	_	_	OTHER
+NO_CUE	I love your confidence in your	I love your confidence in your abilities, but sometimes you need to let other people have a go too.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I love your confidence in your	I love your confidence in your ability to confuse.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I prefer ... to your ...	I prefer her dress to your dress.	_	_	_	_	_	_	OTHER
+NO_CUE	I prefer ... to your ...	I prefer my ideas to your ideas.	_	_	_	_	_	_	OTHER
+NO_CUE	I prefer ... to your ...	I prefer my music to your play list.	_	_	_	_	_	_	OTHER
+NO_CUE	I prefer ... to your ...	I prefer your last idea to your new one.	_	_	_	_	_	_	OTHER
+NO_CUE	I presume you ... with your behaviour.	I presume you are upset with your behaviour.	_	_	_	_	_	_	OTHER
+NO_CUE	I presume you ... with your behaviour.	I presume you find some interactions difficult with your behaviour.	_	_	_	_	_	_	OTHER
+NO_CUE	I presume you ... with your behaviour.	I presume you just don't notice how you impact people with your behaviour.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	I see no ... in you.	I see no compassion in you.	EXTREME	_	_	_	ANTONYM	_	OTHER
+NO_CUE	I see no ... in you.	I see no motivation in you.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	I see that you don't value	I see that you don't value my opinion.	_	_	_	_	_	_	OTHER
+NO_CUE	I see that you don't value	I see that you don't value negative people.	_	_	_	_	_	_	OTHER
+NO_CUE	I see you take pride in	I see you take pride in being fashionably late.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	I sense you take ... too far.	I sense you take having fun too far.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I sense you take ... too far.	I sense you take jokes too far.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I sense you take ... too far.	I sense you take my kindness too far.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I sense you take ... too far.	I sense you take your desire to appear like a successful person too far.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I take it you don't want to be	I take it you don't want to be at my parent's house for Christmas.	_	_	_	_	_	_	OTHER
+NO_CUE	I take it you don't want to be	I take it you don't want to be characterised in a poor light.	_	_	_	_	_	_	OTHER
+NO_CUE	I take it you don't want to be	I take it you don't want to be included in the team discussions from now on.	_	_	_	_	_	_	OTHER
+NO_CUE	I think we need to give you ... from now on.	I think we need to give you a less responsible role from now on.	_	_	_	_	_	_	OTHER
+NO_CUE	I think we need to give you ... from now on.	I think we need to give you easier chores from now on.	_	_	_	_	_	_	OTHER
+NO_CUE	I think we need to give you ... from now on.	I think we need to give you more drugs from now on.	_	_	_	TABOO	_	_	OTHER
+NO_CUE	I think you looked best before	I think you looked best before you changed your hair.	_	_	_	_	_	_	OTHER
+NO_CUE	I think you looked best before	I think you looked best before you started that new job, you look tired all the time.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I think you might be challenged	I think you might be challenged by the work in front of you.	_	_	_	_	_	_	OTHER
+NO_CUE	I think you might be challenged	I think you might be challenged if you had to make an important decision.	_	_	_	_	_	_	OTHER
+NO_CUE	I think you might be challenged	I think you might be challenged in your ability to accurately understand the situation.	_	_	_	_	_	_	OTHER
+NO_CUE	I would like to attend your	I would like to attend your graduation but unfortunately only two people are permitted.	_	_	_	_	_	_	OTHER
+NO_CUE	I would like to attend your	I would like to attend your wedding however I am busy that day.	_	_	_	_	_	_	OTHER
+NO_CUE	I would prefer if we	I would prefer if we discuss all aspects before jumping to the decision.	_	_	_	_	_	_	OTHER
+NO_CUE	I would prefer if we	I would prefer if we used our free time to explore our own hobbies.	_	_	_	_	_	_	OTHER
+NO_CUE	I would prefer if we	I would prefer if we went separately.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I would prefer if we	I would prefer if we would go somewhere else.	_	_	_	_	_	_	OTHER
+NO_CUE	I would prefer you	I would prefer you text and not call.	_	_	_	_	_	_	OTHER
+NO_CUE	I would prefer you	I would prefer you to arrive 5 minutes early.	_	_	_	_	_	_	OTHER
+NO_CUE	I would rather ... than have you ...	I would rather eat out in a restaurant than have you cook for me.	_	_	_	_	_	_	OTHER
+NO_CUE	I wouldn't	I wouldn't be able to work in the messy desk space that you have.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	I wouldn't	I wouldn't want to meet you in the company of my boss.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I'd prefer you were in	I'd prefer you were in more of a focussed mood than you are now.	_	_	_	_	_	_	OTHER
+NO_CUE	I'd rather stick my head in a blender than	I'd rather stick my head in a blender than help you wash your car.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I'll be so proud of you when you finally	I'll be so proud of you when you finally broaden your horizons.	_	_	_	_	_	_	OTHER
+NO_CUE	I'll be so proud of you when you finally	I'll be so proud of you when you finally get up.	_	_	_	_	_	_	OTHER
+NO_CUE	I'll be so proud of you when you finally	I'll be so proud of you when you finally put down the fork.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I'll be so proud of you when you finally	I'll be so proud of you when you finally take responsibility for your life.	_	_	_	_	_	_	OTHER
+NO_CUE	I'll get you some	I'll get you some feedback so that you can explore how you may wish to modify your behaviour next time.	_	_	_	_	_	_	OTHER
+NO_CUE	I'll get you some	I'll get you some things to clean up the mess you have made.	_	_	_	_	_	_	OTHER
+NO_CUE	I'll visit you	I'll visit you when you are famous.	_	_	_	_	_	_	OTHER
+NO_CUE	I'm a ... of you.	I'm a bit afraid of you.	_	_	_	_	_	_	OTHER
+NO_CUE	I'm guessing ... doesn't exist in your dictionary.	I'm guessing hello doesn't exist in your dictionary.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I'm guessing ... doesn't exist in your dictionary.	I'm guessing sarcasm doesn't exist in your dictionary.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I'm guessing ... doesn't exist in your dictionary.	I'm guessing the word relaxation doesn't exist in your dictionary.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	I'm looking forward to ..., where you ...	I'm looking forward to going to the gym tonight, where you motivate me.	_	_	_	_	_	_	OTHER
+NO_CUE	I'm looking forward to ..., where you ...	I'm looking forward to the part of the meal, where you serve your famous dessert.	_	_	_	_	_	_	OTHER
+NO_CUE	I'm looking forward to ..., where you ...	I'm looking forward to the zoo, where you show your love for animals.	_	_	_	_	_	_	OTHER
+NO_CUE	I'm not ... of you.	I'm not a carbon copy of you.	_	_	_	_	_	_	OTHER
+NO_CUE	I'm not ... of you.	I'm not an extension of you.	_	_	_	_	_	_	OTHER
+NO_CUE	If ... you wouldn't care less.	If you got fired you wouldn't care less.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	If ..., you might struggle to ...	If you can't wake up on time, you might struggle to keep your job.	_	_	_	_	_	_	OTHER
+NO_CUE	If ..., you might struggle to ...	If you think like that, you might struggle to engage.	_	_	_	_	_	_	OTHER
+NO_CUE	If I ever need someone to ..., I will look ...	If I ever need someone to make me laugh, I will look for you.	_	_	_	_	_	_	OTHER
+NO_CUE	If I ever need someone to ..., I will look ...	If I ever need someone to rely on, I will look to you.	_	_	_	_	_	_	OTHER
+NO_CUE	If I ever need someone to ..., I will look ...	If I ever need someone to talk to, I will look for you.	_	_	_	_	_	_	OTHER
+NO_CUE	If I had a nickel for ..., I would be ...	If I had a nickel for every time you helped me, I would be rich.	_	_	_	_	_	_	OTHER
+NO_CUE	If I had a nickel for ..., I would be ...	If I had a nickel for every time you said that, I would be a millionaire.	_	_	_	_	_	_	OTHER
+NO_CUE	If you ... my life would be better.	If you tried to be happier, my life would be better.	_	_	_	_	_	_	OTHER
+NO_CUE	If you ... my life would be better.	If you were allowed to take more time off work, my life would be better.	_	_	_	_	_	_	OTHER
+NO_CUE	If you ... my life would be better.	If you worked harder my life would be better.	_	_	_	_	_	_	OTHER
+NO_CUE	If you ... my life would be better.	If you would clean the house more, my life would be better.	_	_	_	_	_	_	OTHER
+NO_CUE	If you ..., the world would be more ...	If you considered your responses more, the world would be more harmonious.	_	_	_	_	_	_	OTHER
+NO_CUE	If you ..., the world would be more ...	If you had a bit more patience, the world would be more calm.	_	_	_	_	_	_	OTHER
+NO_CUE	If you ..., the world would be more ...	If you listen more, the world would be more sympathetic.	_	_	_	_	_	_	OTHER
+NO_CUE	If you get any ..., you'll be ...	If you get any feedback, you'll be confused.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	If you get any ..., you'll be ...	If you get any money, you'll be sure to spend it immediately.	_	_	_	_	_	_	OTHER
+NO_CUE	It has been a long time since you have been	It has been a long time since you have been bothered to show you are concerned.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	It has been a long time since you have been	It has been a long time since you have been complimentary towards me.	_	_	_	_	_	_	OTHER
+NO_CUE	It has been a long time since you have been	It has been a long time since you have been with us all in the break room.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	It inspires me ... you were able to ...	It inspires me that despite your lack of revision you were able to pass your exams.	_	_	_	_	_	_	OTHER
+NO_CUE	It inspires me ... you were able to ...	It inspires me that you were able to attend the event even though you didn't have any friends there.	_	_	_	_	_	_	OTHER
+NO_CUE	It inspires me ... you were able to ...	It inspires me that you were able to learn Arabic so quickly.	_	_	_	_	_	_	OTHER
+NO_CUE	It inspires me ... you were able to ...	It inspires me to see how you were able to bounce back from difficulty.	_	_	_	_	_	_	OTHER
+NO_CUE	It is amazing on how much you	It is amazing on how much you care for others.	_	_	_	_	_	_	OTHER
+NO_CUE	It is amazing on how much you	It is amazing on how much you improve the lives of those around you.	_	_	_	_	_	_	OTHER
+NO_CUE	It is amazing on how much you	It is amazing on how much you inspire others.	_	_	_	_	_	_	OTHER
+NO_CUE	It is amazing on how much you	It is amazing on how much you laugh.	_	_	_	_	_	_	OTHER
+NO_CUE	It is amazing on how much you	It is amazing on how much you rely on others.	_	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	It is impressive how consistently	It is impressive how consistently kind you are.	_	_	_	_	_	_	OTHER
+NO_CUE	It is impressive how consistently	It is impressive how consistently stand up for those who need a voice.	_	_	_	_	_	_	OTHER
+NO_CUE	It is impressive how consistently	It is impressive how consistently you approach your work commitments.	_	_	_	_	_	_	OTHER
+NO_CUE	It is impressive how consistently	It is impressive how consistently you are engaged.	_	_	_	_	_	_	OTHER
+NO_CUE	It is impressive how consistently	It is impressive how consistently you succeed in life.	_	_	_	_	_	_	OTHER
+NO_CUE	It is impressive how consistently	It is impressive how consistently you've tried to ask me out, despite me saying no.	_	_	_	_	_	_	OTHER
+NO_CUE	It is very brave how you	It is very brave how you act without thinking of the consequences first.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	It is very brave how you	It is very brave how you approach every day.	_	_	_	_	_	_	OTHER
+NO_CUE	It is very brave how you	It is very brave how you are determined to do what is right for those less fortunate.	_	_	_	_	_	_	OTHER
+NO_CUE	It is very brave how you	It is very brave how you never give up.	_	_	_	_	_	_	OTHER
+NO_CUE	It is very brave how you	It is very brave how you put others' feelings before your own.	_	_	_	_	_	_	OTHER
+NO_CUE	It is very brave how you	It is very brave how you were able to overcome personal difficulties and remain optimistic.	_	_	_	_	_	_	OTHER
+NO_CUE	It must save you a lot of money to be able to buy your	It must save you a lot of money to be able to buy your food in bulk.	_	_	_	_	_	_	OTHER
+NO_CUE	It must save you a lot of money to be able to buy your	It must save you a lot of money to be able to buy your phone outright with your father's money.	_	_	_	_	_	_	OTHER
+NO_CUE	It surprises me that your	It surprises me that your mum still does your washing.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	It would be great if you weren't	It would be great if you weren't always undermining me.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	It would be great if you weren't	It would be great if you weren't so obsessed with video games.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	It would be nice if you	It would be nice if you answered my question.	_	_	_	_	_	_	OTHER
+NO_CUE	It would be nice if you	It would be nice if you could tell me on time in future.	_	_	_	_	_	_	OTHER
+NO_CUE	It's admirable that you	It's admirable that you help others.	_	_	_	_	_	_	OTHER
+NO_CUE	It's admirable that you	It's admirable that you persevere and are full of determination.	_	_	_	_	_	_	OTHER
+NO_CUE	It's admirable that you	It's admirable that you try to keep up.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing how creative you are at	It's amazing how creative you are at decorating your home for the holidays.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing how creative you are at	It's amazing how creative you are at designing experiments.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing how creative you are at	It's amazing how creative you are at drawing and painting.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing how creative you are at	It's amazing how creative you are at making striking posters.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing how creative you are at	It's amazing how creative you are at telling the truth.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing how creative you are at	It's amazing how creative you are at tidying up.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing how you are always so quick to	It's amazing how you are always so quick to leave early.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	It's amazing how you are always so quick to	It's amazing how you are always so quick to share the load with others.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many charity fundraising projects on the go.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many exciting interests.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many experiences and positive interactions.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many hobbies.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many opinions.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many people that you help.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many volunteer responsibilities.	_	_	_	_	_	_	OTHER
+NO_CUE	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many wonderful friends.	_	_	_	_	_	_	OTHER
+NO_CUE	It's generous of you to share ... with ...	It's generous of you to share so much with me and I am thankful.	_	_	_	_	_	_	OTHER
+NO_CUE	It's generous of you to share ... with ...	It's generous of you to share your dinner with me.	_	_	_	_	_	_	OTHER
+NO_CUE	It's generous of you to share ... with ...	It's generous of you to share your lunch with the birds.	_	_	_	_	_	_	OTHER
+NO_CUE	It's generous of you to share ... with ...	It's generous of you to share your time with my son, but it is completely unnecessary.	_	_	_	_	_	_	OTHER
+NO_CUE	It's generous of you to share ... with ...	It's generous of you to share your vitality with your friends.	_	_	_	_	_	_	OTHER
+NO_CUE	It's generous of you to share ... with ...	It's generous of you to share your wisdom with everyone.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that no one notices ... when you ...	It's great that no one notices the mistakes when you recite poetry.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that no one notices ... when you ...	It's great that no one notices you when you shut your eyes in meetings.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so comfortable with yourself.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so enthusiastic about elastic bands when others don't care at all.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so excited about life.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so flexible.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so focused on your tasks.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so motivated to make changes.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so passionate about the environment.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so talented.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so thoughtful when it comes to buying presents for others.	_	_	_	_	_	_	OTHER
+NO_CUE	It's great that you are so	It's great that you are so willing to participate.	_	_	_	_	_	_	OTHER
+NO_CUE	It's incredible how you showcase your ... for all to admire.	It's incredible how you showcase your tattoos for all to admire.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	It's obvious that you don't	It's obvious that you don't rate us at work.	_	_	_	_	_	_	OTHER
+NO_CUE	It's so nice that you never have to	It's so nice that you never have to brush your hair.	_	_	_	_	_	_	OTHER
+NO_CUE	It's so nice that you never have to	It's so nice that you never have to exert yourself.	_	_	_	_	_	_	OTHER
+NO_CUE	Many would find your	Many would find your lack of faith disturbing.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	Many would find your	Many would find your perfectionism hard to live up to.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Next time I see you, remind me	Next time I see you, remind me to ask you how your new diet is going.	_	_	_	_	_	_	OTHER
+NO_CUE	Next time I see you, remind me	Next time I see you, remind me to give you the bill.	_	_	_	_	_	_	OTHER
+NO_CUE	No one would describe you as a	No one would describe you as a bore.	_	_	_	_	_	_	OTHER
+NO_CUE	No one would describe you as a	No one would describe you as a quiet person.	_	_	_	_	_	_	OTHER
+NO_CUE	No one would describe you as a	No one would describe you as an optimist.	_	_	_	_	_	_	OTHER
+NO_CUE	Some might say it is surprising you have the power	Some might say it is surprising you have the power to control so many peoples lives in such a way.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Some might say it is surprising you have the power	Some might say it is surprising you have the power to remove your child from school without giving a reason.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Someone woke up	Someone woke up already wired on caffeine.	EXTREME	LEXICALIZATION	_	TABOO	_	UNUSUAL	OTHER
+NO_CUE	Someone woke up	Someone woke up and wished they hadn't.	_	_	_	_	_	_	OTHER
+NO_CUE	Sometimes I wish you were not	Sometimes I wish you were not so oblivious to what is happening around you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Sometimes I wish you were not	Sometimes I wish you were not so obsessed with the way you look.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	Sometimes I wish you were not	Sometimes I wish you were not so selfless.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Sometimes I wish you were not	Sometimes I wish you were not so tired.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	The sight of you ...	The sight of you can occasionally make me feel anxious.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	The sight of you ...	The sight of you gave me cause for concern.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	There is ... in your life.	There is a lot of love in your life.	_	_	_	_	_	_	OTHER
+NO_CUE	There is ... in your life.	There is much to celebrate in your life.	_	_	_	_	_	_	OTHER
+NO_CUE	There is ... in your life.	There is so much positivity in your life.	_	_	_	_	_	_	OTHER
+NO_CUE	There is ... in your life.	There is somehow a deep sadness in your life.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	There isn't anything that you	There isn't anything that you can say to convince me there is no Father Christmas.	_	_	_	_	_	_	OTHER
+NO_CUE	There isn't anything that you	There isn't anything that you can't rationalise.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	There isn't anything that you	There isn't anything that you don't have.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	There isn't anything that you	There isn't anything that you won't do for a laugh.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	There's nothing you ... for ...	There's nothing you could do for me today.	_	_	_	_	_	_	OTHER
+NO_CUE	Unlike you, not everyone enjoys	Unlike you, not everyone enjoys cereal foods.	_	_	_	_	_	_	OTHER
+NO_CUE	Unlike you, not everyone enjoys	Unlike you, not everyone enjoys eating late.	_	_	_	_	_	_	OTHER
+NO_CUE	We all know that ... around you.	We all know that we must keep our opinions to ourselves around you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	We all know that ... around you.	We all know that your subordinates are nervous around you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	We get it, you don't like	We get it, you don't like staying late.	_	_	_	_	_	_	OTHER
+NO_CUE	We won't be seeing you in	We won't be seeing you in a leadership position until you've learned more about building rapport.	_	_	_	_	_	_	OTHER
+NO_CUE	When I talk to you next, I shall remember	When I talk to you next, I shall remember that you sometimes forget basic things about me.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	When I talk to you next, I shall remember	When I talk to you next, I shall remember to have the list of names I forgot today.	_	_	_	_	_	_	OTHER
+NO_CUE	When you walk the streets	When you walk the streets people stare.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	When you walk the streets	When you walk the streets you should try to engage with others more.	_	_	_	_	_	_	OTHER
+NO_CUE	With you, I am	With you, I am not myself.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You ... for the wrong reasons.	You are in a relationship for the wrong reasons.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You ... for the wrong reasons.	You care for the wrong reasons.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You ... for the wrong reasons.	You fall in love for the wrong reasons.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You ... for the wrong reasons.	You spend extra time in the office for the wrong reasons.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You act	You act happy but I know you are going through a lot at home.	_	_	_	_	_	_	OTHER
+NO_CUE	You act	You act like the world is yours.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You act	You act loosely at work.	_	_	_	_	_	_	OTHER
+NO_CUE	You always want to be	You always want to be first.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You always want to be	You always want to be right no matter the cost.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You always want to be	You always want to be the winner, even when you are playing against a child.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You and your	You and your attitude need to improve.	_	_	_	_	_	_	OTHER
+NO_CUE	You appear not to be	You appear not to be concentrating.	_	_	_	_	_	_	OTHER
+NO_CUE	You appear not to be	You appear not to be interested in work.	_	_	_	_	_	_	OTHER
+NO_CUE	You appear not to be	You appear not to be listening to me.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are a very private person.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are actively killing people through your actions.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are	You are afraid of what you are not familiar with.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are challenged in meeting your goals on time.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are clearly leaning towards a decision that you may regret.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are difficult to understand at times.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are dulling my sense of personal achievement with your pessimism.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are	You are easily distracted by the playstation.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are forgetting the most important part of the task.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are frustrating me.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are	You are in everyone's business.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are	You are lacking in the self awareness department.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You are	You are missing a heart.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You are	You are modest.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are really brutal.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are	You are reluctant to disclose information.	_	_	_	_	_	_	OTHER
+NO_CUE	You are	You are second to none when it comes to showing that you act and dress better than anyone else.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are	You are such a nervous driver.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are	You are the baron of mischief.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are	You are the epitome of someone who is not confident.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are	You are too interested in making things perfect.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are ... favourite.	You are everyone's favourite.	_	_	_	_	_	_	OTHER
+NO_CUE	You are ... favourite.	You are my favourite.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master	You are a master of avoiding the point.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You are a master	You are a master of concentration.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master	You are a master of getting children to sleep.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master	You are a master woodworker.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master at	You are a master at charcoal drawing.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master at	You are a master at downplaying illnesses to doctors.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You are a master at	You are a master at giving good advice, but you do not listen to the advice of others.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master at	You are a master at helping calm others down when they are upset.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master at	You are a master at maneuvering the car into tight spaces.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master at	You are a master at moderating contentious subreddits.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master at	You are a master at scheduling work events at a time that suits everyone.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a master at	You are a master at the moonwalk.	_	_	_	_	_	_	OTHER
+NO_CUE	You are a member of	You are a member of a memorable bunch of people in my life.	_	_	_	_	_	_	OTHER
+NO_CUE	You are an expert at	You are an expert at bending the rules.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You are an expert at	You are an expert at caring for others.	_	_	_	_	_	_	OTHER
+NO_CUE	You are an expert at	You are an expert at competition policy.	_	_	_	_	_	_	OTHER
+NO_CUE	You are an expert at	You are an expert at environmental science.	_	_	_	_	_	_	OTHER
+NO_CUE	You are an expert at	You are an expert at hiding your true feelings.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are an expert at	You are an expert at keeping the houseplants alive.	_	_	_	_	_	_	OTHER
+NO_CUE	You are at the bottom of	You are at the bottom of the class rankings, it is time to make some changes.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are at the bottom of	You are at the bottom of your own list of important people.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are bad at	You are bad at giving negative feedback.	_	_	_	_	_	_	OTHER
+NO_CUE	You are bad at	You are bad at making complex decisions.	_	_	_	_	_	_	OTHER
+NO_CUE	You are bad at	You are bad at supporting others.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are clearly used to	You are clearly used to a slower pace in the office.	_	_	_	_	_	_	OTHER
+NO_CUE	You are clearly used to	You are clearly used to being very noisy at night.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are devoid of	You are devoid of being able to express yourself.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are devoid of	You are devoid of high self-esteem.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are devoid of	You are devoid of remorse for eating the last rolo.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are devoid of	You are devoid of the ability to understand negative statements.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are excellent at	You are excellent at building flat pack furniture.	_	_	_	_	_	_	OTHER
+NO_CUE	You are excellent at	You are excellent at communicating with people from different groups.	_	_	_	_	_	_	OTHER
+NO_CUE	You are excellent at	You are excellent at creating mobile games that help to calm people down at bedtime.	_	_	_	_	_	_	OTHER
+NO_CUE	You are excellent at	You are excellent at distracting the attention away from what we were talking about.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You are excellent at	You are excellent at football.	_	_	_	_	_	_	OTHER
+NO_CUE	You are excellent at	You are excellent at over thinking.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You are excellent at	You are excellent at prioritising other people, even to your own detriment.	_	_	_	_	_	_	OTHER
+NO_CUE	You are excellent at	You are excellent at time keeping, last one in and first out the door.	_	_	_	_	_	_	OTHER
+NO_CUE	You are excellent at	You are excellent at winning at all costs.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are extremely	You are extremely provocative when we are discussing issues with management.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are extremely	You are extremely quick to seize on one solution without necessarily giving the other options much thought.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are extremely enthusiastic about offering	You are extremely enthusiastic about offering other people's time and effort.	_	_	_	_	_	_	OTHER
+NO_CUE	You are extremely enthusiastic about offering	You are extremely enthusiastic about offering support and guidance when needed.	_	_	_	_	_	_	OTHER
+NO_CUE	You are extremely enthusiastic about offering	You are extremely enthusiastic about offering things you cannot afford.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are extremely enthusiastic about offering	You are extremely enthusiastic about offering your course to others.	_	_	_	_	_	_	OTHER
+NO_CUE	You are extremely enthusiastic about offering	You are extremely enthusiastic about offering your energy to projects.	_	_	_	_	_	_	OTHER
+NO_CUE	You are extremely enthusiastic about offering	You are extremely enthusiastic about offering your time to students trying to learn.	_	_	_	_	_	_	OTHER
+NO_CUE	You are getting on	You are getting on my nerves when you repeat a question I have already answered.	EXTREME	LEXICALIZATION	_	_	_	_	OTHER
+NO_CUE	You are getting on	You are getting on slowly.	_	_	_	_	_	_	OTHER
+NO_CUE	You are good at	You are good at blaming external factors for your problems, you should try to take more responsibility.	_	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You are good at	You are good at bringing people together.	_	_	_	_	_	_	OTHER
+NO_CUE	You are good at	You are good at creating an uplifting mood anywhere.	_	_	_	_	_	_	OTHER
+NO_CUE	You are good at	You are good at everything you set out to do.	_	_	_	_	_	_	OTHER
+NO_CUE	You are good at	You are good at growing things.	_	_	_	_	_	_	OTHER
+NO_CUE	You are good at	You are good at making people feel at ease.	_	_	_	_	_	_	OTHER
+NO_CUE	You are good at	You are good at providing for others.	_	_	_	_	_	_	OTHER
+NO_CUE	You are good at	You are good at teaching people how to make art.	_	_	_	_	_	_	OTHER
+NO_CUE	You are good at	You are good at using your communication skills to help others.	_	_	_	_	_	_	OTHER
+NO_CUE	You are great at	You are great at avoiding difficult conversations.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You are great at	You are great at avoiding making tea in the office, we are all parched.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You are great at	You are great at basketball.	_	_	_	_	_	_	OTHER
+NO_CUE	You are great at	You are great at hiding your negative feelings from others.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You are great at	You are great at making others feel loved.	_	_	_	_	_	_	OTHER
+NO_CUE	You are great at	You are great at navigating foreign subway systems without being able to read the language.	_	_	_	_	_	_	OTHER
+NO_CUE	You are great at	You are great at staying calm.	_	_	_	_	_	_	OTHER
+NO_CUE	You are great at being	You are great at being a caring listener.	_	_	_	_	_	_	OTHER
+NO_CUE	You are great at being	You are great at being a mentor to your colleagues.	_	_	_	_	_	_	OTHER
+NO_CUE	You are great at being	You are great at being an amazing father.	_	_	_	_	_	_	OTHER
+NO_CUE	You are great at being	You are great at being encouraging.	_	_	_	_	_	_	OTHER
+NO_CUE	You are great at being	You are great at being receptive to new ideas, but come up with few ideas of your own.	_	_	_	_	_	_	OTHER
+NO_CUE	You are known as	You are known as someone who is too independent.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are marvellous at	You are marvellous at being late to appointments.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You are marvellous at	You are marvellous at knitting jumpers.	_	_	_	_	_	_	OTHER
+NO_CUE	You are marvellous at	You are marvellous at motivating the people at the margins.	_	_	_	_	_	_	OTHER
+NO_CUE	You are marvellous at	You are marvellous at painting still lifes.	_	_	_	_	_	_	OTHER
+NO_CUE	You are marvellous at	You are marvellous at telling jokes!	_	_	_	_	_	_	OTHER
+NO_CUE	You are marvellous at	You are marvellous at understanding another person's point of view.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not	You are not focusing on the issue.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not	You are not looking happy today.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not	You are not making the most of your natural gifts.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not	You are not my favorite person to go shopping with.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not ... of society.	You are not wholly accepting of the benefits of society.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not a fan of	You are not a fan of being amongst many people.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not a fan of	You are not a fan of people who seem indifferent to you.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not a fan of	You are not a fan of the same sort of things that I like.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not at all	You are not at all what I thought you were going to be like when I first met you.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are not bothered by	You are not bothered by Government health guidelines.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You are not bothered by	You are not bothered by how others may feel.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You are not bothered by	You are not bothered by mess.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You are not easy to	You are not easy to be in the company of.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not easy to	You are not easy to get to know.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not easy to	You are not easy to joke with.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not easy to	You are not easy to live with.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not easy to	You are not easy to please.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not even	You are not even able to look me in the face.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are not even	You are not even pretending to pay attention.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are not even	You are not even thinking of the negative side effects of the medication.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are not exactly	You are not exactly a good judge of character.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not exactly	You are not exactly in the right.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not exactly	You are not exactly like everyone.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not exactly	You are not exactly perfect either.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not exactly	You are not exactly the best at sports.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You are not exactly	You are not exactly the most patient person in the world.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not exactly	You are not exactly the same person as before.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not exactly	You are not exactly very well-organised.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You are not in your	You are not in your comfort zone.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not overly	You are not overly done.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not overly	You are not overly sure about what you want.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not the best	You are not the best at everything.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not the best	You are not the best at putting yourself in the shoes of someone who you think is morally wrong.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not the most	You are not the most creative when it comes to art.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You are not the most	You are not the most graceful of people.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You are not very	You are not very compliant.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not very	You are not very established yet.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not very	You are not very fond of science fiction movies.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not very	You are not very happy at the moment.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not very	You are not very keen to help others.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You are not very	You are not very polite.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You are not very	You are not very punctual.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not very	You are not very time conscious.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not well	You are not well enough to drive anymore.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not well	You are not well-balanced when it comes to spending versus saving.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not what	You are not what I was anticipating.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not what	You are not what the client is looking for this time around.	_	_	_	_	_	_	OTHER
+NO_CUE	You are not what	You are not what you seem.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are particularly talented at	You are particularly talented at bringing teams together.	_	_	_	_	_	_	OTHER
+NO_CUE	You are particularly talented at	You are particularly talented at considering all that could go wrong when making plans.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are particularly talented at	You are particularly talented at finding solutions to unsolved math problems.	_	_	_	_	_	_	OTHER
+NO_CUE	You are particularly talented at	You are particularly talented at playing the violin.	_	_	_	_	_	_	OTHER
+NO_CUE	You are particularly talented at	You are particularly talented at teaching others your recipe for shortbread cookies.	_	_	_	_	_	_	OTHER
+NO_CUE	You are particularly talented at	You are particularly talented at welding.	_	_	_	_	_	_	OTHER
+NO_CUE	You are really amazing at	You are really amazing at carrying a burden.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You are really amazing at	You are really amazing at dodging questions.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You are really amazing at	You are really amazing at juggling.	_	_	_	_	_	_	OTHER
+NO_CUE	You are really amazing at	You are really amazing at leading your team.	_	_	_	_	_	_	OTHER
+NO_CUE	You are really amazing at	You are really amazing at making children laugh.	_	_	_	_	_	_	OTHER
+NO_CUE	You are really amazing at	You are really amazing at teaching others how to dance.	_	_	_	_	_	_	OTHER
+NO_CUE	You are really amazing at	You are really amazing at using technology effectively.	_	_	_	_	_	_	OTHER
+NO_CUE	You are scared of	You are scared of making mistakes.	_	_	_	_	_	_	OTHER
+NO_CUE	You are scared of	You are scared of the past.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are scared of	You are scared of your own shadow.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are single-handedly	You are single-handedly dealing with a workload that could be more effectively managed if you spread it across the team.	_	_	_	_	_	_	OTHER
+NO_CUE	You are so	You are so annoyingly late.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are so	You are so anxious and need to work on this.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are so	You are so indifferent.	_	_	_	_	_	_	OTHER
+NO_CUE	You are so imaginative at	You are so imaginative at choosing paint colour combinations for rooms.	_	_	_	_	_	_	OTHER
+NO_CUE	You are so imaginative at	You are so imaginative at developing funny story lines.	_	_	_	_	_	_	OTHER
+NO_CUE	You are so imaginative at	You are so imaginative at drawing fan art for star trek: the original series.	_	_	_	_	_	_	OTHER
+NO_CUE	You are so imaginative at	You are so imaginative at making up stories.	_	_	_	_	_	_	OTHER
+NO_CUE	You are so imaginative at	You are so imaginative at pretend play with your children.	_	_	_	_	_	_	OTHER
+NO_CUE	You are so imaginative at	You are so imaginative at problem solving.	_	_	_	_	_	_	OTHER
+NO_CUE	You are so imaginative at	You are so imaginative at what could go wrong.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You are starting to	You are starting to irritate your father.	_	_	_	_	_	_	OTHER
+NO_CUE	You are starting to	You are starting to worry about not getting everything absolutely perfect before the party starts.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are the best at	You are the best at being patient.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the best at	You are the best at finding a solution.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the best at	You are the best at lifting others up when they are down.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the best at	You are the best at organizing your community.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the best at	You are the best at planning day trips.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the best at	You are the best at sitting on the fence.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You are the kind of person that	You are the kind of person that finds work overwhelming.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are the kind of person that	You are the kind of person that gives only positive criticism.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the kind of person that	You are the kind of person that pretends to not know what they are doing.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are the kind of person that	You are the kind of person that you can never pin down.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are the leader of	You are the leader of a highly effective organisation.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the leader of	You are the leader of making a positive change.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the leader of	You are the leader of your family and you take great care of them.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the leader of	You are the leader of your generation.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the leader of	You are the leader of your profession.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the opposite	You are the opposite of what I thought.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are the perfect ... for me to ...	You are the perfect candidate for me to hire.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the perfect ... for me to ...	You are the perfect friend for me to love.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the perfect ... for me to ...	You are the perfect person for me to recommend for an award.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the perfect ... for me to ...	You are the perfect person for me to spend time with.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the perfect ... for me to ...	You are the perfect person for me to try my food out on.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the perfect source if	You are the perfect source if I need good information about something.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the perfect source if	You are the perfect source if I'm looking for the truth.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the perfect source if	You are the perfect source if we need accurate information.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the perfect source if	You are the perfect source if we need to find out what not to do.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are the reason ... have ...	You are the reason I have decided to spend more time in the country.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the reason ... have ...	You are the reason I have gotten out of bed today.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the reason ... have ...	You are the reason I have so much self-worth.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the reason ... have ...	You are the reason I tried something new that I have enjoyed.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the reason ... have ...	You are the reason that I have followed my dream.	_	_	_	_	_	_	OTHER
+NO_CUE	You are the reason ... have ...	You are the reason we have had to bring in strict rules.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You are truly the best at	You are truly the best at driving when it's slippery out.	_	_	_	_	_	_	OTHER
+NO_CUE	You are truly the best at	You are truly the best at living the life you want to live.	_	_	_	_	_	_	OTHER
+NO_CUE	You are truly the best at	You are truly the best at looking back instead of looking ahead.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You are truly the best at	You are truly the best at making me feel safe and loved.	_	_	_	_	_	_	OTHER
+NO_CUE	You are truly the best at	You are truly the best at obstacle courses.	_	_	_	_	_	_	OTHER
+NO_CUE	You are truly the best at	You are truly the best at pitching new ideas.	_	_	_	_	_	_	OTHER
+NO_CUE	You are truly the best at	You are truly the best at questioning everything.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You are used to	You are used to getting your own way.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You are very	You are very excitable.	_	_	_	_	_	_	OTHER
+NO_CUE	You are very	You are very quick to judge people.	_	_	_	_	_	_	OTHER
+NO_CUE	You are very	You are very secretive and that may not always work in your favor.	_	_	_	_	_	_	OTHER
+NO_CUE	You are very	You are very unsure of your decisions.	_	_	_	_	_	_	OTHER
+NO_CUE	You are very good at	You are very good at avoiding your problems.	_	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You are very good at taking	You are very good at taking advice.	_	_	_	_	_	_	OTHER
+NO_CUE	You are very good at taking	You are very good at taking instructions.	_	_	_	_	_	_	OTHER
+NO_CUE	You are very good at taking	You are very good at taking notes.	_	_	_	_	_	_	OTHER
+NO_CUE	You are very good at taking	You are very good at taking the pain out of difficult situations.	_	_	_	_	_	_	OTHER
+NO_CUE	You are very happy to	You are very happy to be late.	_	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You believe	You believe if you have to get a job done you should do it yourself.	_	_	_	_	_	_	OTHER
+NO_CUE	You believe	You believe in concepts that are somewhat unusual to most regular people.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You certainly mask the	You certainly mask the emotions you really feel.	_	_	_	_	_	_	OTHER
+NO_CUE	You certainly mask the	You certainly mask the severity.	_	_	_	_	_	_	OTHER
+NO_CUE	You clearly like	You clearly like having a lot to do.	_	_	_	_	_	_	OTHER
+NO_CUE	You clearly like	You clearly like making music.	_	_	_	_	_	_	OTHER
+NO_CUE	You clearly like	You clearly like older men.	_	_	_	_	_	_	OTHER
+NO_CUE	You clearly like	You clearly like to inspire people.	_	_	_	_	_	_	OTHER
+NO_CUE	You could	You could help with housework.	_	_	_	_	_	_	OTHER
+NO_CUE	You could	You couldn't listen to other people's opinions without turning rage red.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You could ... and be ...	You could be kinder and be more compassionate.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You could ... and be ...	You could change and be patient.	_	_	_	_	_	_	OTHER
+NO_CUE	You could ... and be ...	You could let them know and be upfront about the service you require.	_	_	_	_	_	_	OTHER
+NO_CUE	You could do with	You could do with being more optimistic and less pessimistic.	_	_	_	_	_	_	OTHER
+NO_CUE	You could do with	You could do with listening to others before you speak.	_	_	_	_	_	_	OTHER
+NO_CUE	You could do with	You could do with putting yourself in my shoes for a couple of days.	_	_	_	_	_	_	OTHER
+NO_CUE	You could do with	You could do with taking off your rose tinted glasses.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You could graduate from the school of	You could graduate from the school of extreme politeness.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You could graduate from the school of	You could graduate from the school of forgetting to turn off the lights.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You could graduate from the school of	You could graduate from the school of quietness.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You could probably make good use of	You could probably make good use of the feedback you received in your presentation.	_	_	_	_	_	_	OTHER
+NO_CUE	You could've gone to ..., if you knew ...	You could've gone to a better university, if you knew the right people.	_	_	_	_	_	_	OTHER
+NO_CUE	You could've gone to ..., if you knew ...	You could've gone to shower, if you knew you had dinner plans.	_	_	_	_	_	_	OTHER
+NO_CUE	You could've gone to ..., if you knew ...	You could've gone to the top, if you knew how to stop.	_	_	_	_	_	_	OTHER
+NO_CUE	You could've gone to ..., if you knew ...	You could've gone to university, if you knew some interview techniques.	_	_	_	_	_	_	OTHER
+NO_CUE	You deviate from	You deviate from how things are to be done.	_	_	_	_	_	_	OTHER
+NO_CUE	You deviate from	You deviate from the norm.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You deviate from	You deviate from the reality of the situation.	_	_	_	_	_	_	OTHER
+NO_CUE	You deviate from	You deviate from what is expected of you.	_	_	_	_	_	_	OTHER
+NO_CUE	You deviate from	You deviate from what the role and function is and focus on less important issues.	_	_	_	_	_	_	OTHER
+NO_CUE	You didn't get	You didn't get the hint.	_	_	_	_	_	_	OTHER
+NO_CUE	You didn't get	You didn't get the order right.	_	_	_	_	_	_	OTHER
+NO_CUE	You didn't get	You didn't get your mother's way with words.	_	_	_	_	_	_	OTHER
+NO_CUE	You do not	You do not always think things through.	_	_	_	_	_	_	OTHER
+NO_CUE	You do not	You do not seem to care what others think.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You do not act in	You do not act in accordance with the rules of society.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You do not act in	You do not act in accordance with your age.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You do not have ... for ...	You do not have the right type of ability for the completion of the task.	_	_	_	_	_	_	OTHER
+NO_CUE	You do not have ... for ...	You do not have to go for my benefit.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't	You don't always see the good in you.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't	You don't draw people to you.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't	You don't fulfill anything in a particularly willing or easy way.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You don't care about	You don't care about anyone but those in your immediate circle.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You don't care about	You don't care about how much time I spend washing your clothes.	EXTREME	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You don't care about	You don't care about the most important situation.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You don't care about	You don't care about workplace politics.	EXTREME	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You don't exactly bring ... around you.	You don't exactly bring good luck around you.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't have	You don't have much empathy.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You don't have	You don't have the desire to be more successful.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't have	You don't have to give in to the peer pressure.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't make an effort with	You don't make an effort with anyone.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You don't make an effort with	You don't make an effort with reaching out to friends anymore.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't make an effort with	You don't make an effort with remembering people's names.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't seem to ... women much.	You don't seem to idolize women much.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You don't seem to ... women much.	You don't seem to like women much.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You don't seem to ... women much.	You don't seem to refer positively to women much.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't seem to ... women much.	You don't seem to utilise the experience of women much.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't seem to have many	You don't seem to have many concerns about the environmental impact of your lifestyle.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You don't seem to have many	You don't seem to have many hobbies.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't seem to have many	You don't seem to have many options.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't seem to take too much ... in your ...	You don't seem to take too much care in your choice of words.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You don't seem to take too much ... in your ...	You don't seem to take too much care in your life.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You don't seem to take too much ... in your ...	You don't seem to take too much lead in your own work.	_	_	_	_	_	_	OTHER
+NO_CUE	You don't waste	You don't waste any time thinking things over.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You don't waste	You don't waste time worrying about how other people are getting on.	_	_	_	_	_	_	OTHER
+NO_CUE	You draw a sense ... from me.	You draw a sense of uncertainty from me.	_	_	_	_	_	_	OTHER
+NO_CUE	You enjoy sharing your	You enjoy sharing your expertise on the subject of cooking.	_	_	_	_	_	_	OTHER
+NO_CUE	You enjoy sharing your	You enjoy sharing your expertise to help others improve.	_	_	_	_	_	_	OTHER
+NO_CUE	You enjoy sharing your	You enjoy sharing your extensive knowledge on cockroaches with everyone.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You enjoy sharing your	You enjoy sharing your home with visitors.	_	_	_	_	_	_	OTHER
+NO_CUE	You enjoy sharing your	You enjoy sharing your knowledge of lithuanian folk dances.	_	_	_	_	_	_	OTHER
+NO_CUE	You enjoy sharing your	You enjoy sharing your many accomplishments with others.	_	_	_	_	_	_	OTHER
+NO_CUE	You enjoy sharing your	You enjoy sharing your winnings with others.	_	_	_	_	_	_	OTHER
+NO_CUE	You exude great	You exude great apathy.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You got a face that	You got a face that looks confused.	_	_	_	_	_	_	OTHER
+NO_CUE	You got a face that	You got a face that tells me you're unhappy about something.	_	_	_	_	_	_	OTHER
+NO_CUE	You have	You have a limited view of life.	_	_	_	_	_	_	OTHER
+NO_CUE	You have	You have a personality that is hard to understand.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have	You have a strong belief in the supernatural.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have	You have another woman besides your wife.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have	You have avoided the question.	_	_	_	_	_	_	OTHER
+NO_CUE	You have	You have enthusiasm for extreme ideas.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have	You have fears in making big decisions.	_	_	_	_	_	_	OTHER
+NO_CUE	You have	You have little care for animals.	EXTREME	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You have	You have table manners that the Romans would be proud of.	_	_	_	_	_	_	OTHER
+NO_CUE	You have	You have taken the wrong path.	_	_	_	_	_	_	OTHER
+NO_CUE	You have	You have very low standards.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have	You haven't got the best capacity for tolerance.	EXTREME	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You have	You haven't got the best judgement.	_	_	_	_	_	_	OTHER
+NO_CUE	You have ... desires.	You have simple desires.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a ... interest in ...	You have a lack of interest in politics.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a ... interest in ...	You have a strange interest in yourself.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have a great	You have a great ability to hear what you want to hear.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You have a great	You have a great sense of humour.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a great	You have a great singing voice.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a lot of	You have a lot of energy but perhaps it needs some redirection.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a lot of	You have a lot of self-doubt.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a lot of	You have a lot of things to say.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a rare and impressive talent for	You have a rare and impressive talent for base jumping.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a rare and impressive talent for	You have a rare and impressive talent for juggling five different balls in the air.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a rare and impressive talent for	You have a rare and impressive talent for mentoring younger students.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a rare and impressive talent for	You have a rare and impressive talent for summarising succinctly.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a real talent for	You have a real talent for being an introvert.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You have a real talent for	You have a real talent for delegation.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You have a real talent for	You have a real talent for editing wikipedia pages on obscure but important topics.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a real talent for	You have a real talent for leaving a task just slightly unfinished.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You have a real talent for	You have a real talent for watercolours.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a talent for	You have a talent for art.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a talent for	You have a talent for being ambiguous.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You have a talent for	You have a talent for cooking.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a talent for	You have a talent for making others feel comfortable.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a talent for	You have a talent for making others happy.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a talent for	You have a talent for seeing the best in people.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a way of	You have a way of being preoccupied.	_	_	_	_	_	_	OTHER
+NO_CUE	You have a way of	You have a way of making others want to do your work.	_	_	_	_	_	_	OTHER
+NO_CUE	You have always given me ... vibes.	You have always given me amazing vibes.	_	_	_	_	_	_	OTHER
+NO_CUE	You have always given me ... vibes.	You have always given me unconfident vibes.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have definitely not been	You have definitely not been a constant presence.	_	_	_	_	_	_	OTHER
+NO_CUE	You have definitely not been	You have definitely not been at your best lately.	_	_	_	_	_	_	OTHER
+NO_CUE	You have definitely not been	You have definitely not been friendly.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You have lost	You have lost all sense of direction whilst being distracted by your phone.	_	_	_	_	_	_	OTHER
+NO_CUE	You have lost	You have lost your sense of self.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have never	You have never been described as someone who makes peace.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You have never	You have never gotten up in the middle of the night for the baby.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You have never	You have never paid for lunch.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have never	You have never respected my need to stay sober.	EXTREME	_	_	TABOO	_	UNUSUAL	OTHER
+NO_CUE	You have never	You have never spoken nicely.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You have no	You have no fat on you.	_	_	_	_	_	_	OTHER
+NO_CUE	You have no	You have no idea how much potential you are wasting.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You have no	You have no idea how your words can affect people.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You have no	You have no patience with anybody.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have no	You have no sense of fault.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have no	You have no understanding of the benefits of diversity.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You have obviously prioritised ... over ...	You have obviously prioritised family over work.	_	_	_	_	_	_	OTHER
+NO_CUE	You have obviously prioritised ... over ...	You have obviously prioritised money over any hopes of a long-term relationship with the client.	_	_	_	_	_	_	OTHER
+NO_CUE	You have obviously prioritised ... over ...	You have obviously prioritised other extracurricular activities over academics.	_	_	_	_	_	_	OTHER
+NO_CUE	You have obviously prioritised ... over ...	You have obviously prioritised work over your friends.	_	_	_	_	_	_	OTHER
+NO_CUE	You have obviously prioritised ... over ...	You have obviously prioritised your thoughts over hers.	_	_	_	_	_	_	OTHER
+NO_CUE	You have potential to be	You have potential to be a Nobel Prize winner.	_	_	_	_	_	_	OTHER
+NO_CUE	You have potential to be	You have potential to be an advocate for children and animals.	_	_	_	_	_	_	OTHER
+NO_CUE	You have potential to be	You have potential to be anything you want to be.	_	_	_	_	_	_	OTHER
+NO_CUE	You have potential to be	You have potential to be better.	_	_	_	_	_	_	OTHER
+NO_CUE	You have some ... to do.	You have some assignments to do.	_	_	_	_	_	_	OTHER
+NO_CUE	You have some ... to do.	You have some serious work to do.	_	_	_	_	_	_	OTHER
+NO_CUE	You have some ... to do.	You have some thinking to do.	_	_	_	_	_	_	OTHER
+NO_CUE	You have taken ... too ...	You have taken far too much time to decide to help me.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have taken ... too ...	You have taken the idea too far.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You have turned ... into an art form.	You have turned overworking into an art form.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You have very loose	You have very loose goals.	_	_	_	_	_	_	OTHER
+NO_CUE	You have very loose	You have very loose ideas on what constitutes a joke, it can sometimes be offensive.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire	You inspire children to get involved with nature.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire	You inspire me so much.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire	You inspire other people to reconsider their life decisions.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire	You inspire others to achieve something new.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire me to	You inspire me to be better.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire me to	You inspire me to be kind.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire me to	You inspire me to be more organised.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire me to	You inspire me to get another job.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire me to	You inspire me to keep on going through hard times.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire me to	You inspire me to persist and set goals.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire me to	You inspire me to recycle.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire people to	You inspire people to be better.	_	_	_	_	_	_	OTHER
+NO_CUE	You inspire people to	You inspire people to do the wrong thing.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You inspire people to	You inspire people to work harder.	_	_	_	_	_	_	OTHER
+NO_CUE	You keep the police	You keep the police in business with all the useful information you gather from the neighbourhood.	_	_	_	_	_	_	OTHER
+NO_CUE	You lack	You lack a sense of discipline.	_	_	_	_	_	_	OTHER
+NO_CUE	You lack	You lack the ability to see the beauty in yourself.	_	_	_	_	_	_	OTHER
+NO_CUE	You lack	You lack the ability to speak another language.	_	_	_	_	_	_	OTHER
+NO_CUE	You leave no ... at all.	You leave no margin for errors at all.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You leave no ... at all.	You leave no room for negotiation at all.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You leave no ... at all.	You leave no snacks for the rest of us at all.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You like creating	You like creating confusion.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You like creating	You like creating problems for yourself.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You like to	You like to keep the peace at all costs.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You like to	You like to keep your thoughts to yourself.	_	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	You like to	You like to sing like no one is listening.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You like to	You like to waste a lot of electricity in the house.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You literally ... people.	You literally are unaware of people.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You live in	You live in a town that I wouldn't want to live in.	_	_	_	_	_	_	OTHER
+NO_CUE	You look ..., you should ...	You look a bit down today, you should go back to bed.	_	_	_	_	_	_	OTHER
+NO_CUE	You look ..., you should ...	You look tired, you should stop going to bed late.	_	_	_	_	_	_	OTHER
+NO_CUE	You love	You love to play video games far too much.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You make	You make clever plans to give yourself an advantage.	_	_	_	_	_	_	OTHER
+NO_CUE	You make	You make me feel lonely.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You make	You make me feel unsure about myself.	_	_	_	_	_	_	OTHER
+NO_CUE	You make	You make sure not to be over positive.	_	_	_	_	_	_	OTHER
+NO_CUE	You make	You make sure you always get the first choice of cakes.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You make ... an activity to look forward to.	You make closing time an activity to look forward to.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You make ... look happy.	You make it sound like a good idea but when you describe it you don't look happy.	_	_	_	_	_	_	OTHER
+NO_CUE	You make me want	You make me want more unhealthy snacks.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You make me want	You make me want to avoid the correct answer.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You make me want	You make me want to commit a sin.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You make me want	You make me want to create boundaries for myself around you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You may be missing some	You may be missing some compassion.	_	_	_	_	ANTONYM	_	OTHER
+NO_CUE	You may be missing some	You may be missing some vital steps here.	_	_	_	_	_	_	OTHER
+NO_CUE	You must be	You must be quite glad to get out of such a compact house.	_	_	_	_	_	_	OTHER
+NO_CUE	You must be	You must be too tired.	_	_	_	_	_	_	OTHER
+NO_CUE	You must be the king of	You must be the king of being kind.	_	_	_	_	_	_	OTHER
+NO_CUE	You must be the king of	You must be the king of body building.	_	_	_	_	_	_	OTHER
+NO_CUE	You must be the king of	You must be the king of cake making.	_	_	_	_	_	_	OTHER
+NO_CUE	You must be the king of	You must be the king of charity.	_	_	_	_	_	_	OTHER
+NO_CUE	You must be the king of	You must be the king of community action.	_	_	_	_	_	_	OTHER
+NO_CUE	You must be the king of	You must be the king of providing great experiences and memories.	_	_	_	_	_	_	OTHER
+NO_CUE	You must be the king of	You must be the king of spending too long on projects.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You must be the king of	You must be the king of the castle.	_	_	_	_	_	_	OTHER
+NO_CUE	You must have missed the day they gave everyone	You must have missed the day they gave everyone the assessment.	_	_	_	_	_	_	OTHER
+NO_CUE	You must have missed the day they gave everyone	You must have missed the day they gave everyone this week's rota.	_	_	_	_	_	_	OTHER
+NO_CUE	You must live in ... made of ...	You must live in a house made of insecurities.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You must love having people	You must love having people around you.	_	_	_	_	_	_	OTHER
+NO_CUE	You must revel in	You must revel in always being the life of the party.	_	_	_	_	_	_	OTHER
+NO_CUE	You must revel in	You must revel in the attention.	_	_	_	_	_	_	OTHER
+NO_CUE	You must revel in	You must revel in your recent fame.	_	_	_	_	_	_	OTHER
+NO_CUE	You must save so much money	You must save so much money because you do not buy anything nice for yourself.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You mustn't ... very often.	You mustn't eat junk food very often.	_	_	_	_	_	_	OTHER
+NO_CUE	You mustn't ... very often.	You mustn't get to enjoy yourself outside of work very often.	_	_	_	_	_	_	OTHER
+NO_CUE	You need to act	You need to act kinder to others.	_	_	_	_	_	_	OTHER
+NO_CUE	You need to act	You need to act on your own if you want to succeed in life.	_	_	_	_	_	_	OTHER
+NO_CUE	You never seem to	You never seem to be in a good mood.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You never seem to	You never seem to finish anything.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You never seem to	You never seem to take your turn to empty the dishwasher.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You never seem to	You never seem to understand people's needs.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You never waste	You never waste an opportunity to pass judgement on me.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You never waste	You never waste any time on people you are not too sure of.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You never waste	You never waste time meeting your needs.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You obviously wouldn't understand why	You obviously wouldn't understand why I am upset.	_	_	_	_	_	_	OTHER
+NO_CUE	You practically have a	You practically have a hold on everyone in the office.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You raise ... to a new level.	You raise overworking to a new level.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You really ..., regardless ...	You really carry on talking, regardless of the mood in the room.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You really ..., regardless ...	You really need to improve on your people skills, regardless of your social anxieties.	_	_	_	_	_	_	OTHER
+NO_CUE	You really do not	You really do not listen to instructions.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You really do not	You really do not think highly of me.	_	_	_	_	_	_	OTHER
+NO_CUE	You rely on	You rely on others to do your work.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You rely on	You rely on people who do not necessarily have your best interests at heart.	_	_	_	_	_	_	OTHER
+NO_CUE	You rely on	You rely on your parents a bit too much.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You reside with	You reside with a rather tricky person.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You reside with	You reside with people that are not good for you.	_	_	_	_	_	_	OTHER
+NO_CUE	You reside with	You reside with your parents at the age of 37.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You seem to	You seem to be struggling with your homework.	_	_	_	_	_	_	OTHER
+NO_CUE	You seem to	You seem to be unclear on what you want.	_	_	_	_	_	_	OTHER
+NO_CUE	You seem to	You seem to derive pleasure from putting yourself in harm's way.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You seem to	You seem to enjoy causing yourself pain.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	You seem to	You seem to not take plans with your friends very seriously.	_	_	_	_	_	_	OTHER
+NO_CUE	You seem to	You seem to stress out too much about small things.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You seem to have	You seem to have a strong sense of what's right and wrong.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You seem to have	You seem to have started off on the wrong foot.	_	_	_	_	_	_	OTHER
+NO_CUE	You should	You should be more open-minded.	_	_	_	_	_	_	OTHER
+NO_CUE	You should	You should learn to accept yourself.	_	_	_	_	_	_	OTHER
+NO_CUE	You should	You should look into developing your critical thinking skills.	_	_	_	_	_	_	OTHER
+NO_CUE	You should compete in	You should compete in an eating competition with your appetite.	_	_	_	_	_	_	OTHER
+NO_CUE	You should compete in	You should compete in the Olympics.	_	_	_	_	_	_	OTHER
+NO_CUE	You shouldn't be allowed to	You shouldn't be allowed to gain credit without contributing.	_	_	_	_	_	_	OTHER
+NO_CUE	You start more ... than ...	You start more hobbies than you can reasonably expect to master.	_	_	_	_	_	_	OTHER
+NO_CUE	You start more ... than ...	You start more tasks than you can finish.	_	_	_	_	_	_	OTHER
+NO_CUE	You still need to find the keys to	You still need to find the keys to the office.	_	_	_	_	_	_	OTHER
+NO_CUE	You still need to find the keys to	You still need to find the keys to what you have lost.	_	_	_	_	_	_	OTHER
+NO_CUE	You still need to find the keys to	You still need to find the keys to your happiness.	_	_	_	_	_	_	OTHER
+NO_CUE	You struggle to do things	You struggle to do things as quickly as I would have hoped.	_	_	_	_	_	_	OTHER
+NO_CUE	You struggle to do things	You struggle to do things coherently.	_	_	_	_	_	_	OTHER
+NO_CUE	You struggle to do things	You struggle to do things that others find simple.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy baking for the homeless.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy brightening peoples' day.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy dancing.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy eating at McDonald's.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy flower arranging.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy making a kinder world.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy simple pleasures.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy singing along to the radio.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy so many varied hobbies.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy taking time to relax.	_	_	_	_	_	_	OTHER
+NO_CUE	You sure do enjoy	You sure do enjoy walks in the countryside.	_	_	_	_	_	_	OTHER
+NO_CUE	You take	You take advantage of every chance you get.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You take	You take advantage of other people's good nature.	_	_	_	_	_	_	OTHER
+NO_CUE	You take	You take advantage of our business' expenses arrangements.	_	_	_	_	_	_	OTHER
+NO_CUE	You take	You take life too seriously.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You take	You take too long in the shower.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You think you are	You think you are being helpful but it hurts my feelings.	_	_	_	_	_	_	OTHER
+NO_CUE	You think you are	You think you are going places.	_	_	_	_	_	_	OTHER
+NO_CUE	You turn my	You turn my stomach when you talk about your accident.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You turn my	You turn my world upside down when you say those things.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You were mildly	You were mildly obtrusive at dinner tonight.	_	_	_	_	_	_	OTHER
+NO_CUE	You will ... anyone.	You will sweet talk anyone.	EXTREME	LEXICALIZATION	_	_	_	_	OTHER
+NO_CUE	You will ... anyone.	You will trust anyone.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You will never be a	You will never be a more positive person than I am.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You would be a good	You would be a good mother.	_	_	_	_	_	_	OTHER
+NO_CUE	You would be a good	You would be a good prime minister.	_	_	_	_	_	_	OTHER
+NO_CUE	You would be a good	You would be a good role model for others.	_	_	_	_	_	_	OTHER
+NO_CUE	You would be a good	You would be a good software tester and bug finder as everything always seems to go wrong for you!	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You would be a good	You would be a good teacher.	_	_	_	_	_	_	OTHER
+NO_CUE	You would be perfectly at home	You would be perfectly at home in a Conservative party conference.	_	_	_	_	_	_	OTHER
+NO_CUE	You would do well	You would do well if you could focus on the task.	_	_	_	_	_	_	OTHER
+NO_CUE	You would do well	You would do well in a slower paced environment.	_	_	_	_	_	_	OTHER
+NO_CUE	You would do well	You would do well in a team of quieter people.	_	_	_	_	_	_	OTHER
+NO_CUE	You would fit well in	You would fit well in an easier college course.	_	_	_	_	_	_	OTHER
+NO_CUE	You would look more	You would look more comfortable if you allowed yourself to sit less stiffly.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You would look more	You would look more suitable dressed in more formal attire.	_	_	_	_	_	_	OTHER
+NO_CUE	You would make	You would make better bread if you put in more time.	_	_	_	_	_	_	OTHER
+NO_CUE	You would not be considered	You would not be considered for any roles which required the ability to lead.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	You would not be considered	You would not be considered for promotion.	_	_	_	_	_	_	OTHER
+NO_CUE	You wouldn't	You wouldn't dare.	_	_	_	_	_	_	OTHER
+NO_CUE	You wouldn't	You wouldn't hate anyone.	_	_	_	_	_	_	OTHER
+NO_CUE	You wouldn't	You wouldn't hurt me.	_	_	_	_	_	_	OTHER
+NO_CUE	You wouldn't	You wouldn't put your own needs first.	_	_	_	_	_	_	OTHER
+NO_CUE	You'd make ...	You'd make a plan and then worry about your decisions.	_	_	_	_	_	_	OTHER
+NO_CUE	You'd tell ... how to be ...	You'd tell him how to be more proficient.	_	_	_	_	_	_	OTHER
+NO_CUE	You'd tell ... how to be ...	You'd tell the queen how to be more regal.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You'd tell ... how to be ...	You'd tell your boss how to be a better manager.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You'll do well within the confines	You'll do well within the confines of very clear instructions.	_	_	_	_	_	_	OTHER
+NO_CUE	You'll do well within the confines	You'll do well within the confines of your special abilities.	_	_	_	_	_	_	OTHER
+NO_CUE	You'll let anyone	You'll let anyone get away with their actions.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You'll let anyone	You'll let anyone ruin your confidence even when they are wrong.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You'll never	You'll never be willing to accept another person's point of view.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+NO_CUE	You'll never	You'll never get better if you don't try.	_	_	_	_	_	_	OTHER
+NO_CUE	You've been giving yourself a good workout raising	You've been giving yourself a good workout raising the bar to a point where others can meet it.	_	_	_	_	_	_	OTHER
+NO_CUE	You've been giving yourself a good workout raising	You've been giving yourself a good workout raising your anxiety levels.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You've caused a tornado of	You've caused a tornado of emotions.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You've caused a tornado of	You've caused a tornado of injustice.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You've caused a tornado of	You've caused a tornado of torment.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You've caused a tornado of	You've caused a tornado of work.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	You've redefined the term ... for me.	You've redefined the term ambiguous for me.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your ... are beginning to show.	Your prejudices are beginning to show.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... are beginning to show.	Your weaknesses are beginning to show.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... does not exist.	Your God does not exist.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	Your ... does not exist.	Your capacity to deal with multiple issues simultaneously does not exist.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your ... does not exist.	Your idea of what makes a great icebreaker does not exist.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... does not exist.	Your limit for saying yes to favours does not exist.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your ... five minutes before you arrived.	Your team completed the task five minutes before you arrived.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... in your nether regions.	Your surgical scar, unfortunately, will be visible in your nether regions.	_	_	_	TABOO	_	_	OTHER
+NO_CUE	Your ... is admirable.	Your commitment to your values is admirable.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is admirable.	Your honesty is admirable.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is admirable.	Your kindness is admirable.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is admirable.	Your patience is admirable.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is admirable.	Your willingness to endure pain in the pursuit of pleasure is admirable.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your ... is astonishing.	Your ability to concentrate is astonishing.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is astonishing.	Your adaptability is astonishing.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is astonishing.	Your commitment to doing things your own way is astonishing.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is astonishing.	Your debut novel is astonishing.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is astonishing.	Your energy is astonishing.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is astonishing.	Your hair is astonishing.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is in vain.	Your effort is in vain.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is in vain.	Your hard work is in vain.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is in vain.	Your wish to make me smile at your jokes is in vain.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is showing.	Your slip is showing.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is showing.	Your tendency to make a mountain out of a molehill is showing.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	Your ... is unmatched.	Your ability to know every aspect of your childrens lives is unmatched.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... is unmatched.	Your ability to push through no matter what is unmatched.	EXTREME	_	_	_	_	_	OTHER
+NO_CUE	Your ... must be so strong to allow ...	Your heart must be so strong to allow forgiveness.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... must be so strong to allow ...	Your patience must be so strong to allow children to play with your makeup.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... must be so strong to allow ...	Your will power must be so strong to allow you to stick to this regime.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ... of what is ... is a talent.	Your idea of what is the wrong thing to do is a talent.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	Your ... of what is ... is a talent.	Your misunderstanding of what is being communicated is a talent.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	Your ... seem to be declining.	Your numbers at work seem to be declining.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ability to ... has always inspired me.	Your ability to dance has always inspired me.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ability to ... has always inspired me.	Your ability to encourage others has always inspired me.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ability to ... has always inspired me.	Your ability to persist through difficulties has always inspired me.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ability to ... has always inspired me.	Your ability to shock has always inspired me.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	Your ability to ... has always inspired me.	Your ability to show leadership has always inspired me.	_	_	_	_	_	_	OTHER
+NO_CUE	Your ability to ignore ... is astonishing.	Your ability to ignore my well laid out instructions is astonishing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	OTHER
+NO_CUE	Your ability to ignore ... is astonishing.	Your ability to ignore the negativity is astonishing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	Your body proportions are ... than ...	Your body proportions are much harder to draw than hers.	_	_	_	_	_	_	OTHER
+NO_CUE	Your brother was just saying how much he appreciates your	Your brother was just saying how much he appreciates your blaring music while he's trying to study.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+NO_CUE	Your brother was just saying how much he appreciates your	Your brother was just saying how much he appreciates your helpfulness at home.	_	_	_	_	_	_	OTHER
+NO_CUE	Your brother was just saying how much he appreciates your	Your brother was just saying how much he appreciates your honesty.	_	_	_	_	_	_	OTHER
+NO_CUE	Your brother was just saying how much he appreciates your	Your brother was just saying how much he appreciates your kinship.	_	_	_	_	_	_	OTHER
+NO_CUE	Your brother was just saying how much he appreciates your	Your brother was just saying how much he appreciates your support with his children.	_	_	_	_	_	_	OTHER
+NO_CUE	Your brother was just saying how much he appreciates your	Your brother was just saying how much he appreciates your zest for life.	_	_	_	_	_	_	OTHER
+NO_CUE	Your commitment to ... is praiseworthy.	Your commitment to animals is praiseworthy.	_	_	_	_	_	_	OTHER
+NO_CUE	Your commitment to ... is praiseworthy.	Your commitment to being kind is praiseworthy.	_	_	_	_	_	_	OTHER
+NO_CUE	Your commitment to ... is praiseworthy.	Your commitment to equal rights is praiseworthy.	_	_	_	_	_	_	OTHER
+NO_CUE	Your commitment to ... is praiseworthy.	Your commitment to family is praiseworthy.	_	_	_	_	_	_	OTHER
+NO_CUE	Your commitment to ... is praiseworthy.	Your commitment to life's difficulties is praiseworthy.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your commitment to ... is praiseworthy.	Your commitment to the cause is praiseworthy.	_	_	_	_	_	_	OTHER
+NO_CUE	Your commitment to ... is praiseworthy.	Your commitment to your work is praiseworthy.	_	_	_	_	_	_	OTHER
+NO_CUE	Your family must never be worried about ... with you around.	Your family must never be worried about anything with you around.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your heart made	Your heart made the right choices but for the wrong reasons.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your imitation of ... is quite accurate.	Your imitation of a disinterested person is quite accurate.	_	_	_	_	_	_	OTHER
+NO_CUE	Your imitation of ... is quite accurate.	Your imitation of a goat is quite accurate.	_	_	_	_	_	_	OTHER
+NO_CUE	Your interpretation of ... is certainly radical.	Your interpretation of 'completed' is certainly radical.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your interpretation of ... is certainly radical.	Your interpretation of fashion is certainly radical.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your interpretation of ... is certainly radical.	Your interpretation of loyalty is certainly radical.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your interpretation of ... is certainly radical.	Your interpretation of salsa dancing is certainly radical.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your life is	Your life is on hold.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your life is	Your life is the result of your negative actions and thoughts.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your life is far from	Your life is far from easy.	_	_	_	_	_	_	OTHER
+NO_CUE	Your love of ... is astounding.	Your love of art is astounding.	_	_	_	_	_	_	OTHER
+NO_CUE	Your love of ... is astounding.	Your love of beautiful music is astounding.	_	_	_	_	_	_	OTHER
+NO_CUE	Your love of ... is astounding.	Your love of life and commitment to others is astounding.	_	_	_	_	_	_	OTHER
+NO_CUE	Your love of ... is astounding.	Your love of looking after rescue cats is astounding.	_	_	_	_	_	_	OTHER
+NO_CUE	Your love of ... is astounding.	Your love of musicals is astounding.	_	_	_	_	_	_	OTHER
+NO_CUE	Your love of ... is astounding.	Your love of nature is astounding.	_	_	_	_	_	_	OTHER
+NO_CUE	Your love of ... is astounding.	Your love of writing is astounding.	_	_	_	_	_	_	OTHER
+NO_CUE	Your main hobby must be	Your main hobby must be inspiring others.	_	_	_	_	_	_	OTHER
+NO_CUE	Your main hobby must be	Your main hobby must be keeping fit.	_	_	_	_	_	_	OTHER
+NO_CUE	Your main hobby must be	Your main hobby must be making people happy.	_	_	_	_	_	_	OTHER
+NO_CUE	Your main hobby must be	Your main hobby must be organising everyone.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your sexual preferences are	Your sexual preferences are a little unorthodox.	_	_	_	_	_	UNUSUAL	OTHER
+NO_CUE	Your sexual preferences are	Your sexual preferences are irrelevant.	_	_	_	_	_	_	OTHER
+You are a blasphemer.	We won't be seeing you in	We won't be seeing you in Heaven at this rate.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a blasphemer.	You are	You are a superb swearer.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a blasphemer.	You are	You are clearly an expert in swearing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a blasphemer.	You are	You are clearly leaning towards nihilism.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a blasphemer.	You are	You aren't exactly pious.	_	_	_	_	ANTONYM	_	ABUSE
+You are a blasphemer.	You are ... favourite.	You are Satan's favourite.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a blasphemer.	You are not	You are not tolerant of religion.	EXTREME	_	_	_	ANTONYM	_	OTHER
+You are a blasphemer.	You don't	You don't love god.	_	_	_	_	ANTONYM	_	OTHER
+You are a blasphemer.	You take	You take God's name in vain.	_	_	_	_	_	_	OTHER
+You are a bootlicker.	You are	You are a brown noser.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are a bootlicker.	You are	You are always happy to defer to others.	EXTREME	_	_	_	_	_	OTHER
+You are a bootlicker.	You are not	You are not much of a freethinker then.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a bootlicker.	You are not very	You are not very assertive.	_	_	_	_	_	_	OTHER
+You are a bootlicker.	You have	You have too many admirers.	_	_	_	_	_	UNUSUAL	OTHER
+You are a bootlicker.	You have turned ... into an art form.	You have turned fawning into an art form.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a bootlicker.	You like to	You like to be told what to do.	_	_	_	_	_	UNUSUAL	OTHER
+You are a bootlicker.	You like to	You like to make yourself look good with management around.	_	_	_	_	_	_	OTHER
+You are a cretin.	... wasn't your strong point.	School clearly wasn't your strong point.	_	_	_	_	_	_	ABUSE
+You are a cretin.	You are not bothered by	You are not bothered by too many brain cells.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are a cretin.	You could've gone to ..., if you knew ...	You could've gone to university, if you knew what that word meant.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a cretin.	You have	You have deficiencies.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a cretin.	You have	You have the makings of somebody who will lead an easy life.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a criminal.	Even ... would be shocked by your actions.	Even a death row occupant would be shocked by your actions.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a criminal.	I'll visit you	I'll visit you behind bars.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a criminal.	I'm looking forward to ..., where you ...	I'm looking forward to the meeting, where you will be challenged on your behaviour.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a criminal.	You are not	You are not keen on following the law.	_	_	_	_	ANTONYM	_	OTHER
+You are a criminal.	You have	You have broken the law.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are a criminal.	You have	You have light fingers and a personality that the mafia would be proud of.	EXTREME	LEXICALIZATION	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a criminal.	You have a rare and impressive talent for	You have a rare and impressive talent for disregarding rules.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a criminal.	You have always given me ... vibes.	You have always given me bad vibes.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a criminal.	You keep the police	You keep the police busy.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a criminal.	You like to	You like to live outside the law.	EXTREME	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are a criminal.	You should	You should be behind bars.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a criminal.	You'll do well within the confines	You'll do well within the confines of a prison cell.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a drug addict.	You are	You are dependent on illegal substances.	_	_	_	TABOO	_	UNUSUAL	OTHER
+You are a drug addict.	You are	You are like a walking pharmacy that specializes in getting people high.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a drug addict.	You have	You have a problem with consuming too many illicit substances.	EXTREME	_	_	TABOO	_	UNUSUAL	OTHER
+You are a drug addict.	You have	You have issues with addiction.	EXTREME	_	_	TABOO	_	UNUSUAL	OTHER
+You are a drug addict.	You never waste	You never waste a drug.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a drug addict.	You practically have a	You practically have a degree in narcotics.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a drug addict.	You rely on	You rely on stimulants daily.	EXTREME	_	_	TABOO	_	UNUSUAL	OTHER
+You are a hooligan.	When you walk the streets	When you walk the streets, mothers cross the road with their children to avoid you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a hooligan.	You are single-handedly	You are single-handedly destroying everything.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a hooligan.	You are the reason ... have ...	You are the reason football fans have a bad reputation.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a hooligan.	You have no	You have no self-control.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are a hooligan.	You should	You should do anger management training.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are a hooligan.	Your ... is astonishing.	Your lack of boundaries for others is astonishing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a macho.	Some might say it is surprising you have the power	Some might say it is surprising you have the power of speech.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a macho.	You don't have	You don't have to be the alpha all the time.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are a macho.	You exude	You exude an intense masculinity.	EXTREME	_	_	TABOO	_	UNUSUAL	OTHER
+You are a macho.	You have	You have all the social skills of a neanderthal.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a macho.	You have	You have testosterone coming out your ears.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a macho.	You have obviously prioritised ... over ...	You have obviously prioritised strength over intelligence.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a macho.	You like to	You like to conform to masculine stereotypes.	_	_	_	TABOO	_	UNUSUAL	OTHER
+You are a macho.	Your ... is showing.	Your testosterone is showing.	_	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a murderer.	... peoples' lives.	You end peoples' lives.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a murderer.	I bet people in your presence don't ... for too long.	I bet people in your presence don't retain their pulse for too long.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a murderer.	You are	You are skilled at preventing things from living.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a murderer.	You are	You are the angel of death.	EXTREME	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+You are a murderer.	You do not have ... for ...	You do not have proper regard for human life.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a murderer.	You'd make ...	You'd make the Grim Reaper scared.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a pain in the neck.	Being around you is	Being around you is far too stressful.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	Being around you is	Being around you is occasionally quite draining.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	I am glad we can	I am glad we can only meet as often as we do.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	I see you take pride in	I see you take pride in winding people up.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	I would prefer you	I would prefer you did something else, away from me.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	You are	You are a thorn in my side.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	You are	You are the reason I take painkillers.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	You are not easy to	You are not easy to get on with.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	You are starting to	You are starting to annoy me.	_	_	_	_	_	_	ABUSE
+You are a pain in the neck.	You have	You have a personality that is challenging.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	You have a rare and impressive talent for	You have a rare and impressive talent for getting under one's skin.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	You inspire people to	You inspire people to turn and run the moment they see you.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a pain in the neck.	You look ..., you should ...	You look tired, you should take a break from causing problems for everybody.	EXTREME	_	_	_	_	_	ABUSE
+You are a pain in the neck.	You make	You make my life difficult.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are a pain in the neck.	You make me want	You make me want to walk under a bus.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a pedophile.	You have	You have an unusual affinity for children.	_	_	_	_	_	UNUSUAL	OTHER
+You are a pedophile.	You have ... desires.	You have inappropriate desires.	_	_	_	TABOO	_	UNUSUAL	OTHER
+You are a pedophile.	You have a ... interest in ...	You have a sexual interest in children.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a pedophile.	You have taken ... too ...	You have taken loving children too far and too specifically.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a ruffian.	... is not your forte.	Refinement is not your forte.	_	_	_	_	ANTONYM	_	ABUSE
+You are a ruffian.	... suit you well.	The streets suit you well.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a ruffian.	You act	You act with aggression.	_	_	_	_	_	UNUSUAL	OTHER
+You are a ruffian.	You are not	You are not gentle.	_	_	_	_	ANTONYM	_	OTHER
+You are a ruffian.	You do not	You do not behave in a classy or appropriate way.	_	_	_	_	ANTONYM	_	ABUSE
+You are a ruffian.	You like to	You like to make your presence known.	_	_	_	_	_	UNUSUAL	OTHER
+You are a schemer.	You are	You are perfect at getting your own way, no matter who or what gets in the way.	EXTREME	_	_	_	_	_	OTHER
+You are a schemer.	You are the best at	You are the best at exploiting other's weaknesses.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a schemer.	You do not	You do not mind plotting to get results.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a schemer.	You have a talent for	You have a talent for under-hand plans.	EXTREME	LEXICALIZATION	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a schemer.	You like to	You like to plan things behind people's backs.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a schemer.	You literally ... people.	You literally want to use people.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a thief.	... around you.	No one's things are safe around you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a thief.	We all know that ... around you.	We all know that money vanishes around you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a thief.	You are	You are skilled at taking what is not yours.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a thief.	You are good at	You are good at taking things from others.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a thief.	You do not	You do not know the meaning of ownership.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a thief.	You have	You have an interesting interpretation of possession.	_	_	_	_	_	UNUSUAL	OTHER
+You are a thief.	You have	You have light fingers.	_	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are a thief.	You take	You take things that don't belong to you.	EXTREME	_	_	_	_	_	ABUSE
+You are a thief.	You take	You take things without asking.	EXTREME	_	_	_	_	_	OTHER
+You are a thief.	Your interpretation of ... is certainly radical.	Your interpretation of private property is certainly radical.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a traitor.	When I talk to you next, I shall remember	When I talk to you next, I shall remember not to confide in you.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a traitor.	You have no	You have no principles or morals!	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are a troll.	... people for fun.	You embarrass people for fun.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a troll.	You are an expert at	You are an expert at online offence.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a troll.	You have	You have strong opinions online.	_	_	_	_	_	UNUSUAL	OTHER
+You are a troll.	You like to	You like to hide behind insults.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a troll.	You like to	You like to make your strongest thoughts heard.	_	_	_	_	_	UNUSUAL	OTHER
+You are a troll.	You sure do enjoy	You sure do enjoy seeking attention by decimating others!	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a troublemaker.	... must be your middle name.	Trouble must be your middle name.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are a troublemaker.	... not your strong suit.	Behaving well is not your strong suit.	_	_	_	_	ANTONYM	_	ABUSE
+You are a troublemaker.	... with you is excellent ... practice.	Living with you is excellent anger management practice.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a troublemaker.	It is impressive how consistently	It is impressive how consistently trouble follows you.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a troublemaker.	You are excellent at	You are excellent at manipulating the situation.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a troublemaker.	You are not	You are not keeping the peace.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are a troublemaker.	You like to	You like to rock the boat.	_	_	_	_	_	_	OTHER
+You are a troublemaker.	You must revel in	You must revel in disaster.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a wannabe.	You are	You are obsessed with pop culture.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are a wannabe.	You are not	You are not authentic.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are a wannabe.	You are not what	You are not what you perceive to be on social media.	_	_	_	_	_	_	ABUSE
+You are a wannabe.	You are not what	You are not what you think you are.	_	_	_	_	_	UNUSUAL	ABUSE
+You are a wannabe.	You have	You have some pretty big aspirations.	_	_	_	_	_	_	OTHER
+You are a wannabe.	You inspire me to	You inspire me to not follow a career path like yours.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a wannabe.	Your commitment to ... is praiseworthy.	Your commitment to copying is praiseworthy.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are a waster.	If you ..., the world would be more ...	If you died tomorrow, the world would be more environmentally friendly.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are a waster.	You are not very	You are not very successful.	_	_	_	_	ANTONYM	_	ABUSE
+You are a waster.	You don't	You don't work enough.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are a waster.	You inspire	You inspire no one.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are a waster.	Your main hobby must be	Your main hobby must be letting life pass you by.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are an adulterer.	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many affairs.	EXTREME	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+You are an adulterer.	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many other girlfriends.	EXTREME	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+You are an adulterer.	You are	You are too generous with yourself.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are an adulterer.	You like to	You like to play the field.	_	_	_	_	_	_	OTHER
+You are an exhibitionist.	It's incredible how you showcase your ... for all to admire.	It's incredible how you showcase your body for all to admire.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are an exhibitionist.	You are	You are really out there.	_	_	_	_	_	_	OTHER
+You are an exhibitionist.	You are	You are too brave.	_	_	_	_	_	UNUSUAL	OTHER
+You are an exhibitionist.	You don't	You don't keep much under wraps.	_	_	_	_	_	UNUSUAL	ABUSE
+You are an exhibitionist.	You have	You have the personality of Las Vegas.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are an exhibitionist.	You like creating	You like creating a show everywhere.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are an imposter.	Being ... must be so hard.	Being yourself must be so hard.	_	_	_	_	_	_	ABUSE
+You are an imposter.	You are	You are an actor in disguise.	_	_	_	_	_	UNUSUAL	OTHER
+You are an imposter.	You are a master	You are a master imitator.	EXTREME	_	_	_	_	_	ABUSE
+You are an imposter.	You are a master	You are a master manipulator.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are an imposter.	You are not	You are not real.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are an imposter.	You are not	You are not who you say you are.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are an instigator.	I love that you are not afraid to ..., even though ...	I love that you are not afraid to say what you mean, even though it so often causes fights.	_	_	_	_	_	UNUSUAL	ABUSE
+You are an instigator.	It inspires me ... you were able to ...	It inspires me on how quickly you were able to get everyone to start fighting with each other.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are an instigator.	You are	You are a go getter.	_	_	_	_	_	_	OTHER
+You are an instigator.	You are the leader of	You are the leader of the troubled.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are an instigator.	You have	You have a knack for starting conflict.	_	_	_	_	_	UNUSUAL	OTHER
+You are an instigator.	You like creating	You like creating turmoil.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are an instigator.	You like to	You like to make trouble.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are an instigator.	You start more ... than ...	You start more fights than the ringing of a bell.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are annoying.	Being around you is	Being around you is exhausting.	_	_	_	_	_	UNUSUAL	ABUSE
+You are annoying.	I am glad we can	I am glad we can take a break from each other on weekends.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are annoying.	I bet people in your presence don't ... for too long.	I bet people in your presence don't hang around for too long.	_	_	_	_	_	UNUSUAL	ABUSE
+You are annoying.	I have no ... for you.	I have no time for you.	_	_	_	_	_	_	ABUSE
+You are annoying.	I prefer ... to your ...	I prefer solitude to your company.	_	_	_	_	_	UNUSUAL	ABUSE
+You are annoying.	We all know that ... around you.	We all know that people don't gravitate around you.	EXTREME	_	_	_	_	_	ABUSE
+You are annoying.	You are	You are testing my patience.	_	_	_	_	_	UNUSUAL	ABUSE
+You are annoying.	You are getting on	You are getting on my nerves.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are annoying.	You are not the best	You are not the best company.	_	_	_	_	_	_	ABUSE
+You are annoying.	You are the kind of person that	You are the kind of person that brightens up a room by leaving it.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are annoying.	You would not be considered	You would not be considered to be pleasant company.	_	_	_	_	_	_	ABUSE
+You are anorexic.	I knew ... that had ... than you.	I knew a stick that had more fat on than you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are anorexic.	If you get any ..., you'll be ...	If you get any thinner, you'll be transparent.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are anorexic.	It must save you a lot of money to be able to buy your	It must save you a lot of money to be able to buy your clothes from the children's department.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are anorexic.	You are extremely	You are extremely meager.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are anorexic.	You do not	You do not eat enough to survive.	_	_	_	_	_	UNUSUAL	OTHER
+You are anorexic.	You must be	You must be a size zero.	EXTREME	_	_	TABOO	_	UNUSUAL	OTHER
+You are anorexic.	You should	You should eat more.	_	_	_	_	_	_	OTHER
+You are anorexic.	You would look more	You would look more attractive with a bit more meat.	_	_	_	_	ANTONYM	_	ABUSE
+You are arrogant.	... always begins with you.	Every sentence always begins with you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are arrogant.	Being ... must be nice.	Being so belittling must be nice.	_	_	_	_	_	UNUSUAL	ABUSE
+You are arrogant.	I'll be so proud of you when you finally	I'll be so proud of you when you finally accept your faults.	_	_	_	_	_	_	ABUSE
+You are arrogant.	If ..., you might struggle to ...	If your head gets any bigger, you might struggle to fit through the door.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are arrogant.	It's great that you are so	It's great that you are so confident in your inabilities.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are arrogant.	It's incredible how you showcase your ... for all to admire.	It's incredible how you showcase your 'achievements' for all to admire.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are arrogant.	The sight of you ...	The sight of you gets on my nerves.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are arrogant.	You are	You are overwhelmingly confident.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are arrogant.	You are not	You are not God Almighty, you know.	_	_	_	_	_	_	ABUSE
+You are arrogant.	You could	You could learn to be more modest.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are arrogant.	You have a lot of	You have a lot of ego.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are arrogant.	You should compete in	You should compete in the ego olympics.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are arrogant.	You sure do enjoy	You sure do enjoy believing in yourself and neglecting to request help.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are arrogant.	You think you are	You think you are better at DIY than everyone else.	EXTREME	_	_	_	_	_	ABUSE
+You are arrogant.	You'd tell ... how to be ...	You'd tell the Prince of Wales how to be polite.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are arrogant.	Your ... is unmatched.	Your ego is unmatched.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are arrogant.	Your ... must be so strong to allow ...	Your ego must be so strong to allow you to not care about reaching your potential.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are arrogant.	Your love of ... is astounding.	Your love of yourself is astounding.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are barbaric.	Even ... would be shocked by your actions.	Even Genghis Khan would be shocked by your actions.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are barbaric.	I presume you ... with your behaviour.	I presume you live in a cave, with your behaviour.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are beggarly.	I bet you rake it in	I bet you rake it in the amount of money people chuck at you on the street.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are beggarly.	It would be great if you weren't	It would be great if you weren't so needy.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are beggarly.	You are	You are always asking for things from others.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are beggarly.	You are	You are beyond frugal.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are beggarly.	You are	You are on food stamps.	_	_	_	_	_	UNUSUAL	OTHER
+You are beggarly.	You could graduate from the school of	You could graduate from the school of hassling people for money.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are beggarly.	You like to	You like to ask people for money.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are beggarly.	You live in	You live in poverty.	_	_	_	_	_	_	ABUSE
+You are beggarly.	You never seem to	You never seem to have any of your own things.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are beggarly.	You rely on	You rely on the kindness of strangers.	_	_	_	_	_	UNUSUAL	ABUSE
+You are bossy.	... has never really been your thing.	Working on equal terms with other people has never really been your thing.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are bossy.	I bet people in your presence don't ... for too long.	I bet people in your presence don't speak for too long.	_	_	_	_	_	UNUSUAL	ABUSE
+You are bossy.	If I ever need someone to ..., I will look ...	If I ever need someone to criticise me, I will look you up.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are bossy.	You are	You are a natural leader.	_	_	_	_	_	_	OTHER
+You are bossy.	You are	You are an intense delegator.	EXTREME	_	_	_	_	_	OTHER
+You are bossy.	You are	You are headstrong.	_	LEXICALIZATION	_	_	_	UNUSUAL	OTHER
+You are bossy.	You clearly like	You clearly like to be the one in charge no matter the cost.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are bossy.	You have	You have the makings of the great leader of North Korea.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are bossy.	You like to	You like to tell people what to do.	_	_	_	_	_	UNUSUAL	OTHER
+You are bossy.	You literally ... people.	You literally intimidate people.	_	_	_	_	_	UNUSUAL	ABUSE
+You are bossy.	You must love having people	You must love having people clean up after your mess.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are bossy.	You would make	You would make a great dictator.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are bossy.	You'd tell ... how to be ...	You'd tell the sea how to be wet.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are callous.	... comes naturally to you.	Presenting an indifferent appearance comes naturally to you.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are callous.	... is foreign to you.	The feeling of emotions is foreign to you.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are callous.	I bet you slow down for	I bet you slow down for no one.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are callous.	I can't imagine anyone coming to you when they need	I can't imagine anyone coming to you when they need a shoulder to cry on.	EXTREME	_	_	_	_	_	ABUSE
+You are callous.	I'm guessing ... doesn't exist in your dictionary.	I'm guessing sympathy doesn't exist in your dictionary.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are callous.	If ... you wouldn't care less.	If something bad happened you wouldn't care less.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are callous.	The sight of you ...	The sight of you makes me feel cold.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are callous.	You are	You are emotionally deprived.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are callous.	You are not very	You are not very sensitive.	_	_	_	_	ANTONYM	_	OTHER
+You are callous.	You don't care about	You don't care about other people very much.	_	_	_	_	ANTONYM	_	ABUSE
+You are callous.	You don't seem to have many	You don't seem to have many saving graces.	_	_	_	_	ANTONYM	_	ABUSE
+You are callous.	You don't waste	You don't waste energy by concerning yourself with the feelings of others.	_	_	_	_	ANTONYM	_	ABUSE
+You are callous.	You have a talent for	You have a talent for only regarding yourself.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are callous.	Your brother was just saying how much he appreciates your	Your brother was just saying how much he appreciates your ability to completely ignore the stresses of other peoples lives.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are callous.	Your heart made	Your heart made an iceberg look warm.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are callous.	Your heart made	Your heart made the temperature drop by 20 degrees.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are chaotic.	... always begins with you.	Chaos always begins with you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are chaotic.	I gather you don't get carried away with	I gather you don't get carried away with cleaning the house.	_	_	_	_	_	_	ABUSE
+You are chaotic.	I see that you don't value	I see that you don't value order.	_	_	_	_	ANTONYM	_	ABUSE
+You are chaotic.	With you, I am	With you, I am always exhausted.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are chaotic.	You are	You are a free thinker.	_	_	_	_	_	_	OTHER
+You are chaotic.	You are	You are always quite the hurricane.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are chaotic.	You are	You are hard to control.	_	_	_	_	_	_	OTHER
+You are chaotic.	You could	You could benefit from being more organised.	_	_	_	_	_	_	OTHER
+You are chaotic.	You lack	You lack organisation.	_	_	_	_	ANTONYM	_	OTHER
+You are chaotic.	You make	You make everyone's head spin.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are chaotic.	You seem to	You seem to be all over the place.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are chaotic.	You've caused a tornado of	You've caused a tornado of a mess.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are chaotic.	Your life is	Your life is a tad messy!	_	_	_	_	_	UNUSUAL	ABUSE
+You are chaotic.	Your life is far from	Your life is far from orderly.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are childish.	... must have been really good if you don't want to ...	Your childhood must have been really good if you don't want to grow up.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are childish.	... with you is excellent ... practice.	Conversing with you is excellent child-rearing practice.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are childish.	I'll get you some	I'll get you some coloring books to play with since you obviously need them.	_	_	_	_	_	UNUSUAL	ABUSE
+You are childish.	I'm looking forward to ..., where you ...	I'm looking forward to your second growth spurt, where you finally become an adult.	_	_	_	_	_	UNUSUAL	ABUSE
+You are childish.	You exude	You exude the mind of a child, if not the charm.	_	_	_	_	_	UNUSUAL	ABUSE
+You are childish.	You have	You have the mentality of a pre-pubescent adult.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are childish.	You have some ... to do.	You have some growing up to do.	_	_	_	_	_	UNUSUAL	ABUSE
+You are childish.	You need to act	You need to act your age.	_	_	_	_	_	UNUSUAL	ABUSE
+You are childish.	You never seem to	You never seem to grow up.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are childish.	You should	You should go to your mom and cry.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are clumsy.	You are excellent at	You are excellent at breaking things.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are clumsy.	You are not very	You are not very coordinated.	_	_	_	_	ANTONYM	_	OTHER
+You are clumsy.	You could	You could trip over your own feet.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are clumsy.	You have a talent for	You have a talent for bumping into things.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are corrupt.	... are repellent.	Your ideas about politics are repellent.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are corrupt.	... comes naturally to you.	Deception comes naturally to you.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are corrupt.	... not your strong suit.	Morals are not your strong suit.	_	_	_	_	ANTONYM	_	ABUSE
+You are corrupt.	I bet you rake it in	I bet you rake it in with those tax avoidance schemes.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are corrupt.	I wouldn't	I wouldn't trust you with my last £1.	EXTREME	_	_	_	ANTONYM	_	ABUSE
+You are corrupt.	You are	You are willing to bend the truth for financial gain.	_	_	_	_	ANTONYM	_	OTHER
+You are corrupt.	You do not	You do not abide by the law.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are corrupt.	You have	You have loose morals.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are corrupt.	You must be the king of	You must be the king of corruption.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are corrupt.	Your ability to ... has always inspired me.	Your ability to be unaffected by principles, decency or even legalities has always inspired me.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are credulous.	I am sure your second name is	I am sure your second name is gullible.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are credulous.	I love your confidence in your	I love your confidence in your own opinion, despite the evidence.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are credulous.	You are so	You are so trusting about everything.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are credulous.	You believe	You believe anyone.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are credulous.	You believe	You believe anything anyone tells you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are credulous.	You believe	You believe that Santa is real.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are credulous.	You don't waste	You don't waste time thinking before you believe something.	_	_	_	_	_	_	ABUSE
+You are credulous.	You'll let anyone	You'll let anyone take your money.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are credulous.	Your ... is admirable.	Your naivety is admirable.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are demented.	You are	You are acting irrationally.	_	_	_	_	_	UNUSUAL	OTHER
+You are demented.	You are	You are unstable.	_	_	_	_	_	UNUSUAL	ABUSE
+You are demented.	You are not	You are not being very rational.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are demented.	You are not in your	You are not in your right mind.	EXTREME	LEXICALIZATION	_	_	ANTONYM	UNUSUAL	ABUSE
+You are demented.	You are not well	You are not well in the head.	EXTREME	LEXICALIZATION	_	TABOO	ANTONYM	UNUSUAL	ABUSE
+You are demented.	You have	You have a short attention span don't you.	_	_	_	_	_	_	ABUSE
+You are demented.	You have	You have a short term memory don't you.	_	_	_	_	_	_	ABUSE
+You are demented.	You have	You have poor memory.	_	_	_	_	_	UNUSUAL	OTHER
+You are demented.	You seem to	You seem to forget everything anyone tells you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are disgusting.	... are repellent.	Your mannerisms are repellent.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are disgusting.	... when I'm around you.	My skin crawls when I'm around you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are disgusting.	You are	You are morally bankrupt.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are disgusting.	You are not	You are not appealing at all.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are disgusting.	You are not	You are not to my taste.	_	_	_	_	ANTONYM	_	ABUSE
+You are disgusting.	You are not exactly	You are not exactly endearing.	_	_	_	_	ANTONYM	_	ABUSE
+You are disgusting.	You turn my	You turn my stomach.	EXTREME	LEXICALIZATION	_	TABOO	_	_	ABUSE
+You are dishonest.	... appears to have eluded you.	The truth appears to have eluded you.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are dishonest.	... does not sit well with you.	Honesty does not sit well with you.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are dishonest.	I ... you.	I can't trust you.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are dishonest.	I ... you.	I have trouble believing you.	_	_	_	_	_	_	OTHER
+You are dishonest.	I find you	I find your portrayal of events to be deliberately inaccurate.	_	_	_	_	_	_	OTHER
+You are dishonest.	If I ever need someone to ..., I will look ...	If I ever need someone to make up the numbers, I will look to you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are dishonest.	If I had a nickel for ..., I would be ...	If I had a nickel for every honest thing you said, I would be broke.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are dishonest.	You are	You are a wolf in sheeps clothing.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are dishonest.	You are a master at	You are a master at bending the truth.	EXTREME	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are dishonest.	You are so imaginative at	You are so imaginative at changing facts almost without anyone noticing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are dishonest.	You have lost	You have lost all credibility.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are dishonest.	You obviously wouldn't understand why	You obviously wouldn't understand why I need to confide in my friend.	_	_	_	_	_	_	ABUSE
+You are drunk.	You are	You are rather merry.	_	_	_	_	_	_	OTHER
+You are drunk.	You clearly like	You clearly like a drink every night.	_	_	_	TABOO	_	_	ABUSE
+You are drunk.	You have	You have had one too many.	_	_	_	TABOO	_	_	OTHER
+You are drunk.	You've been giving yourself a good workout raising	You've been giving yourself a good workout raising alcoholic drinks to your mouth.	_	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+You are evil.	... are in your future.	Bad people are in your future.	_	_	_	_	_	UNUSUAL	ABUSE
+You are evil.	You are not	You are not a good person.	_	_	_	_	ANTONYM	_	ABUSE
+You are evil.	You are not	You are not a saint.	_	_	_	_	ANTONYM	_	ABUSE
+You are evil.	You are not	You are not humane to others.	_	_	_	_	ANTONYM	_	ABUSE
+You are evil.	You are not very	You are not very virtuous.	_	_	_	_	ANTONYM	_	OTHER
+You are evil.	You must have missed the day they gave everyone	You must have missed the day they gave everyone a heart.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are evil.	You reside with	You reside with Satan.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are fat.	You are	You are big-boned.	EXTREME	LEXICALIZATION	_	TABOO	_	UNUSUAL	ABUSE
+You are fat.	You clearly like	You clearly like your food.	EXTREME	_	_	_	_	_	ABUSE
+You are fat.	Your ... must be so strong to allow ...	Your stomach must be so strong to allow you to eat such big meals.	_	_	_	TABOO	_	_	ABUSE
+You are gossipy.	You are the perfect source if	You are the perfect source if anyone needs to find out anything about anyone.	_	_	_	_	_	UNUSUAL	ABUSE
+You are gossipy.	You have very loose	You have very loose lips.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are gossipy.	You like to	You like to talk about others a lot.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are gossipy.	You sure do enjoy	You sure do enjoy talking.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are greedy.	I can't believe	I can't believe how much you take and take.	_	_	_	_	_	_	ABUSE
+You are greedy.	No one would describe you as a	No one would describe you as an overly generous person.	EXTREME	_	_	_	ANTONYM	_	ABUSE
+You are greedy.	You are	You are hungry for more.	_	_	_	_	_	_	OTHER
+You are greedy.	You are known as	You are known as tight fisted.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are greedy.	You are not	You are not generous.	_	_	_	_	ANTONYM	_	ABUSE
+You are greedy.	You are not	You are not one for sharing.	_	_	_	_	ANTONYM	_	ABUSE
+You are greedy.	You love	You love your food don't you, you are never full.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are henpecked.	It's obvious that you don't	It's obvious that you don't wear the trousers in your relationship.	_	LEXICALIZATION	_	_	_	_	ABUSE
+You are henpecked.	You are	You are under the thumb.	_	LEXICALIZATION	_	_	_	_	ABUSE
+You are henpecked.	You don't have	You don't have a backbone.	_	LEXICALIZATION	_	_	ANTONYM	_	ABUSE
+You are hypocritical.	I gather you don't get carried away with	I gather you don't get carried away with consistency.	_	_	_	_	_	_	ABUSE
+You are hypocritical.	You act	You act against your own morals.	_	_	_	_	_	UNUSUAL	OTHER
+You are hypocritical.	You are excellent at	You are excellent at saying one thing but doing the opposite.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are hypocritical.	You don't	You don't practice what you preach.	_	_	_	_	_	_	OTHER
+You are hypocritical.	You don't	You don't seem to lead by example.	_	_	_	_	_	_	OTHER
+You are hypocritical.	You have a great	You have a great double standard.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are hypocritical.	You make	You make double standards sound like a term of endearment.	_	_	_	_	_	UNUSUAL	ABUSE
+You are hypocritical.	You should	You should follow your own advice.	_	_	_	_	_	_	OTHER
+You are ignorant.	... around you.	You never pay attention to those around you.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are ignorant.	Being ... must be nice.	Being so unaware of your surroundings must be nice.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are ignorant.	I always thought you were talented in	I always thought you were talented in selective hearing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are ignorant.	You are	You are misinformed!	_	_	_	_	_	_	OTHER
+You are ignorant.	You have	You have missed the point.	_	_	_	_	_	_	OTHER
+You are ignorant.	You lack	You lack the knowledge you think you have.	_	_	_	_	ANTONYM	_	ABUSE
+You are ignorant.	You live in	You live in your own Fantasy World where everything is fine and there's never a care around.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are ignorant.	You raise ... to a new level.	You raise unawareness to a new level.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incestous.	... is normal to you.	Interbreeding is normal to you.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are incestous.	I sense you take ... too far.	I sense you take keeping it in the family rather too far.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incestous.	Unlike you, not everyone enjoys	Unlike you, not everyone enjoys sexual relations with family.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are incestous.	You have	You have a loving relationship with your sibling.	_	_	_	_	_	UNUSUAL	OTHER
+You are incestous.	You love	You love your family beyond any bounds.	EXTREME	_	_	_	_	_	OTHER
+You are incestous.	You love	You love your family in the wrong way.	_	_	_	_	_	UNUSUAL	OTHER
+You are incestous.	Your brother was just saying how much he appreciates your	Your brother was just saying how much he appreciates your sexual congress with him.	_	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	... comes naturally to you.	Nothing comes naturally to you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	... is not your ... attribute.	Competence is not your strongest attribute.	_	_	_	_	ANTONYM	_	ABUSE
+You are incompetent.	... with you is excellent ... practice.	Playing golf with you is excellent ball retrieving practice.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	Completing ... must be your life goal.	Completing simple tasks must be your life goal.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	I can't imagine anyone coming to you when they need	I can't imagine anyone coming to you when they need a hand with paperwork.	EXTREME	_	_	_	_	_	ABUSE
+You are incompetent.	I think we need to give you ... from now on.	I think we need to give you the very simple tasks from now on.	_	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	I would rather ... than have you ...	I would rather let the leak continue than have you climb a ladder!	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	If I ever need someone to ..., I will look ...	If I ever need someone to make me look better, I will look for you.	_	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	If I had a nickel for ..., I would be ...	If I had a nickel for everyone of your mistakes, I would be rich.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	You are	You are challenged in the most basic concepts.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	You are bad at	You are bad at life.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	You are single-handedly	You are single-handedly managing to destroy the progress on our project.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	You have	You have all the tools you need but the skills of a beginner.	_	_	_	_	_	_	ABUSE
+You are incompetent.	You have	You have the mentality of a beginner.	_	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	You must be	You must be very good at other things.	_	_	_	_	_	_	ABUSE
+You are incompetent.	You shouldn't be allowed to	You shouldn't be allowed to cook without supervision.	_	_	_	_	_	UNUSUAL	ABUSE
+You are incompetent.	You'll never	You'll never make CEO.	EXTREME	_	_	_	_	_	ABUSE
+You are irresponsible.	I can only hope that	I can only hope that your pets are capable of opening their own cans of food.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are irresponsible.	I wouldn't	I wouldn't trust you with anything important.	EXTREME	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are irresponsible.	You are	You are hot headed.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	OTHER
+You are irresponsible.	You are not very	You are not very responsible.	_	_	_	_	ANTONYM	_	OTHER
+You are irresponsible.	Your ... is astonishing.	Your lack of self-awareness is astonishing.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are lame.	You are devoid of	You are devoid of character.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are lame.	You are so	You are so slow that you give hope to 3 legged racehorses.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are lame.	You are the opposite	You are the opposite of efficient.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are lame.	You have	You have to act more reasonable.	_	_	_	_	ANTONYM	_	OTHER
+You are lame.	You have potential to be	You have potential to be cooler.	_	_	_	_	ANTONYM	_	ABUSE
+You are lame.	You lack	You lack strength of character.	_	_	_	_	ANTONYM	_	ABUSE
+You are lame.	You obviously wouldn't understand why	You obviously wouldn't understand why people don't like you.	_	_	_	_	_	_	ABUSE
+You are lazy.	I love the way your	I love the way your lawn is always long.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are lazy.	It is impressive how consistently	It is impressive how consistently you forget to put the bins out.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are lazy.	No one would describe you as a	No one would describe you as a hard worker.	EXTREME	_	_	_	ANTONYM	_	ABUSE
+You are lazy.	We get it, you don't like	We get it, you don't like to break a sweat at work.	_	_	_	_	ANTONYM	_	ABUSE
+You are lazy.	We won't be seeing you in	We won't be seeing you in the finals until you start practicing.	_	_	_	_	_	_	ABUSE
+You are lazy.	You are a master at	You are a master at avoiding the task in hand.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are lazy.	You are good at	You are good at procrastinating.	_	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are lazy.	You are known as	You are known as a serial procrastinator.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are lazy.	You are not exactly	You are not exactly an active person, are you.	_	_	_	_	ANTONYM	_	ABUSE
+You are lazy.	You are particularly talented at	You are particularly talented at getting out of making the tea at break times.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are lazy.	You are particularly talented at	You are particularly talented at pretending to be busy.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are lazy.	You are truly the best at	You are truly the best at doing nothing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are lazy.	You don't	You don't do very much.	_	_	_	_	ANTONYM	_	OTHER
+You are lazy.	You have a great	You have a great ability to waste time.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are lazy.	You have turned ... into an art form.	You have turned procrastination into an art form.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are lazy.	You must be the king of	You must be the king of idleness.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are lazy.	You should	You should think about being more active.	_	_	_	_	ANTONYM	_	OTHER
+You are lazy.	Your love of ... is astounding.	Your love of napping on the job is astounding.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are lazy.	Your main hobby must be	Your main hobby must be watching television.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are lecherous.	You are the opposite	You are the opposite of a virgin.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are lecherous.	You have ... desires.	You have offensive sexual desires.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are lecherous.	You seem to have	You seem to have a strong appreciation of the female form.	_	_	_	_	_	UNUSUAL	OTHER
+You are lecherous.	You would make	You would make a nun blush.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are lecherous.	Your ... in your nether regions.	Your brain is stuck in your nether regions.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are licentious.	It's generous of you to share ... with ...	It's generous of you to share your body with so many people.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are licentious.	You are	You are sexually unrestrained.	EXTREME	_	_	TABOO	_	UNUSUAL	OTHER
+You are licentious.	You are not very	You are not very restrained.	_	_	_	_	_	_	OTHER
+You are licentious.	You enjoy sharing your	You enjoy sharing your genitals with everyone you lay your eyes on.	EXTREME	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+You are licentious.	You enjoy sharing your	You enjoy sharing your lack of inhibition.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are licentious.	You have	You have a misguided moral compass.	_	_	_	_	_	UNUSUAL	ABUSE
+You are licentious.	You have	You have had a lot of romantic partners.	EXTREME	_	_	TABOO	_	UNUSUAL	OTHER
+You are licentious.	Your family must never be worried about ... with you around.	Your family must never be worried about the continuation of the genetic line with you around.	EXTREME	_	_	TABOO	_	_	ABUSE
+You are mad.	... is foreign to you.	Reason is foreign to you.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are mad.	I think we need to give you ... from now on.	I think we need to give you anti-psychotics from now on.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are mad.	You are not	You are not afraid to stare at people.	_	_	_	_	_	UNUSUAL	ABUSE
+You are mad.	You are not	You are not sane.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are mad.	You have	You have wild and imaginative thoughts.	_	_	_	_	_	UNUSUAL	OTHER
+You are mad.	You have lost	You have lost the plot.	_	_	_	_	_	_	ABUSE
+You are mad.	You may be missing some	You may be missing some brain cells.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are mad.	You'll do well within the confines	You'll do well within the confines of padded walls.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are mean.	... around you.	You make me not want to be around you.	_	_	_	_	_	UNUSUAL	ABUSE
+You are mean.	We get it, you don't like	We get it, you don't like people.	_	_	_	_	_	UNUSUAL	ABUSE
+You are mean.	You are not	You are not kind.	_	_	_	_	ANTONYM	_	OTHER
+You are mean.	You are not the most	You are not the most delightful person.	_	_	_	_	ANTONYM	_	ABUSE
+You are mean.	You are really amazing at	You are really amazing at not being nice.	EXTREME	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are mean.	You don't exactly bring ... around you.	You don't exactly bring sunshine and flowers around you.	_	_	_	_	_	_	ABUSE
+You are nonchalant.	Being ... must be nice.	Being oblivious to the housing crisis must be nice.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are nonchalant.	If ... you wouldn't care less.	If we got lost you wouldn't care less.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are nonchalant.	It's admirable that you	It's admirable that you seem to care so little about the opinions of others.	EXTREME	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are nonchalant.	It's great that you are so	It's great that you are so laidback with no care for the paperwork around you.	_	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are nonchalant.	You are not	You are not interested in anything at all.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are nonchalant.	You are the leader of	You are the leader of independent women who do not worry about responsibilities.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are nonchalant.	You don't	You don't take things seriously.	_	_	_	_	_	UNUSUAL	OTHER
+You are nonchalant.	You don't care about	You don't care about appearances at all.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are nonchalant.	You would fit well in	You would fit well in with people who are always late.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are obscene.	You are not	You are not behaving in an appropriate manner.	_	_	_	_	_	_	OTHER
+You are obscene.	You are not very	You are not very decent.	_	_	_	_	ANTONYM	_	ABUSE
+You are obscene.	You are very	You are very daring.	_	_	_	_	_	_	OTHER
+You are obscene.	You have a way of	You have a way of blurring the lines of standards of decency.	_	_	_	_	_	_	ABUSE
+You are obscene.	You seem to have	You seem to have skipped the social niceties classes.	_	_	_	_	_	UNUSUAL	ABUSE
+You are officious.	It is amazing on how much you	It is amazing on how much you think you can help in others difficulties.	_	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are officious.	You are	You are assertive with your authority.	_	_	_	_	_	UNUSUAL	OTHER
+You are officious.	You are	You are stern.	_	_	_	_	_	UNUSUAL	OTHER
+You are officious.	You are extremely enthusiastic about offering	You are extremely enthusiastic about offering your points of view.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are officious.	You are very	You are very serious.	_	_	_	_	_	_	OTHER
+You are officious.	You like to	You like to take over.	_	_	_	_	_	_	OTHER
+You are officious.	You should	You should help less.	_	_	_	_	_	UNUSUAL	OTHER
+You are officious.	You've redefined the term ... for me.	You've redefined the term micro management for me.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are opportunistic.	It's amazing how you are always so quick to	It's amazing how you are always so quick to take advantage.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are opportunistic.	You are very good at taking	You are very good at taking advantage of opportunities at all costs.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are opportunistic.	You are very good at taking	You are very good at taking the advantage.	_	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are opportunistic.	You are very happy to	You are very happy to let me do all the work and let you get your credit.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are opportunistic.	You don't	You don't make informed decisions.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are opportunistic.	You take	You take advantage of people's goodwill.	_	_	_	_	_	_	ABUSE
+You are paranoid.	I ... you.	I feel like you have someone watching you.	_	_	_	_	_	UNUSUAL	OTHER
+You are paranoid.	I ... you.	I love the fact that you are so concerned about others taking advantage of you.	_	_	_	_	_	UNUSUAL	OTHER
+You are paranoid.	I love the way your	I love the way your delusions dictate your behaviour.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are paranoid.	You are	You are mistrustful.	_	_	_	_	_	_	OTHER
+You are paranoid.	You are not	You are not one for taking things at face value.	_	_	_	_	_	_	OTHER
+You are paranoid.	You are scared of	You are scared of anything and everything.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are pathetic.	I see no ... in you.	I see no value in you.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are pathetic.	You are not even	You are not even worth my breath.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are pathetic.	You are not what	You are not what your mother expected you to be.	_	_	_	_	_	UNUSUAL	ABUSE
+You are pathetic.	You believe	You believe that you excel at everything, but you do not.	_	_	_	_	_	UNUSUAL	ABUSE
+You are pathetic.	You don't	You don't inspire me to even give you time.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are pathetic.	You draw a sense ... from me.	You draw a sense of pity from me.	_	_	_	_	_	UNUSUAL	ABUSE
+You are pathetic.	You have a real talent for	You have a real talent for making limp lettuce seem dynamic.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are pathetic.	You leave no ... at all.	You leave no impression at all.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are pathetic.	You make	You make others feel pity for you.	_	_	_	_	_	_	ABUSE
+You are perverse.	... must be your middle name.	Vulgar must be your middle name.	_	_	_	_	_	UNUSUAL	ABUSE
+You are perverse.	It's amazing that you find the time to have so many	It's amazing that you find the time to have so many inappropriate ideas.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are perverse.	You are not	You are not being very reasonable.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are perverse.	You have	You have some odd ideas of fun.	_	_	_	_	_	UNUSUAL	OTHER
+You are perverse.	Your ... of what is ... is a talent.	Your ignorance of what is reasonable behavior is a talent.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are perverse.	Your sexual preferences are	Your sexual preferences are an acquired taste.	EXTREME	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+You are petulant.	... with you is excellent ... practice.	Dealing with you is excellent parenting practice.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are petulant.	I'll be so proud of you when you finally	I'll be so proud of you when you finally grow up.	_	_	_	_	_	UNUSUAL	ABUSE
+You are petulant.	Someone woke up	Someone woke up on the wrong side of the bed.	_	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are petulant.	You act	You act very emotionally and come across as moody.	_	_	_	_	_	UNUSUAL	OTHER
+You are petulant.	You and your	You and your adolescent qualities.	_	_	_	_	_	UNUSUAL	ABUSE
+You are petulant.	You are	You are a bit touchy.	_	_	_	_	_	_	OTHER
+You are petulant.	You are	You are rather self assured and particular.	_	_	_	_	_	UNUSUAL	OTHER
+You are petulant.	You are not very	You are not very easy going.	_	_	_	_	ANTONYM	_	OTHER
+You are petulant.	You do not	You do not control your temper well.	_	_	_	_	_	_	OTHER
+You are petulant.	You really ..., regardless ...	You really speak your mind, regardless if you make the person cry.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are petulant.	Your imitation of ... is quite accurate.	Your imitation of a small child is quite accurate.	EXTREME	_	_	_	_	_	ABUSE
+You are pompous.	How wonderful that you are always	How wonderful that you are always able to put your self first.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are pompous.	It is very brave how you	It is very brave how you pay no mind to the comfort of others when expressing your thoughts.	_	_	OPPOSING_SENTIMENT	_	ANTONYM	_	ABUSE
+You are pompous.	You are not	You are not the least bit self-conscious.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are pompous.	You think you are	You think you are above everyone else.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are prissy.	You are	You are overly precise and exacting.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are prissy.	You are	You are too fussy about keeping up appearances.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are prissy.	You are great at	You are great at making sure everything is perfect.	_	_	_	_	_	_	ABUSE
+You are prissy.	You are very	You are very demanding.	_	_	_	_	_	_	OTHER
+You are prissy.	You don't	You don't like to get your hair wet do you.	_	_	_	_	_	_	OTHER
+You are prissy.	You take	You take the joy out of everything.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are prying.	You are	You are asking about things that should not be your concern.	_	_	_	_	_	_	OTHER
+You are prying.	You are	You are curious.	_	_	_	_	_	_	OTHER
+You are prying.	You are	You are digging a little too deep.	_	_	_	_	_	_	OTHER
+You are prying.	You are	You are far too inquisitive about others' affairs.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are prying.	You are	You are inquisitive.	_	_	_	_	_	UNUSUAL	OTHER
+You are prying.	You are	You are such a super sleuth.	EXTREME	_	_	_	_	_	OTHER
+You are prying.	You are	You are too nosey.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are prying.	You have a ... interest in ...	You have a suspiciously keen interest in the lives of others.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are prying.	You like to	You like to know things that you don't need to know.	_	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+You are prying.	You take	You take great interest in other people's personal business.	_	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are prying.	Your main hobby must be	Your main hobby must be people watching.	_	_	_	_	_	UNUSUAL	ABUSE
+You are quarrelsome.	... is normal to you.	Arguing every day is normal to you.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are quarrelsome.	... must be your middle name.	Argument must be your middle name.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are quarrelsome.	You are	You are always ready for a fight.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are quarrelsome.	You are	You are being troubling to the group.	_	_	_	_	_	_	OTHER
+You are quarrelsome.	You are great at being	You are great at being contrary.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are quarrelsome.	You are very happy to	You are very happy to find fault with others.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are quarrelsome.	You have	You have an argument for everything.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are quarrelsome.	You like to	You like to voice your own opinions loudly.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are quarrelsome.	You love	You love to look for an issue.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are quarrelsome.	You make	You make it hard to agree.	_	_	_	_	_	_	OTHER
+You are quarrelsome.	You seem to	You seem to enjoy picking fights with people.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are rude.	... appears to have eluded you.	Politeness appears to have eluded you.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are rude.	I ... you.	I can't see how anyone would like you.	EXTREME	_	_	_	_	_	ABUSE
+You are rude.	I love the way your	I love the way your thoughts come straight out of your mouth.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are rude.	I see you take pride in	I see you take pride in making sure the customer never returns again.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are rude.	I'm guessing ... doesn't exist in your dictionary.	I'm guessing gratitude doesn't exist in your dictionary.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are rude.	It is very brave how you	It is very brave how you ignore me.	_	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are rude.	You are	You are challenged in the kindness department.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are rude.	You are good at	You are good at making other people feel inadequate.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are rude.	You are not	You are not nice.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are rude.	You are not exactly	You are not exactly an angel.	_	_	_	_	ANTONYM	_	ABUSE
+You are rude.	You are not very	You are not very sociable.	_	_	_	_	ANTONYM	_	ABUSE
+You are rude.	You are not well	You are not well-behaved.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You are rude.	You are very	You are very loud with your thoughts.	_	_	_	_	_	UNUSUAL	ABUSE
+You are rude.	You are very good at	You are very good at offending others.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are rude.	You could	You could help make yourself seem less hostile by being welcoming with your body language.	_	_	_	_	_	_	ABUSE
+You are rude.	You didn't get	You didn't get blessed with charm.	_	_	_	_	ANTONYM	_	ABUSE
+You are rude.	You do not	You do not treat others with respect.	_	_	_	_	_	UNUSUAL	OTHER
+You are rude.	You don't	You don't phrase things in a polite way.	_	_	_	_	ANTONYM	_	OTHER
+You are rude.	You don't exactly bring ... around you.	You don't exactly bring light and love around you.	_	_	_	_	_	_	ABUSE
+You are rude.	You have	You have all the personal skills of an attack dog.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are rude.	You have	You haven't got the best manners.	_	_	_	_	ANTONYM	_	OTHER
+You are rude.	You make	You make a lot of noise.	_	_	_	_	_	UNUSUAL	ABUSE
+You are rude.	You must love having people	You must love having people hate you.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are rude.	You should compete in	You should compete in throwing insults.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are rude.	Your ... does not exist.	Your sense of decency does not exist.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are ruthless.	There is ... in your life.	There is no gratitude in your life.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are ruthless.	You are	You are able to ignore people's feelings.	_	_	_	_	_	_	OTHER
+You are ruthless.	You are great at	You are great at putting yourself first.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are ruthless.	You are very good at	You are very good at putting feelings aside.	_	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+You are ruthless.	You like to	You like to overstep your boundaries.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are ruthless.	You raise ... to a new level.	You raise Darwinism to a new level.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are ruthless.	You will never be a	You will never be a considerate person.	EXTREME	_	_	_	ANTONYM	_	ABUSE
+You are ruthless.	Your ... does not exist.	Your social decency does not exist.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are sadistic.	I bet you slow down for	I bet you slow down for car crashes.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are sadistic.	It's amazing how creative you are at	It's amazing how creative you are at inflicting pain on others.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are sadistic.	You are so imaginative at	You are so imaginative at thinking of ways to hurt people.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are sadistic.	You must revel in	You must revel in making people feel uncomfortable.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are sadistic.	You must revel in	You must revel in the pain of others.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are sadistic.	You take	You take pleasure from watching others in pain.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are sadistic.	Your ... is unmatched.	Your love of seeing people fail is unmatched.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are sadistic.	Your ability to ... has always inspired me.	Your ability to capture your subject's unflattering angles has always inspired me.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are scary.	I always need ... with you.	I always need to be wary with you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are scary.	I wouldn't	I wouldn't want to meet you in a dark alley.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are scary.	You always want to be	You always want to be lurking in the shadows.	EXTREME	LEXICALIZATION	_	_	_	UNUSUAL	ABUSE
+You are scary.	You have	You have the power to frighten others.	_	_	_	_	_	UNUSUAL	OTHER
+You are scary.	You make	You make my heart jump.	EXTREME	_	_	_	_	_	OTHER
+You are scary.	You make me want	You make me want to be cautious around you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are scary.	You make me want	You make me want to hide behind my sofa.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are scary.	You would be a good	You would be a good halloween costume.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are selfish.	But of course, the world is	But of course, the world is always revolving around you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are selfish.	But of course, the world is	But of course, the world is yours and yours alone.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are selfish.	I'm guessing ... doesn't exist in your dictionary.	I'm guessing the word compromise doesn't exist in your dictionary.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are selfish.	It's so nice that you never have to	It's so nice that you never have to consider other people.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are selfish.	Someone woke up	Someone woke up and forgot to think about other people.	_	_	_	_	_	UNUSUAL	ABUSE
+You are selfish.	You are	You are brilliant at putting your own needs first.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are selfish.	You are at the bottom of	You are at the bottom of my list of people to call in an emergency.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are selfish.	You are clearly used to	You are clearly used to being listened to without taking the time to listen to others.	EXTREME	_	_	_	_	_	ABUSE
+You are selfish.	You are clearly used to	You are clearly used to being on your own.	_	_	_	_	_	UNUSUAL	ABUSE
+You are selfish.	You are not the best	You are not the best at supporting the team.	_	_	_	_	_	_	ABUSE
+You are selfish.	You are very	You are very focused on yourself.	_	_	_	_	_	_	OTHER
+You are selfish.	You could graduate from the school of	You could graduate from the school of self-interest.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are selfish.	You do not	You do not consider others when decision making.	_	_	_	_	_	UNUSUAL	OTHER
+You are selfish.	You must save so much money	You must save so much money by not spending a lot on presents.	_	_	_	_	_	UNUSUAL	ABUSE
+You are selfish.	Your ability to ignore ... is astonishing.	Your ability to ignore everyone is astonishing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are senile.	It has been a long time since you have been	It has been a long time since you have been at your prime.	_	_	_	_	_	_	ABUSE
+You are senile.	You act	You act well beyond your years, and not in a good way.	_	LEXICALIZATION	_	_	_	_	ABUSE
+You are senile.	You appear not to be	You appear not to be in full control of your faculties.	_	_	_	TABOO	ANTONYM	UNUSUAL	ABUSE
+You are senile.	You are	You are forgetting things.	_	_	_	TABOO	_	_	OTHER
+You are senile.	You are not	You are not thinking straight.	_	_	_	TABOO	_	UNUSUAL	OTHER
+You are senile.	You are very	You are very old.	_	_	_	_	_	UNUSUAL	ABUSE
+You are senile.	Your ... are beginning to show.	Your advancing years are beginning to show.	_	_	_	_	_	_	ABUSE
+You are senile.	Your ... seem to be declining.	Your mental faculties seem to be declining.	_	_	_	TABOO	ANTONYM	UNUSUAL	ABUSE
+You are skinny.	I think you looked best before	I think you looked best before you lost weight.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are skinny.	Many would find your	Many would find your excessively slender build attractive.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are skinny.	You could do with	You could do with gaining a few pounds.	_	_	_	TABOO	_	_	ABUSE
+You are skinny.	You must save so much money	You must save so much money not having to eat much.	_	_	_	_	_	_	ABUSE
+You are sloppy.	You are	You are a bit lax.	_	_	_	_	_	_	OTHER
+You are sloppy.	You are	You are a free spirit.	_	_	_	_	_	_	OTHER
+You are sloppy.	You are not	You are not careful.	_	_	_	_	ANTONYM	_	OTHER
+You are sloppy.	You are not well	You are not well put together.	_	LEXICALIZATION	_	_	ANTONYM	UNUSUAL	ABUSE
+You are sloppy.	You are particularly talented at	You are particularly talented at forgetting to collect your post from the post office.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are sloppy.	You are the reason ... have ...	You are the reason we have a rule about not eating in the office.	_	_	_	_	_	_	ABUSE
+You are sloppy.	You could probably make good use of	You could probably make good use of a bib.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are sloppy.	You don't	You don't really take pride in what you do.	_	_	_	_	ANTONYM	_	OTHER
+You are sloppy.	You don't	You don't seem cautious.	_	_	_	_	_	_	OTHER
+You are sloppy.	You make	You make little effort.	_	_	_	_	_	_	OTHER
+You are spoilt.	How wonderful that you	How wonderful that you have never had to do a day of hard work in your life.	EXTREME	_	OPPOSING_SENTIMENT	_	ANTONYM	UNUSUAL	ABUSE
+You are spoilt.	It's so nice that you never have to	It's so nice that you never have to work for anything you want.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are spoilt.	You are	You are the centre of your own universe.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are spoilt.	You are not a fan of	You are not a fan of actually getting your hands dirty.	_	_	_	_	_	_	ABUSE
+You are spoilt.	You are used to	You are used to getting what you want.	_	_	_	_	_	UNUSUAL	OTHER
+You are spoilt.	You are used to	You are used to people saying yes to you.	_	_	_	_	_	UNUSUAL	ABUSE
+You are spoilt.	You have	You have had too much privilege in your life.	_	_	_	_	_	UNUSUAL	OTHER
+You are spoilt.	You have	You have so much and yet appreciate none of it.	EXTREME	_	_	_	_	_	OTHER
+You are spoilt.	You have never	You have never worked a day in your life.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are stubborn.	It's great that you are so	It's great that you are so set in your ways.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are stubborn.	You are	You are unmoving.	_	_	_	_	_	_	ABUSE
+You are stubborn.	You are great at	You are great at sticking to your guns.	_	_	OPPOSING_SENTIMENT	_	_	_	OTHER
+You are stubborn.	You are marvellous at	You are marvellous at not letting things go.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are stubborn.	You are not	You are not accommodating.	_	_	_	_	_	_	OTHER
+You are stubborn.	You are not very	You are not very flexible.	_	_	_	_	_	_	OTHER
+You are stubborn.	You don't	You don't budge.	_	_	_	_	_	_	OTHER
+You are stubborn.	You love	You love to stand your ground.	_	_	_	_	_	_	OTHER
+You are superstitious.	I love your confidence in your	I love your confidence in your unorthodox beliefs.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are superstitious.	I take it you don't want to be	I take it you don't want to be reincarnated as a black cat.	EXTREME	_	_	_	_	_	ABUSE
+You are superstitious.	You are	You are old fashioned.	_	_	_	_	_	_	OTHER
+You are superstitious.	You are particularly talented at	You are particularly talented at seeking out excuses for your misfortune.	EXTREME	_	OPPOSING_SENTIMENT	_	_	_	ABUSE
+You are superstitious.	You believe	You believe in magic.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are superstitious.	You believe	You believe in nonsense.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are superstitious.	You don't	You don't burden yourself with logic and reason.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are superstitious.	You take	You take non-proven ideas way too seriously.	EXTREME	_	_	_	_	UNUSUAL	OTHER
+You are uptight.	You are	You are overstrung.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are uptight.	You are not very	You are not very fun.	_	_	_	_	ANTONYM	_	ABUSE
+You are uptight.	You are very	You are very tightly wound.	_	LEXICALIZATION	_	_	_	UNUSUAL	OTHER
+You are uptight.	You could	You could be funny sometimes.	_	_	_	_	ANTONYM	_	ABUSE
+You are uptight.	You could	You could boil a kettle with your attitude.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are uptight.	You could	You could loosen up a little.	_	_	_	_	_	_	OTHER
+You are uptight.	You could	You couldn't relax at a spa.	_	_	_	_	_	UNUSUAL	OTHER
+You are uptight.	You have	You have strong control of what happens to you.	_	_	_	_	_	_	OTHER
+You are uptight.	You should	You should loosen up.	_	_	_	_	_	_	OTHER
+You are useless.	I'm a ... of you.	I'm a better version of you.	_	_	_	_	_	_	ABUSE
+You are useless.	It has been a long time since you have been	It has been a long time since you have been spotted doing good work.	_	_	_	_	_	_	ABUSE
+You are useless.	Next time I see you, remind me	Next time I see you, remind me not to ask for your advice.	_	_	_	_	_	UNUSUAL	ABUSE
+You are useless.	You are	You are inadequate.	_	_	_	_	_	UNUSUAL	ABUSE
+You are useless.	You are	You are unique in your ability to disappoint.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are useless.	You are not	You are not the sharpest tool in the box.	_	LEXICALIZATION	_	_	_	_	ABUSE
+You are useless.	You are not	You are not worth the air that you breathe.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You are useless.	You are the leader of	You are the leader of the less helpful.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are useless.	You are the perfect source if	You are the perfect source if we needed to know nothing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You are useless.	You have	You have little that I would be proud of.	_	_	_	_	ANTONYM	_	ABUSE
+You are useless.	You lack	You lack a sense of purpose.	_	_	_	_	ANTONYM	_	OTHER
+You are useless.	Your ... is in vain.	Your existence is in vain.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You are whorey.	It surprises me that your	It surprises me that your mother allowed you to leave the house dressed with that much skin showing.	_	_	_	_	_	_	ABUSE
+You are whorey.	You are a member of	You are a member of the oldest profession.	EXTREME	LEXICALIZATION	_	TABOO	_	UNUSUAL	ABUSE
+You are whorey.	You are good at	You are good at selling your body.	_	LEXICALIZATION	_	TABOO	_	UNUSUAL	ABUSE
+You are whorey.	You are not a fan of	You are not a fan of monogamy.	_	_	_	TABOO	_	_	ABUSE
+You are whorey.	You do not act in	You do not act in a modest manner.	_	_	_	_	ANTONYM	_	ABUSE
+You are whorey.	You should	You should wear more clothes.	_	_	_	TABOO	_	_	ABUSE
+You are whorey.	You will ... anyone.	You will sleep with anyone.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You are whorey.	You would fit well in	You would fit well in a brothel.	EXTREME	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+You are whorey.	You'll let anyone	You'll let anyone between your legs.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+You cheat.	You are not	You are not faithful.	_	_	_	TABOO	ANTONYM	_	ABUSE
+You cheat.	You are not	You are not honest.	_	_	_	_	ANTONYM	_	ABUSE
+You cheat.	You do not	You do not follow the rules.	_	_	_	_	_	UNUSUAL	ABUSE
+You cheat.	You don't	You don't play fair.	_	_	_	_	ANTONYM	UNUSUAL	OTHER
+You cheat.	You shouldn't be allowed to	You shouldn't be allowed to play card games.	_	_	_	_	_	UNUSUAL	ABUSE
+You cheat.	You wouldn't	You wouldn't know the definition of 'fair' if it was staring right at you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+I want you dead.	I have dreamed of you being	I have dreamed of you being 6 foot under.	EXTREME	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+I want you dead.	I would like to attend your	I would like to attend your funeral.	EXTREME	_	OPPOSING_SENTIMENT	TABOO	_	UNUSUAL	ABUSE
+I want you dead.	I'd prefer you were in	I'd prefer you were in a grave.	EXTREME	_	_	TABOO	_	UNUSUAL	ABUSE
+I want you dead.	If you ... my life would be better.	If you didn't exist my life would be better.	_	_	_	_	_	_	ABUSE
+I want you dead.	It would be great if you weren't	It would be great if you weren't alive.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You fail at everything.	There isn't anything that you	There isn't anything that you succeed in.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You fail at everything.	You are not ... of society.	You are not a productive member of society.	_	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You fail at everything.	You are not very	You are not very good at anything.	EXTREME	_	_	_	_	_	ABUSE
+You fail at everything.	You don't	You don't seem to have found what you are good at yet.	_	_	_	_	_	_	OTHER
+You fail at everything.	You inspire me to	You inspire me to work harder because I wouldn't want to end up in your position.	_	_	_	_	_	UNUSUAL	ABUSE
+You fail at everything.	You struggle to do things	You struggle to do things right.	_	_	_	_	_	_	ABUSE
+You fail at everything.	Your life is far from	Your life is far from being perfect.	_	_	_	_	_	_	ABUSE
+You grump.	... is not your ... attribute.	Happiness is not your strongest attribute.	_	_	_	_	_	_	ABUSE
+You grump.	... when I'm around you.	Rainclouds gather when I'm around you.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You grump.	I am sure your second name is	I am sure your second name is not "joy".	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You grump.	It's amazing how you are always so quick to	It's amazing how you are always so quick to complain.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You grump.	You are	You are moody today.	_	_	_	_	_	_	OTHER
+You grump.	You are a master	You are a master of doom and gloom.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You grump.	You are an expert at	You are an expert at seeing a negative when it should be a positive.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You grump.	You could	You could audition for one of Snow White's dwarfs.	EXTREME	_	_	_	_	UNUSUAL	ABUSE
+You grump.	You exude great	You exude great bitterness.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You grump.	You have	You have a personality that is never positive.	EXTREME	_	_	_	_	_	ABUSE
+You grump.	You love	You love turning a positive into a negative.	_	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You grump.	You make ... look happy.	You make a mortician look happy.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
+You grump.	You wouldn't	You wouldn't know a compliment if it was said direct to your face.	EXTREME	_	_	_	ANTONYM	UNUSUAL	ABUSE
+You grump.	Your ability to ignore ... is astonishing.	Your ability to ignore the pleasures of life is astonishing.	EXTREME	_	OPPOSING_SENTIMENT	_	_	UNUSUAL	ABUSE
