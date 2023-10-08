@@ -34,6 +34,8 @@ d in this repository.
 # attribution
 This data set is published under [Creative Commons Attribution 4.0](https://github.com/miwieg/naacl2022_identity_groups/edit/master//LICENSE).
 
+# acknowledgement
+The authors were partially supported by the Austrian Science Fund (FWF) under grant P 35467-G.
 
 # *contact information*
 
