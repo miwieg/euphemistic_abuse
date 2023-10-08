@@ -43,6 +43,10 @@ Please direct any questions that you have about this software to Michael Wiegand
 
 Michael Wiegand email: michael.wiegand@aau.at
 
+
+[![DOI](https://zenodo.org/badge/679230505.svg)](https://zenodo.org/badge/latestdoi/679230505)
+
+
 # *reference*
 
 M. Wiegand, J. Kampfmeier, E. Eder, J. Ruppenhofer: "Euphemistic Abuse -- A New Dataset and Classification Experiments for Implicitly Abusive Language", in EMNLP, 2023.
