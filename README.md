@@ -39,7 +39,7 @@ The research was partially supported by the Austrian Science Fund (FWF) under gr
 
 # *contact information*
 
-Please direct any questions that you have about this software to Michael Wiegand at Alpen-Adria Universitaet Klagenfurt.
+Please direct any questions that you have about this software to Michael Wiegand at Alpen-Adria-Universitaet Klagenfurt.
 
 Michael Wiegand email: michael.wiegand@aau.at
 
