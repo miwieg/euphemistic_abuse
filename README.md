@@ -43,4 +43,4 @@ Michael Wiegand email: michael.wiegand@aau.at
 
 # *reference*
 
-M. Wiegand, J. Kampfmeier, E. Eder, J. Ruppenhofer: "Euphemistic Abuse -- A New Dataset and Classification Experiments for Implicitly Abusive Language", in ??, ????.
+M. Wiegand, J. Kampfmeier, E. Eder, J. Ruppenhofer: "Euphemistic Abuse -- A New Dataset and Classification Experiments for Implicitly Abusive Language", in EMNLP, 2023.
