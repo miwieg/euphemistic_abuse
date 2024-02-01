@@ -34,13 +34,18 @@ d in this repository.
 # attribution
 This data set is published under [Creative Commons Attribution 4.0](https://github.com/miwieg/naacl2022_identity_groups/edit/master//LICENSE).
 
+# acknowledgement
+The research was partially supported by the Austrian Science Fund (FWF): P 35467-G.
 
 # *contact information*
 
-Please direct any questions that you have about this software to Michael Wiegand at Alpen-Adria Universitaet Klagenfurt.
+Please direct any questions that you have about this software to Michael Wiegand at Alpen-Adria-Universitaet Klagenfurt.
 
 Michael Wiegand email: michael.wiegand@aau.at
 
+
 # *reference*
 
-M. Wiegand, J. Kampfmeier, E. Eder, J. Ruppenhofer: "Euphemistic Abuse -- A New Dataset and Classification Experiments for Implicitly Abusive Language", in ??, ????.
+M. Wiegand, J. Kampfmeier, E. Eder, J. Ruppenhofer: "Euphemistic Abuse -- A New Dataset and Classification Experiments for Implicitly Abusive Language", in EMNLP, 2023.
+
+[![DOI](https://zenodo.org/badge/679230505.svg)](https://zenodo.org/badge/latestdoi/679230505)
